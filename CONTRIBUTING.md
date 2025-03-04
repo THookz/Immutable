@@ -50,7 +50,3 @@ By submitting content, you agree to the CC BY-NC-SA 4.0 License, meaning:
 🚀 Freely given, immutable, and open-source—so truth may stand for generations to come.
 
 5️⃣ Click “Commit Changes”
-
-✅ Now, new contributors will know exactly how to submit content!
-
-Would you like to add a README update linking to CONTRIBUTING.md for better visibility? 🚀
