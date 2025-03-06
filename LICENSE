@@ -1,14 +1,32 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+GNU GENERAL PUBLIC LICENSE  
+Version 3, 29 June 2007  
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Copyright (C) 2024 Immutable Project  
 
-You are free to:
-✔ Share — copy and redistribute the material in any medium or format
-✔ Adapt — remix, transform, and build upon the material
+Everyone is permitted to copy and distribute verbatim copies  
+of this license document, but changing it is not allowed.  
 
-Under the following terms:
-❌ No Commercial Use — You may not use the material for commercial purposes.
-✅ Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-♻ ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+Preamble  
 
-License details: https://creativecommons.org/licenses/by-nc-sa/4.0/
+The GNU General Public License is a free, copyleft license for software and other kinds of works.  
+
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program—to make sure it remains free software for all its users.  
+
+You can **use, modify, and distribute this software freely** under the following conditions:  
+
+**1. Freedom to Use & Modify**  
+✔ You can use this software for any purpose.  
+✔ You can modify it as needed.  
+
+**2. Freedom to Share**  
+✔ You can redistribute copies, but you must keep it under this same license.  
+✔ If you modify it, your version must also be **open-source**.  
+
+**3. No Proprietary Takeover**  
+✔ No one can take this software and make it **closed-source or proprietary**.  
+
+**4. No Liability**  
+✔ This software comes **without any warranty**—use at your own risk.  
+
+For the full legal text, visit:  
+🔗 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)  
