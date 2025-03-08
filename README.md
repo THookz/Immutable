@@ -22,8 +22,10 @@ Throughout time, historical truths, ancient knowledge, and prophetic insights ha
 
 📚 Key Historical References
 
+[The Geneva Bible, 1599](https://bafybeif3vahxl7qepgxwiuym4yx4fgn3nwimfqhpb5jaqsts4ydtfp4lny.ipfs.w3s.link/GenevaBible.pdf)
+
  The History of the Christian Church (Philip Schaff)
-	[1.	[0-100 AD – Early Church History](https://bafybeiekpl6nqwo5kz5k4qmgwo5f3e4ilrd3vkmecjx6ajjmaddr2ues6q.ipfs.w3s.link/History-Of-The-Christian-Church-01.pdf)
+	[1.	0-100 AD – Early Church History](https://bafybeiekpl6nqwo5kz5k4qmgwo5f3e4ilrd3vkmecjx6ajjmaddr2ues6q.ipfs.w3s.link/History-Of-The-Christian-Church-01.pdf)
 	[2.	100-325 AD – Christianity under Persecution & Early Councils](https://bafybeien7jecrd3kenxxbvkjmm4op3vcpef3arspb7rtigzy7es72thzea.ipfs.w3s.link/History-Of-The-Christian-Church-02.pdf)
 	[3.	311-600 AD – Constantine, Church-State Alliance](https://bafybeifybhwroffbk4zemaodqow63ovgg4wpcx26kqjldnkrgwnxzqvgfe.ipfs.w3s.link/History-Of-The-Christian-Church-03.pdf)
 	[4.	590-1073 AD – Medieval Christianity](https://bafybeibsmpi5tsv6x5qpvqlc7kxltnggnhocn473fpnfdok3xkwziy4h2q.ipfs.w3s.link/History-Of-The-Christian-Church-04.pdf)
