@@ -14,7 +14,7 @@ If you possess rare, suppressed, or undisclosed historical materials—including
 
 🚀 You are invited to share them with us for preservation! Immutable ensures decentralized, censorship-resistant storage, guaranteeing that history cannot be erased.
 
-📜 Please see the [README](README.md) for an overview of the project and key historical references.
+📜 Please [See the README](README.md) for an overview of the project and key historical references.
 
 📖 How to Contribute
 
@@ -26,7 +26,7 @@ If you possess rare, suppressed, or undisclosed historical materials—including
 🔹 Enhance Blockchain Integrations – Strengthening IBC, Akash, Secret Network, and decentralized storage
 🔹 Transcribe & Digitize Texts – Convert historical texts into searchable, structured formats (TXT, MD, PDF)
 
-📜 (See the README)[README.md]for key historical references and IPFS links.
+📜 [See the README](README.md) for key historical references and IPFS links.
 
 🛠 Contribution Guidelines
 
@@ -56,7 +56,7 @@ If you possess rare, suppressed, or undisclosed historical materials—including
 6️⃣ Submit a Pull Request
 	•	Open a PR with a clear description of your contribution
 
-📜 See the README.md for historical records and structured references.
+📜 [See the README](README.md)  for historical records and structured references.
 
 🔹 Areas Where You Can Contribute
 
