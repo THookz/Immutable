@@ -11,33 +11,30 @@ Throughout time, historical truths, ancient knowledge, and prophetic insights ha
 💡 Immutable is dedicated to rediscovering these truths—faster, more efficiently, and without censorship—ensuring that knowledge remains freely available to all.
 
 🔹 Unveiling prophetic fulfillment
+
 🔹 Analyzing Bible translations & their doctrinal impact
+
 🔹 Restoring lost historical records
+
 🔹 Understanding the role of political and religious power in shaping knowledge
+
 🔹 Preserving linguistic integrity and original meanings of key texts
 
 📚 Key Historical References
 
  The History of the Christian Church (Philip Schaff)
 	[1.	[0-100 AD – Early Church History](https://bafybeiekpl6nqwo5kz5k4qmgwo5f3e4ilrd3vkmecjx6ajjmaddr2ues6q.ipfs.w3s.link/History-Of-The-Christian-Church-01.pdf)
-
 	[2.	100-325 AD – Christianity under Persecution & Early Councils](https://bafybeien7jecrd3kenxxbvkjmm4op3vcpef3arspb7rtigzy7es72thzea.ipfs.w3s.link/History-Of-The-Christian-Church-02.pdf)
-
 	[3.	311-600 AD – Constantine, Church-State Alliance](https://bafybeifybhwroffbk4zemaodqow63ovgg4wpcx26kqjldnkrgwnxzqvgfe.ipfs.w3s.link/History-Of-The-Christian-Church-03.pdf)
-
 	[4.	590-1073 AD – Medieval Christianity](https://bafybeibsmpi5tsv6x5qpvqlc7kxltnggnhocn473fpnfdok3xkwziy4h2q.ipfs.w3s.link/History-Of-The-Christian-Church-04.pdf)
-
 	[5.	1049-1294 AD – The Middle Ages, Crusades, Papal Power](https://bafybeiayp3mee6y523jix5xjvmqd75kyiuraz2mptyy7ayseay754gwkd4.ipfs.w3s.link/History-Of-The-Christian-Church-05.pdf)
-
 	[6.	1294-1517 AD – Late Middle Ages & Early Dissenters](https://bafybeigstzwkc3ben7bumggrj2orq6jjb4gnaqfwxfcxjo7t3ojqu6kpuy.ipfs.w3s.link/History-Of-The-Christian-Church-06.pdf)
-
 	[7.	Modern Christianity – The German Reformation](https://bafybeiccepga3pk3vyhwtq2ws7qccjgihmhcpc4xlxq56w27gxeuuuu2jy.ipfs.w3s.link/History-Of-The-Christian-Church-07.pdf)
-
 	[8.	Modern Christianity – The Swiss Reformation](https://bafybeicxrgd7gnv2pbcbhmn4cuonewahlbbsbgrsnriswhssidyj4k6xii.ipfs.w3s.link/History-Of-The-Christian-Church-08.pdf)
 
 
 📖 Bible Translation Studies
-	•	[The Bible and Bible Translations](https://bafybeibpm4rsxhlag73o7gpkmbbhwwjdgnrklli3lqajj4hwoekaz365im.ipfs.w3s.link/The-Bible-and-Bible-Translations.pdf)
+	   •	[The Bible and Bible Translations](https://bafybeibpm4rsxhlag73o7gpkmbbhwwjdgnrklli3lqajj4hwoekaz365im.ipfs.w3s.link/The-Bible-and-Bible-Translations.pdf)
 
 
 📚 The Gospel in the Torah
@@ -45,7 +42,7 @@ Throughout time, historical truths, ancient knowledge, and prophetic insights ha
 
 
 🔥 The Reformation & Counter-Reformation
-	•	[History of the Reformation of the 16th Century](https://bafybeigfcon7n4hgcem2e72uuzshesq2lroqz22fqnzhcg5yapxxs7moge.ipfs.w3s.link/History-Of-The-Reformation.pdf)
+	   •	[History of the Reformation of the 16th Century](https://bafybeigfcon7n4hgcem2e72uuzshesq2lroqz22fqnzhcg5yapxxs7moge.ipfs.w3s.link/History-Of-The-Reformation.pdf)
 
 
 🔹 Many Alliances in the 20th century...
@@ -60,3 +57,17 @@ Throughout time, historical truths, ancient knowledge, and prophetic insights ha
 [Be Wise as Serpents] (https://bafybeih3k2ophkmquswy25uiilpyr5shmovfckbtuwtpbb2tthnwkidz6e.ipfs.w3s.link/Be%20Wise%20as%20Serpents.pdf)
 
 Jesus told his disciples: "BE WISE AS SERPENTS HARMLESS AS DOVES"
+
+📜 Dual Licensing  
+
+This project is dual-licensed to protect both the historical records and the open-source blockchain infrastructure:  
+
+- 📖 Historical Content (Bible texts, historical records, prophecy records, martyrs' testimonies, typology studies)  
+  - Licensed under [Creative Commons BY-NC-SA 4.0](CONTENT_LICENSE.md)  
+  - Ensures history is freely available, protected from commercial exploitation, and immutable
+
+- 🛠 Blockchain & Software Components (IBC, Sentinel DVPN, Akash, APIs, decentralized storage)  
+  - Licensed under [GNU General Public License v3 (GPL v3)](LICENSE)
+  - Guarantees all modifications remain open-sourceband prevents proprietary control  
+
+📜 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute to the project!
