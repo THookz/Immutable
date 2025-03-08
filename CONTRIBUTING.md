@@ -26,7 +26,7 @@ If you possess rare, suppressed, or undisclosed historical materials—including
 🔹 Enhance Blockchain Integrations – Strengthening IBC, Akash, Secret Network, and decentralized storage
 🔹 Transcribe & Digitize Texts – Convert historical texts into searchable, structured formats (TXT, MD, PDF)
 
-📜 [See the README)[README.md]for key historical references and IPFS links.
+📜 (See the README)[README.md]for key historical references and IPFS links.
 
 🛠 Contribution Guidelines
 
