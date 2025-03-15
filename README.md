@@ -73,9 +73,17 @@ The History of the Christian Church (Philip Schaff)
 • [IBM & The Holocaust](https://bafybeibfnhwgvuuz3gcvkkj2uqz7khrgi63h3uh55c3jbvcaxfra3epddy.ipfs.w3s.link/IBM%20and%20The%20Holocaust.pdf)
 
 
-🌍 Behind the scenes...two worlds between..one above and one beneath
+🌍 Behind the scenes...two worlds between..one above and one beneath, the NWO bites its teeth
 
 • [Be Wise as Serpents](https://bafybeih3k2ophkmquswy25uiilpyr5shmovfckbtuwtpbb2tthnwkidz6e.ipfs.w3s.link/Be%20Wise%20as%20Serpents.pdf)
+
+• [OPERATION VAMPIRE KILLER, 2000](https://bafybeiecwrsldzs2r5nxmwsgb74fdam5oui5eduj4uzewfm42g3nqk2vla.ipfs.w3s.link/Operation%20Vampire%20Killer%202000%20Police%20Against%20the%20New%20World%20Order.pdf)
+
+• [FEMA, The Secret Government](https://bafybeibyqbevcgprtcnxm4zm5an7lp4tssvlvkrofdxyeb7gvhphk4ykby.ipfs.w3s.link/FEMA%20-%20The%20Secret%20Government.pdf)
+
+• 
+
+•
 
 
 🔬 The Science of Creation vs Evolution 
