@@ -81,9 +81,9 @@ The History of the Christian Church (Philip Schaff)
 
 • [FEMA, The Secret Government](https://bafybeibyqbevcgprtcnxm4zm5an7lp4tssvlvkrofdxyeb7gvhphk4ykby.ipfs.w3s.link/FEMA%20-%20The%20Secret%20Government.pdf)
 
-• 
+• [PAWNS in the GAME, by William Guy Carr](https://bafybeidnymswczunn5ukb2keoznwg4wu3a37gweki7k4ngg7gvxel73gpq.ipfs.w3s.link/pawnsinthegame.pdf)
 
-•
+• 
 
 
 🔬 The Science of Creation vs Evolution 
