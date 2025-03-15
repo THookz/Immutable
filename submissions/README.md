@@ -4,7 +4,7 @@ Welcome to the Immutable Submissions Directory! Here, contributors can add histo
 
  📂 Folder Structure:
 - historical/ → Early church, Banned histories, Reformation, political influence, secret societies, persecution records, lost manuscripts.
-- translations/ → Bible versions, Apocrypha, linguistic research, concordance studies.
+- translations/ → Bible versions, linguistic research (Hebrew, Greek, Aramaic), concordance studies.
 - suppressed-books/ → Banned histories, political influence, secret societies.
 - prophecy/ → Biblical prophecy, typology studies, fulfillment records.
 - decentralized-storage/ → IPFS, Jackal, Secret Network, IBC integrations, Sentinel DVPN.
