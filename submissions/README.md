@@ -9,4 +9,4 @@ Welcome to the Immutable Submissions Directory! Here, contributors can add histo
 - prophecy/ → Biblical prophecy, typology studies, fulfillment records.
 - decentralized-storage/ → IPFS, Jackal, Secret Network, IBC integrations, Sentinel DVPN.
 
-📜 For submission instructions, see [SUBMISSION_GUIDE.md](../SUBMISSION_GUIDE.md)
+📜 For submission instructions, see [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md)
