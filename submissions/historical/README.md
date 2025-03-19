@@ -27,3 +27,6 @@ The History of the Christian Church (Philip Schaff)
 [7.	Modern Christianity – The German Reformation](https://bafybeiccepga3pk3vyhwtq2ws7qccjgihmhcpc4xlxq56w27gxeuuuu2jy.ipfs.w3s.link/History-Of-The-Christian-Church-07.pdf)
 
 [8.	Modern Christianity – The Swiss Reformation](https://bafybeicxrgd7gnv2pbcbhmn4cuonewahlbbsbgrsnriswhssidyj4k6xii.ipfs.w3s.link/History-Of-The-Christian-Church-08.pdf)
+
+
+[History of the Reformation of the 16th Century](https://bafybeigfcon7n4hgcem2e72uuzshesq2lroqz22fqnzhcg5yapxxs7moge.ipfs.w3s.link/History-Of-The-Reformation.pdf)  
