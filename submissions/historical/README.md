@@ -29,7 +29,6 @@ The History of the Christian Church (Philip Schaff)
 [8.	Modern Christianity – The Swiss Reformation](https://bafybeicxrgd7gnv2pbcbhmn4cuonewahlbbsbgrsnriswhssidyj4k6xii.ipfs.w3s.link/History-Of-The-Christian-Church-08.pdf)
 
 
-History of the Reformation of the Sixteenth Century
-by J. H. Merle D’Aubigné
+History of the Reformation of the Sixteenth Century (J. H. Merle D’Aubigné)
 
 [History of the Reformation of the 16th Century](https://bafybeigfcon7n4hgcem2e72uuzshesq2lroqz22fqnzhcg5yapxxs7moge.ipfs.w3s.link/History-Of-The-Reformation.pdf)  
