@@ -29,3 +29,8 @@ A groundbreaking investigation into how IBM’s technology enabled the Nazi regi
 A controversial exposé tracing secret societies, political revolutions, and hidden influences behind global conflicts. First published in 1958, this book has been heavily criticized and censored for linking spiritual deception with geopolitical manipulation. Preserved here for historical research and open analysis
 
 [Pawns in The Game, By William Guy Carr](https://bafybeidnymswczunn5ukb2keoznwg4wu3a37gweki7k4ngg7gvxel73gpq.ipfs.w3s.link/pawnsinthegame.pdf)
+
+
+A deeply investigative work that explores the infiltration of Christian institutions by occult and secret societies. With extensive historical references, Springmeier outlines how spiritual deception has been used to manipulate religious and political movements. Banned in various circles for its uncompromising exposure of hidden agendas, this book is preserved for open examination and historical integrity
+
+[Be Wise as Serpents, By Fritz Springmeier](https://bafybeih3k2ophkmquswy25uiilpyr5shmovfckbtuwtpbb2tthnwkidz6e.ipfs.w3s.link/Be%20Wise%20as%20Serpents.pdf)
