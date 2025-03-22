@@ -19,3 +19,6 @@ The original 1611 edition of the King James Bible, featuring archaic spelling an
 
 - [The Holy Bible - 1611 King James Version](https://bafybeigjaa6mkofcjbr3bk6x5a5qx7c42pbig4ahmqoxp6hz7upqupgzg4.ipfs.w3s.link/The%20Holy%20Bible%20from%201611%20(KJV).pdf)
 
+A historic English Bible translation predating the KJV, beloved by the Reformers. It was the primary Bible of the Puritans and Pilgrims and contains extensive marginal notes reflecting Reformation theology
+
+- [The Geneva Bible](https://bafybeif3vahxl7qepgxwiuym4yx4fgn3nwimfqhpb5jaqsts4ydtfp4lny.ipfs.w3s.link/GenevaBible.pdf)
