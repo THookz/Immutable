@@ -10,3 +10,10 @@ This folder contains various Bible translations, linguistic studies, and researc
 - Translation Accuracy Comparisons
 
 ✅ Click "Commit New File" ✅
+
+
+📖 Bible Translations
+
+This project seeks to preserve accurate, public-domain Bible translations that reflect historical context and textual integrity.
+	•	[The Holy Bible - 1611 King James Version](https://bafybeigjaa6mkofcjbr3bk6x5a5qx7c42pbig4ahmqoxp6hz7upqupgzg4.ipfs.w3s.link/The%20Holy%20Bible%20from%201611%20(KJV).pdf)
+The original 1611 edition of the King James Bible, featuring archaic spelling and formatting, preserved in its authentic historical form
