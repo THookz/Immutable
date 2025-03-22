@@ -8,6 +8,11 @@ This folder contains historical records of books that were censored, banned, or 
 - Secret Societies & Their Role in Religion and Politics
 - Alternative Religious & Historical Perspectives
 
+ 📜 Why Decentralized Storage Matters
+
+These books were banned, suppressed, or quietly erased from mainstream awareness—not because they were false, but because they were inconvenient. Through decentralized technologies like IPFS, Jackal, and IBC-integrated networks, we ensure these critical documents are not only preserved, but uncensorable, immutable, and globally accessible—free from the control of governments, corporations, or religious institutions. This is truth defense by design
+
+
 ✅ Click "Commit New File" ✅
 
 
