@@ -2,6 +2,8 @@
 
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecy fulfillment, and historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 🚀 Freely given, immutable, and open-source—so truth may endure for all time.
 
 🌍 Recovering Suppressed Knowledge & Forgotten History
