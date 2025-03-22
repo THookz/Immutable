@@ -20,6 +20,12 @@ A controversial political exposé analyzing 20th-century alliances between relig
 
 [THE VATICAN MOSCOW WASHINGTON ALLIANCE By Avro Manhattan](https://bafybeievqghvnqsdfu4aqmzxkt7a6soacrk7bke2zgckkoxwtzs3ghovxm.ipfs.w3s.link/the-vatican-moscow-washington-alliance-avro-manhattan.pdf)
 
+
 A groundbreaking investigation into how IBM’s technology enabled the Nazi regime to organize the Holocaust. Censored in many circles for exposing corporate complicity in genocide.
 
 [IBM AND THE HOLOCAUST](https://bafybeibfnhwgvuuz3gcvkkj2uqz7khrgi63h3uh55c3jbvcaxfra3epddy.ipfs.w3s.link/IBM%20and%20The%20Holocaust.pdf)
+
+
+A controversial exposé tracing secret societies, political revolutions, and hidden influences behind global conflicts. First published in 1958, this book has been heavily criticized and censored for linking spiritual deception with geopolitical manipulation. Preserved here for historical research and open analysis
+
+[Pawns in The Game, By William Guy Carr](https://bafybeidnymswczunn5ukb2keoznwg4wu3a37gweki7k4ngg7gvxel73gpq.ipfs.w3s.link/pawnsinthegame.pdf)
