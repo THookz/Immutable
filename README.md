@@ -2,7 +2,7 @@
 
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecy fulfillment, and historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations.
 
-https://img.shields.io/badge/click-for_submissions-blue 👉 [CLICK HERE FOR SUBMISSIONS](https://github.com/THookz/Immutable/tree/main/submissions)
+👉 [CLICK HERE FOR SUBMISSIONS](https://github.com/THookz/Immutable/tree/main/submissions)
 
 🚀 Freely given, immutable, and open-source—so truth may endure for all time.
 
