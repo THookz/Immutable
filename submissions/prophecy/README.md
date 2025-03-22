@@ -10,6 +10,7 @@ This folder contains research on biblical prophecy, historical fulfillment, and 
 
 ✅ Click "Commit New File" ✅
 
+
 🔮 Prophecy & Typology
 
 This section preserves works that explore how prophecy is woven throughout Scripture—revealed through patterns, typology, and even the natural world.
