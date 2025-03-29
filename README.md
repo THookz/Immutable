@@ -84,7 +84,7 @@ The History of the Christian Church (Philip Schaff)
 
 • [PAWNS in the GAME, by William Guy Carr](https://bafybeidnymswczunn5ukb2keoznwg4wu3a37gweki7k4ngg7gvxel73gpq.ipfs.w3s.link/pawnsinthegame.pdf)
 
-• 
+• TBC
 
 
 🔬 The Science of Creation vs Evolution 
@@ -125,7 +125,6 @@ Idea-Burners & Learners in Code
 
 "The entrance of thy words giveth light; it giveth understanding unto the simple." – Psalm 119:130
 
-
 Mathematicians, Ethicists & Certified Hackers
 
 • - You believe that the guardianship of truth must include digital defense
@@ -133,7 +132,6 @@ Mathematicians, Ethicists & Certified Hackers
 • - You care about data integrity, cryptographic transparency, and reputation-based systems
 
 • - You honor ethical disruption in service of protecting the unspoken
-
 
 Artists, Designers, & Poets of Wireframes
 
@@ -144,6 +142,7 @@ Artists, Designers, & Poets of Wireframes
 • - You may not know how to ship a container—but you know how to carry the vision
 
 "The proof of the elapsisity of time is written not in code, but in the silence that follows its misuse." – Immutable, community note
+
 
 
 Keepers of Memory & History
