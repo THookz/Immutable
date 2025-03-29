@@ -2,7 +2,7 @@
 
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecy fulfillment, and historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations.
 
-👉 [CLICK HERE FOR SUBMISSIONS](https://github.com/THookz/Immutable/tree/main/submissions)
+https://img.shields.io/badge/click-for_submissions-blue [CLICK HERE](
 
 🚀 Freely given, immutable, and open-source—so truth may endure for all time.
 
@@ -96,6 +96,83 @@ The History of the Christian Church (Philip Schaff)
 
 
 Jesus told his disciples: "BE WISE AS SERPENTS HARMLESS AS DOVES"
+
+
+🔧 Builders of the Present, Preservers of the Past
+
+Immutable is a refuge for those who know that truth matters and that censorship is not wisdom. This is not a product. It’s not a pitch. It’s a call to purpose. To preserve what should not be forgotten—and to build what can never be erased.
+
+
+Blockchain Architects & Interchain Visionaries
+
+• - Builders of censorship-resistant infrastructure
+
+• - Developers fluent in modular tools (e.g., Secret Network, IBC, Jackal, Akash, Cosmos)
+
+• - Engineers of the new decentralized record
+
+
+"To everything there is a season... a time to build up, and a time to gather stones together." – Ecclesiastes 3:1-5
+
+License: GNU GPL v3 — to ensure all contributions remain free, transparent, interoperable, open source.
+
+Idea-Burners & Learners in Code
+
+• - You may not have all the syntax—but you’ve got the spark
+
+• - You're here to grow and contribute through action, not just theory
+
+• - You understand that freedom of memory is as sacred as freedom of speech
+
+"The entrance of thy words giveth light; it giveth understanding unto the simple." – Psalm 119:130
+
+
+Mathematicians, Ethicists & Certified Hackers
+
+• - You believe that the guardianship of truth must include digital defense
+
+• - You care about data integrity, cryptographic transparency, and reputation-based systems
+
+• - You honor ethical disruption in service of protecting the unspoken
+
+
+Artists, Designers, & Poets of Wireframes
+
+• - You visualize experiences before they’re rendered
+
+• - You sketch the unseen patterns of data and doctrine alike
+
+• - You may not know how to ship a container—but you know how to carry the vision
+
+"The proof of the elapsisity of time is written not in code, but in the silence that follows its misuse." – Immutable, community note
+
+
+Keepers of Memory & History
+
+• - Scholars, theologians, reformation researchers
+
+• - Truth-seekers who have uncovered forgotten records
+
+• - Those who preserve texts not for profit, but for posterity
+
+"Truth shall spring out of the earth; and righteousness shall look down from heaven." – Psalm 85:11
+
+License: Historical and theological works are protected under the Creative Commons BY-NC-SA 4.0, ensuring their availability for education, reflection, and revelation— but never distortion or profiteering.
+
+
+Why It All Matters
+
+"The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after." – Ecclesiastes 1:9–11, KJV
+
+This is why we build. This is why we archive, why we decentralize, why we preserve.
+
+We are not fighting to be first—we are fighting to remember. To keep what was nearly erased alive for the ones who are yet to come.
+
+
+"Did these documents appear in the libraries of the City of London, in monasteries around the world, or in our own Library of Congress before or after the ‘truth’ was established—with no strong counter-thesis?"
+
+Immutable exists because truth deserves a witness—in history, in code, in design, and in spirit.
+
 
 📜 Dual Licensing  
 
