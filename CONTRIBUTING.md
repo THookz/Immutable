@@ -26,6 +26,40 @@ If you possess rare, suppressed, or undisclosed historical materials—including
 🔹 Enhance Blockchain Integrations – Strengthening IBC, Akash, Secret Network, and decentralized storage
 🔹 Transcribe & Digitize Texts – Convert historical texts into searchable, structured formats (TXT, MD, PDF)
 
+📦 How to Upload Your File to IPFS Using Storacha
+
+Before submitting your document to Immutable, please upload it to IPFS. This ensures your contribution is decentralized, censorship-resistant, and stored immutably.
+
+🔹 We recommend using Storacha Console — a fast and simple tool for IPFS uploads.
+
+✅ Steps to Upload Using Storacha:
+
+	1.	Visit the Upload Console
+Go to: https://console.storacha.network
+
+	2.	Enter Any Email Address
+	•	No wallet needed.
+	•	You may use a private or alias email for privacy — it’s only used to generate access.
+ 
+	3.	Create an Upload Folder (or “Space”)
+	•	This is called a Repo Name on Storacha.
+	•	It organizes your files and becomes part of your IPFS path.
+	•	Example folders: translations, suppressed-books, prophecy, church-history
+ 
+	4.	Upload Your File
+	•	Click Upload
+	•	Select your document (PDF, DOCX, TXT, etc.)
+	•	Place it inside the folder/space you created
+ 
+	5.	Copy Your IPFS Link
+	•	Once uploaded, you’ll receive a link like:
+
+[https://bafybe...<hash>.ipfs.w3s.link/translations/your-file.pdf](https://bafybeifybhwroffbk4zemaodqow63ovgg4wpcx26kqjldnkrgwnxzqvgfe.ipfs.w3s.link/History-Of-The-Christian-Church-03.pdf)
+
+
+	•	Test the link in your browser to confirm it works.
+
+
 📜 [See the README](README.md) for key historical references and IPFS links.
 
 🛠 Contribution Guidelines
