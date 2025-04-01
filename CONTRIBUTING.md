@@ -51,7 +51,7 @@ Go to: https://console.storacha.network
 •	Select your document (PDF, DOCX, TXT, etc.)
 •	Place it inside the folder/space you created
  
-5.      Copy Your IPFS Link
+5. Copy Your IPFS Link
 •	Once uploaded, you’ll receive a link like:
 
 [https://bafybe...<hash>.ipfs.w3s.link/translations/your-file.pdf](https://bafybeifybhwroffbk4zemaodqow63ovgg4wpcx26kqjldnkrgwnxzqvgfe.ipfs.w3s.link/History-Of-The-Christian-Church-03.pdf)
