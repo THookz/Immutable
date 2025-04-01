@@ -1,3 +1,6 @@
+![Immutable Logo](./immutable_logo.png)
+
+
 📜 Immutable: Preserving Truth & Prophecy
 
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecy fulfillment, and historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations.
