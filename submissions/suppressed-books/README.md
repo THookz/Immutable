@@ -34,3 +34,8 @@ A controversial exposé tracing secret societies, political revolutions, and hid
 A deeply investigative work that explores the infiltration of Christian institutions by occult and secret societies. With extensive historical references, Springmeier outlines how spiritual deception has been used to manipulate religious and political movements. Banned in various circles for its uncompromising exposure of hidden agendas, this book is preserved for open examination and historical integrity
 
 [Be Wise as Serpents, By Fritz Springmeier](https://bafybeih3k2ophkmquswy25uiilpyr5shmovfckbtuwtpbb2tthnwkidz6e.ipfs.w3s.link/Be%20Wise%20as%20Serpents.pdf)
+
+
+A powerful and deeply personal account of Clark Butterfield’s transformation from a Roman Catholic priest to a born-again Christian. Written shortly before his death, this book courageously explores the theological contradictions he discovered within Catholicism, his growing disillusionment with institutional religion, and his ultimate spiritual rebirth in Christ. Originally rejected by mainstream publishers due to its bold claims, Night Journey From Rome stands as a testimony of conviction, conscience, and divine calling. It is both a historical witness and a heartfelt appeal to those seeking freedom in Christ beyond manmade traditions.
+
+[Night Journey From Rome](https://bafybeie3stm2b4evncz5f46igv3atim6jcwufju7guoe4fofup5xvbmpim.ipfs.w3s.link/Night%20journey%20from%20Rome.pdf)
