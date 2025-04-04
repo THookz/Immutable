@@ -57,3 +57,10 @@ Quote from the book:
 	“The most potent weapon in the hands of the oppressor is the mind of the oppressed."
 
 [Secret Societies and Psychological Warfare](https://bafybeiaftqvfd5gux3my6hofs6p754lsodicvr6u3l262vte2uiooduxoa.ipfs.w3s.link/secret-societies-and-psychological-warfare.pdf)
+
+
+This powerful exposé, written by a former Catholic nun, lifts the veil on the secretive history and far-reaching influence of the Jesuit Order—often referred to as “the Church’s most dangerous agents.” M.F. Cusack, once a devout insider, details the strategies, political intrigues, and religious subversions used by the Jesuits to manipulate global affairs and consolidate control across centuries. This rare firsthand account is not just a historical document—it’s a warning from within.
+
+A must-read for those seeking to understand the hidden forces behind religious and geopolitical shifts throughout history.
+
+[The Black Pope: A History of the Jesuits By M.F. Cusac](https://bafybeiczyiggdkihinibzaxrc46gr452x6kuwqfs4az7slhnj2gvakfumy.ipfs.w3s.link/The%20Black%20Pope%20-%20A%20History%20of%20the%20Jesuits%20(Mary%20Francis%20Cusack).pdf)
