@@ -39,3 +39,21 @@ A deeply investigative work that explores the infiltration of Christian institut
 A powerful and deeply personal account of Clark Butterfield’s transformation from a Roman Catholic priest to a born-again Christian. Written shortly before his death, this book courageously explores the theological contradictions he discovered within Catholicism, his growing disillusionment with institutional religion, and his ultimate spiritual rebirth in Christ. Originally rejected by mainstream publishers due to its bold claims, Night Journey From Rome stands as a testimony of conviction, conscience, and divine calling. It is both a historical witness and a heartfelt appeal to those seeking freedom in Christ beyond manmade traditions.
 
 [Night Journey From Rome](https://bafybeie3stm2b4evncz5f46igv3atim6jcwufju7guoe4fofup5xvbmpim.ipfs.w3s.link/Night%20journey%20from%20Rome.pdf)
+
+
+In Secret Societies and Psychological Warfare, historian Michael A. Hoffman II presents a chilling exposé on the invisible influence of occult systems and esoteric rituals embedded within modern political, religious, and cultural institutions. Completed just months before the pivotal events of September 11, 2001, this prophetic work dissects how mass manipulation, trauma-based symbolism, and ritualized deception have been used to shape public consciousness and suppress spiritual awakening.
+
+Hoffman argues that hidden elites—what he calls “the Cryptocracy”—employ psychological operations not merely for control but to create spiritual confusion and apathy. The book draws from historical documents, esoteric traditions, and real-world examples to connect the dots between secret societies, religious institutions, state power, and mass media. 
+
+Themes:
+-Occult symbolism in mass culture
+-Psychological manipulation & mind control
+-Secret societies (e.g., Freemasonry, Rosicrucianism)
+-The weaponization of media and ritual
+-The suppression of spiritual and historical truth
+
+Quote from the book:
+
+	“The most potent weapon in the hands of the oppressor is the mind of the oppressed."
+
+[Secret Societies and Psychological Warfare](https://bafybeiaftqvfd5gux3my6hofs6p754lsodicvr6u3l262vte2uiooduxoa.ipfs.w3s.link/secret-societies-and-psychological-warfare.pdf)
