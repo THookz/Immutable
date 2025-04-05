@@ -73,3 +73,12 @@ His arguments systematically expose how tradition and political pressure “defo
 Ockford’s words were nearly lost to time—but now, through decentralized preservation, they can be rediscovered and studied by all.
 
 [The Doctrine of the Fourth Commandement: Deformed by Popery, Reformed & Restored to Its Primitive Purity; By James Ockford, 1650](https://bafybeie2mwlhlot7dp7vd6incimsrciikwd646renxrzp2wgz26wxdsowa.ipfs.w3s.link/%5BTCP%5D%20The%20doctrine%20of%20the%20Fourth%20Commandement%2C%20deformed%20by%20popery%2C%20reformed%20%26%20re.pdf)
+
+
+Charles Chiniquy, a Catholic priest for five decades, offers this courageous and controversial testimony from inside the heart of Roman Catholicism. Exposing manipulation, political entanglements, and deep spiritual conflict, Chiniquy reveals how his conscience and study of the Scriptures ultimately led him to break away—at great personal cost.
+
+A close friend of Abraham Lincoln, who once defended Chiniquy in court, the author draws connections between religious liberty, moral conviction, and the preservation of truth in the face of institutional power.
+
+This work is a rare window into the lived experience of a priest-turned-reformer and remains one of the most compelling firsthand accounts of faith, freedom, and the courage to stand alone.
+
+[50 Years in The Church of Rome](https://bafybeiewunrksen6hxpime5badiwdxk2jbr2gaixmhnmundpl67sspmhy4.ipfs.w3s.link/50%20years%20in%20the%20church%20at%20Rome.pdf)
