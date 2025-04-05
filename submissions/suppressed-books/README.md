@@ -64,3 +64,12 @@ This powerful exposé, written by a former Catholic nun, lifts the veil on the s
 A must-read for those seeking to understand the hidden forces behind religious and geopolitical shifts throughout history.
 
 [The Black Pope: A History of the Jesuits By M.F. Cusac](https://bafybeiczyiggdkihinibzaxrc46gr452x6kuwqfs4az7slhnj2gvakfumy.ipfs.w3s.link/The%20Black%20Pope%20-%20A%20History%20of%20the%20Jesuits%20(Mary%20Francis%20Cusack).pdf)
+
+
+Preserved as a single surviving copy in the Oxford Library, this rare 1650 treatise by James Ockford is a bold defense of the seventh-day Sabbath. Written during a time of great theological turbulence, Ockford challenges the growing institutional shift from Saturday to Sunday observance, arguing from Scripture, logic, and conscience that the seventh day—not the first—is the true Christian Sabbath.
+
+His arguments systematically expose how tradition and political pressure “deformed” the Fourth Commandment, replacing divine law with man-made customs. With objections addressed and truth carefully restored, this forgotten work stands as a remarkable witness to the Sabbath reform movement long before its revival in later centuries.
+
+Ockford’s words were nearly lost to time—but now, through decentralized preservation, they can be rediscovered and studied by all.
+
+[The Doctrine of the Fourth Commandement: Deformed by Popery, Reformed & Restored to Its Primitive Purity; By James Ockford, 1650](https://bafybeie2mwlhlot7dp7vd6incimsrciikwd646renxrzp2wgz26wxdsowa.ipfs.w3s.link/%5BTCP%5D%20The%20doctrine%20of%20the%20Fourth%20Commandement%2C%20deformed%20by%20popery%2C%20reformed%20%26%20re.pdf)
