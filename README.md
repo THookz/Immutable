@@ -6,6 +6,9 @@
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecies with historic parallels, and often forgotten historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations.
 
 
+See [Discussions](https://github.com/THookz/Immutable/discussions/1) for conversation with the community about the deepest truths and questions. All are welcomeed and encouraged to ask questions! 
+
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute
 
 
