@@ -1,4 +1,4 @@
-[Immutable Logo](./immutable_logo.png)
+![Immutable Logo](./immutable_logo.png)
 
 
 📜 Immutable: Preserving Truth & Prophecy
