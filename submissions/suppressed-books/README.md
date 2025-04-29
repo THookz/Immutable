@@ -117,4 +117,18 @@ Proven true by independent documentation, ritual texts, and confirmations from o
 
 [The Deadly Deception](https://bafybeia4x3lm56n4qranmmktska34uhqceunlu7f5id6sda5o4aa3wbntu.ipfs.w3s.link/The-Deadly-Deception%20(freemasonry).pdf)
 
+
 -----
+[The Pope and Mussolini: The Secret History of Pius XI and the Rise of Fascism in Europe](https://bafybeieflnzvgzvwgjkchfzn7gctqr7al47wyujkilzjpujpehtvv2lati.ipfs.w3s.link/David%20I.%20Kertzer%20-%20The%20Pope%20and%20Mussolini_%20The%20Secret%20History%20of%20Pius%20XI%20and%20the%20Rise%20of%20Fascism%20in%20Europe%20(2014%2C%20Random%20House).pdf)
+
+Author: David I. Kertzer
+
+Pulitzer Prize-winning historian David I. Kertzer delves into the complex relationship between Pope Pius XI and Benito Mussolini in this groundbreaking work. Drawing from newly opened Vatican archives and Fascist records, Kertzer reveals how the Vatican and the Fascist regime collaborated to consolidate power in Italy. The book uncovers the mutual interests that led to the Lateran Accords of 1929, granting the Church significant privileges while legitimizing Mussolini’s dictatorship. Kertzer also examines the Pope’s growing disillusionment with Fascism, particularly concerning anti-Semitic laws, and his attempts to distance the Church from Mussolini’s policies before his death in 1939. ￼￼
+
+
+----
+[The Suppressed Truth About the Assassination of Abraham Lincoln](https://bafybeih6fq76hjqrpweo4paqulykgjocm4srstfsahhzli6unhirzh4yia.ipfs.w3s.link/Suppressed%20truth%20about%20the%20assassination%20of%20Abraham%20Lincoln.pdf)
+
+Author: Burke McCarty
+
+Burke McCarty presents a controversial perspective on the assassination of President Abraham Lincoln, suggesting a broader conspiracy involving high-ranking officials and foreign influences. The book posits that Lincoln’s death was not solely the act of John Wilkes Booth but part of a larger plot to undermine the Union and its leadership. McCarty’s narrative challenges mainstream historical accounts, offering an alternative viewpoint that encourages readers to re-examine the events surrounding one of America’s most pivotal moments.
