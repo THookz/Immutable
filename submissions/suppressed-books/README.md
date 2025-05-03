@@ -132,3 +132,27 @@ Pulitzer Prize-winning historian David I. Kertzer delves into the complex relati
 Author: Burke McCarty
 
 Burke McCarty presents a controversial perspective on the assassination of President Abraham Lincoln, suggesting a broader conspiracy involving high-ranking officials and foreign influences. The book posits that Lincoln’s death was not solely the act of John Wilkes Booth but part of a larger plot to undermine the Union and its leadership. McCarty’s narrative challenges mainstream historical accounts, offering an alternative viewpoint that encourages readers to re-examine the events surrounding one of America’s most pivotal moments.
+
+
+-----
+[The Talmud Unmasked](https://bafybeibep6s2qwsj2l4dng2tvpmfcmje6xmenb4omkv7fi5wwozbkxhzxi.ipfs.w3s.link/The_Talimud_Unmasked-Rev_I_B_Prenaitis-1892-92pgs-REL.sml.pdf)
+
+The Talmud Unmasked: The Secret Rabbinical Teachings Concerning Christians
+Author: Rev. I. B. Pranaitis (1892)
+This rare and controversial 19th-century document—written by Russian Catholic priest Rev. I. B. Pranaitis—attempts to examine passages from the Talmud that allegedly speak critically of Christians and Jesus Christ. Published in 1892, the work sparked decades of theological and cultural debate, particularly within Eastern Orthodox and Catholic circles.
+
+While often cited in polemical discussions, The Talmud Unmasked has also been criticized for selective interpretation and lack of rabbinic authority. However, its historical relevance remains notable as a snapshot of interreligious tension during the Russian Empire’s era of religious censorship. For scholars studying early religious apologetics, censorship, and sociopolitical religious narratives, this text offers significant insight into the religious polemics of its time.
+	
+Disclaimer: This document is provided for historical analysis and is not an endorsement of its claims. Readers are encouraged to seek balanced sources and scholarly critique for full understanding.
+
+ 
+-----
+[The Vatican Assassins](https://bafybeidzytuofuqfmswrdskexb7dkelzxpvi7dgobw5vt4s4nvjxwdc7fa.ipfs.w3s.link/Vatican_assassins_by_Eric_John_Phelps%202.pdf)
+
+Vatican Assassins: Wounded in the House of My Friends
+Author: Eric Jon Phelps
+Eric Jon Phelps’ Vatican Assassins is a voluminous and highly detailed account alleging the far-reaching influence of the Jesuit Order in global politics, war, economics, and religious movements. Framed through a Protestant historical lens, this book connects the Jesuit Order to major world events—from the assassination of Abraham Lincoln to the shaping of geopolitical strategy across centuries.
+
+Rooted in hundreds of citations, declassified documents, and first-person testimonies, Phelps’ work challenges readers to consider the role of religious power structures in shaping historical and present-day systems of control. It’s a modern echo of Reformation-era critiques of papal power—particularly focused on the notion that the Jesuits operate as an elite intelligence wing of the Vatican.
+
+This book stands as a synthesis of counter-historical theory and Protestant conspiracy scholarship. It is intended for critical thinkers seeking to explore alternate interpretations of Church history, geopolitics, and the untold power dynamics behind major world shifts.
