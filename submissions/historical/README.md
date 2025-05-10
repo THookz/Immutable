@@ -32,3 +32,19 @@ The History of the Christian Church (Philip Schaff)
 History of the Reformation of the Sixteenth Century (J. H. Merle D’Aubigné)
 
 [History of the Reformation of the 16th Century](https://bafybeigfcon7n4hgcem2e72uuzshesq2lroqz22fqnzhcg5yapxxs7moge.ipfs.w3s.link/History-Of-The-Reformation.pdf)  
+
+
+Foxe’s Book of Martyrs
+Author: John Foxe
+
+Originally published in 1563 during the English Reformation, Foxe’s Book of Martyrs is one of the most influential accounts of Christian persecution in history. Written by English historian and preacher John Foxe, this work meticulously documents the suffering and execution of believers—from the early Church under Roman rule to the brutal Inquisitions and burnings at the stake during the reign of Queen Mary I of England (known as “Bloody Mary”).
+
+Far more than a chronicle of death, Foxe’s work serves as a testimony to the unwavering conviction of those who gave their lives for their faith, often refusing to renounce their beliefs even under extreme torture or threat of execution. These accounts were not just historical; they were deeply spiritual and politically charged, offering Protestant readers of the time a narrative of courage and divine purpose in the face of tyranny.
+
+The book’s enduring impact helped shape Protestant identity across Europe and the New World, reinforcing the call for religious liberty, scriptural access, and moral resistance to ecclesiastical corruption.
+
+	“The blood of the martyrs is the seed of the Church,” Foxe reminds us—making this work not only a memorial but a call to conscience.
+ 
+Included in HistoricTruth.org to preserve these courageous testimonies for future generations, this volume remains essential reading for those seeking to understand the price of conviction, the power of faith, and the long arc of truth in the face of suppression
+
+[Foxes Book of Martyrs](https://bafybeiegu5fp3pb7qz65hxffvk5vltdizn23qdpktyf3avmenmbvkrymmm.ipfs.w3s.link/?filename=Foxes-Book-Of-Martyrs.pdf)
