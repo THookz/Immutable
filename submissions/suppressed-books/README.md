@@ -156,3 +156,19 @@ Eric Jon Phelps’ Vatican Assassins is a voluminous and highly detailed account
 Rooted in hundreds of citations, declassified documents, and first-person testimonies, Phelps’ work challenges readers to consider the role of religious power structures in shaping historical and present-day systems of control. It’s a modern echo of Reformation-era critiques of papal power—particularly focused on the notion that the Jesuits operate as an elite intelligence wing of the Vatican.
 
 This book stands as a synthesis of counter-historical theory and Protestant conspiracy scholarship. It is intended for critical thinkers seeking to explore alternate interpretations of Church history, geopolitics, and the untold power dynamics behind major world shifts.
+
+
+America’s Secret Establishment: An Introduction to the Order of Skull & Bones
+Author: Antony C. Sutton
+
+In this landmark investigative work, economist and historian Antony C. Sutton reveals the hidden structure and influence of one of the most elusive and controversial secret societies in American history: Skull & Bones, the Yale-based fraternal order also known as “The Order.” Originally published in the 1980s, the book outlines Sutton’s thesis that this elite society has played a central role in shaping U.S. domestic and foreign policy, educational institutions, banking, intelligence, and global ideological movements.
+
+With meticulously researched evidence, Sutton connects the dots between Skull & Bones initiates and high-ranking figures in government, industry, and intelligence—suggesting that this inner circle operates less as a conspiracy and more as a self-reinforcing network of influence, deeply embedded in American power structures.
+
+What makes this book especially potent is its challenge to both the left-right paradigm and mainstream historical narratives. Sutton contends that major global events—including wars, economic crises, and ideological shifts—have often been engineered or manipulated through the long arms of interconnected elites.
+
+	“The Order is not just another college fraternity with strange rituals,” Sutton writes. “It is a functioning network with deep influence.”
+ 
+Deemed too controversial by some and widely censored in institutional circles, America’s Secret Establishment remains one of the most piercing examinations of power behind the veil. It is preserved on HistoricTruth.org for scholars, truth-seekers, and citizens committed to understanding the mechanisms of unseen governance.
+
+[AMERICA'S SECRET ESTABLISHMENT AN INTRODUCTION TO THE ORDER Of SKULL & BONES](https://bafybeie6xk4w4e7k4q4inuiha4f36d453scltqshjog7f3hitjcntthlwu.ipfs.w3s.link/Antony%20Sutton%20-%20Americas%20Secret%20Establishment%20An%20Introduction%20to%20Skull%20and%20Bones.pdf)
