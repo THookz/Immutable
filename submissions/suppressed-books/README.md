@@ -172,3 +172,18 @@ What makes this book especially potent is its challenge to both the left-right p
 Deemed too controversial by some and widely censored in institutional circles, America’s Secret Establishment remains one of the most piercing examinations of power behind the veil. It is preserved on HistoricTruth.org for scholars, truth-seekers, and citizens committed to understanding the mechanisms of unseen governance.
 
 [AMERICA'S SECRET ESTABLISHMENT AN INTRODUCTION TO THE ORDER Of SKULL & BONES](https://bafybeie6xk4w4e7k4q4inuiha4f36d453scltqshjog7f3hitjcntthlwu.ipfs.w3s.link/Antony%20Sutton%20-%20Americas%20Secret%20Establishment%20An%20Introduction%20to%20Skull%20and%20Bones.pdf)
+
+
+📕 [The Hidden Dangers of the Rainbow by Constance Cumbey](https://bafybeieszy36beruyxa2lnoap7vlk4xw46gsoaugzfponro5nvushaypxq.ipfs.w3s.link/the-hidden-dangers-of-the-rainbow-the-new-age-movement-and-our-coming-age-of-barbarism-Constance_Cumbey.pdf)
+
+In this groundbreaking exposé, Constance Cumbey—a devout Christian lawyer—peels back the spiritual facade of the New Age Movement to reveal what she believes to be a deeply orchestrated effort to replace Judeo-Christian ethics with a unified global religion. With meticulous research, Cumbey connects the New Age philosophy to Eastern mysticism, Luciferian ideals, and even covert political movements. This book is not only a theological critique but also a cultural warning, arguing that the pursuit of utopia through New Age ideology masks a path toward authoritarianism and moral decay. “The Hidden Dangers of the Rainbow” remains a critical resource for those skeptical of spiritual homogenization and the quiet erasure of biblical foundations from Western society.
+
+
+🔥 [Fire in the Minds of Men: Origins of the Revolutionary Faith by James H. Billington](https://bafybeibxjsiic3oiywd4qnwar7ghljcub7a3ky7pz2axvvcjjzu55uc2oq.ipfs.w3s.link/Fire%20in%20the%20Minds%20of%20Men.pdf)
+
+Authored by a former Librarian of Congress, this dense and deeply researched work explores how revolutionary ideas spread like wildfire through the modern world—not merely through politics and economics, but as a faith. Billington traces the intellectual roots of revolutions across Europe and Russia, arguing that 18th- and 19th-century thinkers fused spiritual yearning with secular rebellion, creating a new kind of ideological fervor. From Masonic lodges to literary salons, from Romantic poets to anarchist philosophers, this book paints a sweeping intellectual history of the flames that ignited the modern age. It’s essential reading for those exploring the intersection of ideology, faith, and power.
+
+
+🧬 [Bloodlines of the Illuminati by Fritz Springmeier](https://bafybeifcvjtkf27m2belcevl5sofx3u4rnitohvnw3cudlb5ynuixqt36y.ipfs.w3s.link/Bloodlines%20of%20the%20Illuminati%20-%20By%20Fritz%20Springmeier.pdf)
+
+Often whispered about and rarely acknowledged in the mainstream, Springmeier’s controversial volume attempts to document the powerful families he claims dominate global affairs from the shadows. With detailed genealogies and historical references, he outlines the alleged methods of control—including manipulation of finance, education, religion, and media—by an elite set of dynastic bloodlines. Whether viewed as a daring investigative report or provocative conspiracy literature, this book is part of a growing corpus challenging official narratives and pointing to a global aristocracy operating beyond public scrutiny. Springmeier asserts that truth seekers must trace the roots to understand the present, and this book aims to be the blueprint.
