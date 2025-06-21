@@ -3,12 +3,14 @@
 This folder contains research and implementations for storing historical records securely using decentralized technology.
 
  📜 Suggested Uploads:
-- IPFS & Jackal for Immutable Storage
-- Secret Network - Privacy-Preserving Data Storage
-- IBC Blockchain Integrations for Data Protection
-- Sentinel DVPN for Censorship-Resistant Access
+- [IPFS](https://www.ipfs.com) & [Jackal](https://www.jackalprotocol.com) for Immutable Storage
+- [Secret Network](https://scrt.network) - Privacy-Preserving Data Storage
+- [IBC](https://tutorials.cosmos.network/academy/1-what-is-cosmos/) Blockchain Integrations for Data Protection
+- [Sentinel DVPN](https://docs.sentinel.co/sentinel-hub) for Censorship-Resistant Access
 
-📦 How to Upload Your File to IPFS Using Storacha
+'All docs, tools, agents, protocols, architecture, audited code with a mission to preserve truth are welcome for submission and further review.'
+
+📦 How to Upload Your File to IPFS Using Storacha 
 
 Before submitting your document to Immutable, please upload it to IPFS. This ensures your contribution is decentralized, censorship-resistant, and stored immutably.
 
@@ -16,7 +18,7 @@ Before submitting your document to Immutable, please upload it to IPFS. This ens
 
 ✅ Steps to Upload Using Storacha:
 
-Visit the Upload Console Go to: https://console.storacha.network
+Visit the Upload Console Go to: [Storcha Console](https://console.storacha.network)
 
 Enter Any Email Address • No wallet needed. • You may use a private or alias email for privacy — it’s only used to generate access.
 
