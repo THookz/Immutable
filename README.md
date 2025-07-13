@@ -5,6 +5,12 @@
 
 A censorship-resistant archive safeguarding martyrs’ testimonies, prophecies with historic parallels, and often forgotten historical records using IBC, IPFS, Jackal, Sentinel DVPN, and decentralized technologies to ensure truth remains immutable for generations. 
 
+Access Notice: Due to regional restrictions and ISP limitations, some IPFS links may require alternative connection methods.
+
+---
+Try mobile data networks or consider using a decentralized VPN like Sentinel DVPN for unrestricted access to preserved documents.
+---
+
 [Submissions](https://github.com/THookz/Immutable/tree/main/submissions)
 
 
