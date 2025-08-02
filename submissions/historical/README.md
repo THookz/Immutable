@@ -48,3 +48,10 @@ The book’s enduring impact helped shape Protestant identity across Europe and 
 Included in HistoricTruth.org to preserve these courageous testimonies for future generations, this volume remains essential reading for those seeking to understand the price of conviction, the power of faith, and the long arc of truth in the face of suppression
 
 [Foxes Book of Martyrs](https://bafybeiegu5fp3pb7qz65hxffvk5vltdizn23qdpktyf3avmenmbvkrymmm.ipfs.w3s.link/?filename=Foxes-Book-Of-Martyrs.pdf)
+
+---
+
+
+A concise yet sobering account detailing the brutal persecution of believers across centuries, this rare booklet exposes the deep historical suffering inflicted in the name of religious power. It presents testimonies of torture, martyrdom, and unwavering faith, shining light on the high cost many paid for spiritual freedom. A must-read for those seeking truth in overlooked history.
+
+[Babylon: Mother Church](https://bafybeif372qgwgi63l7ndyut2dp24ybwk6x7u7nqxgkbockrl526tbzela.ipfs.w3s.link/Babylon-Mother-Church.pdf)
