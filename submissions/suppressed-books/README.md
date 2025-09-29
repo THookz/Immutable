@@ -190,7 +190,7 @@ Often whispered about and rarely acknowledged in the mainstream, Springmeier’s
 
 
 ---
-📕 Rulers of Evil – F. Tupper Saussy
+📕 [Rulers of Evil – F. Tupper Saussy](https://bafybeigxk56pjxkdzfttvbfl65l7iydnyb2b2n3cwq3ngpbo2ctakphklq.ipfs.w3s.link/Rulers%20of%20Evil%2C%20Frederick%20Tupper%20Saussy.pdf)
 
 “What you didn’t know about the formation of the American system of power.”
 
