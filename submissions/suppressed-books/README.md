@@ -187,3 +187,31 @@ Authored by a former Librarian of Congress, this dense and deeply researched wor
 🧬 [Bloodlines of the Illuminati by Fritz Springmeier](https://bafybeifcvjtkf27m2belcevl5sofx3u4rnitohvnw3cudlb5ynuixqt36y.ipfs.w3s.link/Bloodlines%20of%20the%20Illuminati%20-%20By%20Fritz%20Springmeier.pdf)
 
 Often whispered about and rarely acknowledged in the mainstream, Springmeier’s controversial volume attempts to document the powerful families he claims dominate global affairs from the shadows. With detailed genealogies and historical references, he outlines the alleged methods of control—including manipulation of finance, education, religion, and media—by an elite set of dynastic bloodlines. Whether viewed as a daring investigative report or provocative conspiracy literature, this book is part of a growing corpus challenging official narratives and pointing to a global aristocracy operating beyond public scrutiny. Springmeier asserts that truth seekers must trace the roots to understand the present, and this book aims to be the blueprint.
+
+
+---
+📕 Rulers of Evil – F. Tupper Saussy
+
+“What you didn’t know about the formation of the American system of power.”
+
+This bold and controversial book unearths the hidden machinery behind global control, tracing how a Jesuit-influenced elite helped orchestrate the architecture of the American empire. In Rulers of Evil, Saussy meticulously documents the covert rise of religious-political alliances, revealing a web of influence that links Rome, Washington D.C., and the unseen “managers” of history.
+
+🔍 Key Themes:
+	•	The Jesuit Order and its influence on American foundational structures
+	•	Symbolism and the occult architecture of Washington D.C.
+	•	The role of propaganda, psychological operations, and spiritual warfare in governance
+	•	How laws, schools, and churches subtly mold allegiance to globalist ideals
+	•	A trail of primary sources that challenge mainstream historical narratives
+
+⚠️ Why It Was Suppressed:
+Saussy’s book challenges not just political power but spiritual authority, naming names and tracing real institutions. Its sharp critique of the Vatican’s influence in American governance and exposure of historical revisionism made it controversial upon release and difficult to obtain through mainstream outlets.
+
+📚 Use This Resource If You Are:
+	•	Studying the hidden religious underpinnings of Western government
+	•	Looking into Jesuit or Catholic influence in world affairs
+	•	Exploring themes of church-state fusion and prophetic history
+	•	Seeking suppressed or hard-to-find theological and geopolitical analysis
+
+	“Those who rule by deception fear only exposure.”
+— F. Tupper Saussy
+
