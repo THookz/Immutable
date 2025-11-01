@@ -215,3 +215,14 @@ Saussy’s book challenges not just political power but spiritual authority, nam
 	“Those who rule by deception fear only exposure.”
 — F. Tupper Saussy
 
+
+---
+📕 [The Two Babylons](https://amazingdiscoveries.org/ebook/the-two-babylons/download)
+
+An incisive historical study that traces many Christian traditions—especially within the Roman Catholic Church—back to the ancient mysteries of Babylon. With painstaking research, the author uncovers how pagan rites, festivals, and doctrines allegedly merged into mainstream religious practice. This book is a vital resource for anyone exploring typology, prophecy, or the hidden evolution of religious systems.
+
+
+---
+📕 [Billy Graham and His Friends](https://amazingdiscoveries.org/ebook/billy-graham-and-his-friends-by-dr-cathy-burns/download)
+
+In this bold critique, Dr. Cathy Burns examines the global network and influence of mega-evangelist Billy Graham, exposing connections between church leadership, political power, and alleged ideological undercurrents. A must-read for those seeking to understand the intersections of faith, power, and global prophecy
