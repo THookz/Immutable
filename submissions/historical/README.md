@@ -55,3 +55,10 @@ Included in HistoricTruth.org to preserve these courageous testimonies for futur
 A concise yet sobering account detailing the brutal persecution of believers across centuries, this rare booklet exposes the deep historical suffering inflicted in the name of religious power. It presents testimonies of torture, martyrdom, and unwavering faith, shining light on the high cost many paid for spiritual freedom. A must-read for those seeking truth in overlooked history.
 
 [Babylon: Mother Church](https://bafybeif372qgwgi63l7ndyut2dp24ybwk6x7u7nqxgkbockrl526tbzela.ipfs.w3s.link/Babylon-Mother-Church.pdf)
+
+
+Explore the hidden threads of power that weave through centuries of religious and political history. This revealing book uncovers how the Jesuit order, Freemasonry, and the Illuminati influenced not just secret societies—but shaped governments, revolutions, and the flow of faith itself. With painstaking research and bold insight, the author traces the alliances, symbols, and prophetic implications behind the vaults of power.
+
+📕 [Jesuits, Freemasons & the Illuminati](https://amazingdiscoveries.org/ebook/jesuits-freemasons-and-the-illuminati/download) 
+
+prepare to confront truths too often excluded from conventional narratives
