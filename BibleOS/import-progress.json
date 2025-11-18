@@ -62,8 +62,9 @@
     "1 Peter",
     "2 Peter",
     "1 John",
-    "2 John"
+    "2 John",
+    "3 John"
   ],
-  "currentBook": "2 John",
-  "versesImported": 19612
+  "currentBook": "3 John",
+  "versesImported": 19627
 }
