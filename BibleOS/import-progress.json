@@ -40,8 +40,9 @@
     "Zechariah",
     "Zephaniah",
     "Matthew",
-    "Mark"
+    "Mark",
+    "Luke"
   ],
-  "currentBook": "Mark",
-  "versesImported": 13871
+  "currentBook": "Luke",
+  "versesImported": 15020
 }
