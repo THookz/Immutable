@@ -39,8 +39,9 @@
     "Song of Solomon",
     "Zechariah",
     "Zephaniah",
-    "Matthew"
+    "Matthew",
+    "Mark"
   ],
-  "currentBook": "Matthew",
-  "versesImported": 13198
+  "currentBook": "Mark",
+  "versesImported": 13871
 }
