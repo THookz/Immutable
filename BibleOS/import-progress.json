@@ -41,8 +41,9 @@
     "Zephaniah",
     "Matthew",
     "Mark",
-    "Luke"
+    "Luke",
+    "John"
   ],
-  "currentBook": "Luke",
-  "versesImported": 15020
+  "currentBook": "John",
+  "versesImported": 15886
 }
