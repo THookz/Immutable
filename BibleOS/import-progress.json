@@ -44,8 +44,9 @@
     "Luke",
     "John",
     "Acts",
-    "Romans"
+    "Romans",
+    "1 Corinthians"
   ],
-  "currentBook": "Romans",
-  "versesImported": 17318
+  "currentBook": "1 Corinthians",
+  "versesImported": 17755
 }
