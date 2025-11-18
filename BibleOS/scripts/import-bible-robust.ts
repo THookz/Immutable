@@ -6,6 +6,7 @@
 import { parseStringPromise } from 'xml2js';
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
+import { execSync } from 'child_process';
 import { getDb } from '../server/db';
 import { verses } from '../drizzle/schema';
 import { eq } from 'drizzle-orm';
@@ -164,12 +165,13 @@ async function importHebrewBook(file: string, progress: Progress): Promise<numbe
     console.log(`  ✅ ${bookName}: ${bookVerses} verses imported`);
     
     // Auto-commit to GitHub after each book
-    try {
-      const { execSync } = require('child_process');
-      execSync('cd /home/ubuntu/Immutable && git add -A && git commit -m "Import: ' + bookName + ' (${bookVerses} verses)" && git push origin main', { stdio: 'inherit' });
-      console.log(`  💾 Committed ${bookName} to GitHub`);
-    } catch (error: any) {
-      console.log(`  ⚠️  Git commit failed (continuing anyway): ${error.message}`);
+    if (bookVerses > 0) {
+      try {
+        execSync(`cd /home/ubuntu/Immutable && git add -A && git commit -m "Import: ${bookName} (${bookVerses} verses)" && git push origin main`, { stdio: 'inherit' });
+        console.log(`  💾 Committed ${bookName} to GitHub`);
+      } catch (error: any) {
+        console.log(`  ⚠️  Git commit failed (continuing anyway): ${error.message}`);
+      }
     }
     
     return bookVerses;
@@ -293,12 +295,13 @@ async function importGreekBook(file: string, progress: Progress): Promise<number
     console.log(`  ✅ ${bookName}: ${bookVerses} verses imported`);
     
     // Auto-commit to GitHub after each book
-    try {
-      const { execSync } = require('child_process');
-      execSync('cd /home/ubuntu/Immutable && git add -A && git commit -m "Import: ' + bookName + ' (${bookVerses} verses)" && git push origin main', { stdio: 'inherit' });
-      console.log(`  💾 Committed ${bookName} to GitHub`);
-    } catch (error: any) {
-      console.log(`  ⚠️  Git commit failed (continuing anyway): ${error.message}`);
+    if (bookVerses > 0) {
+      try {
+        execSync(`cd /home/ubuntu/Immutable && git add -A && git commit -m "Import: ${bookName} (${bookVerses} verses)" && git push origin main`, { stdio: 'inherit' });
+        console.log(`  💾 Committed ${bookName} to GitHub`);
+      } catch (error: any) {
+        console.log(`  ⚠️  Git commit failed (continuing anyway): ${error.message}`);
+      }
     }
     
     return bookVerses;
