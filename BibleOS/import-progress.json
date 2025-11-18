@@ -1,7 +1,24 @@
 {
   "completedBooks": [
-    "1 Chronicles"
+    "1 Chronicles",
+    "1 Kings",
+    "1 Samuel",
+    "2 Chronicles",
+    "2 Kings",
+    "2 Samuel",
+    "Amos",
+    "Daniel",
+    "Deuteronomy",
+    "Ecclesiastes",
+    "Esther",
+    "Exodus",
+    "Ezekiel",
+    "Ezra",
+    "Genesis",
+    "Habakkuk",
+    "Haggai",
+    "Hosea"
   ],
-  "currentBook": "1 Kings",
-  "versesImported": 0
+  "currentBook": "Hosea",
+  "versesImported": 165
 }
