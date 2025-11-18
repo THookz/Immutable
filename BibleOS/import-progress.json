@@ -20,8 +20,9 @@
     "Hosea",
     "Isaiah",
     "Jeremiah",
-    "Job"
+    "Job",
+    "Joel"
   ],
-  "currentBook": "Job",
-  "versesImported": 3890
+  "currentBook": "Joel",
+  "versesImported": 3963
 }
