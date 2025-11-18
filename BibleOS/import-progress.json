@@ -43,8 +43,9 @@
     "Mark",
     "Luke",
     "John",
-    "Acts"
+    "Acts",
+    "Romans"
   ],
-  "currentBook": "Acts",
-  "versesImported": 16888
+  "currentBook": "Romans",
+  "versesImported": 17318
 }
