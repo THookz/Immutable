@@ -42,8 +42,9 @@
     "Matthew",
     "Mark",
     "Luke",
-    "John"
+    "John",
+    "Acts"
   ],
-  "currentBook": "John",
-  "versesImported": 15886
+  "currentBook": "Acts",
+  "versesImported": 16888
 }
