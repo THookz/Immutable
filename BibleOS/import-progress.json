@@ -64,8 +64,9 @@
     "1 John",
     "2 John",
     "3 John",
-    "Jude"
+    "Jude",
+    "Revelation"
   ],
-  "currentBook": "Jude",
-  "versesImported": 19652
+  "currentBook": "Revelation",
+  "versesImported": 20057
 }
