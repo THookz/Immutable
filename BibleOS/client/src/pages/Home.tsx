@@ -1,8 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { APP_LOGO, APP_TITLE } from "@/const";
-import { Book, Flame, History, Languages, Search } from "lucide-react";
+import { Book, Flame, History, Languages, Search, Download } from "lucide-react";
 import { Link } from "wouter";
+import { OfflineDownload } from "@/components/OfflineDownload";
 
 export default function Home() {
   return (
@@ -140,6 +141,11 @@ export default function Home() {
             </CardContent>
           </Card>
         </div>
+      </section>
+
+      {/* Offline Download Section */}
+      <section className="container mx-auto px-4 py-12 mb-12">
+        <OfflineDownload />
       </section>
 
       {/* Call to Action */}
