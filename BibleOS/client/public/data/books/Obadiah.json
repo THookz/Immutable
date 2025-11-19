@@ -1,0 +1,233 @@
+[
+  {
+    "id": 98202,
+    "verseId": "Obad.1.1",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 1,
+    "language": "hebrew",
+    "text": "חֲז֖וֹן עֹֽבַדְיָ֑ה כֹּֽה אָמַר֩ אֲדֹנָ֨/י יְהוִ֜ה לֶ/אֱד֗וֹם שְׁמוּעָ֨ה שָׁמַ֜עְנוּ מֵ/אֵ֤ת יְהוָה֙ וְ/צִיר֙ בַּ/גּוֹיִ֣ם שֻׁלָּ֔ח ק֛וּמוּ וְ/נָק֥וּמָה עָלֶי/הָ לַ/מִּלְחָמָֽה",
+    "wordAlignment": "[{\"position\":1,\"word\":\"חֲז֖וֹן\",\"strongId\":\"H2377\",\"morphology\":\"HNcmsc\"},{\"position\":2,\"word\":\"עֹֽבַדְיָ֑ה\",\"strongId\":\"H5662\",\"morphology\":\"HNp\"},{\"position\":3,\"word\":\"כֹּֽה\",\"strongId\":\"H3541\",\"morphology\":\"HD\"},{\"position\":4,\"word\":\"אָמַר֩\",\"strongId\":\"H559\",\"morphology\":\"HVqp3ms\"},{\"position\":5,\"word\":\"אֲדֹנָ֨/י\",\"strongId\":\"H136\",\"morphology\":\"HNcmpc/Sp1cs\"},{\"position\":6,\"word\":\"יְהוִ֜ה\",\"strongId\":\"H3069\",\"morphology\":\"HNp\"},{\"position\":7,\"word\":\"לֶ/אֱד֗וֹם\",\"strongId\":\"H123\",\"morphology\":\"HR/Np\"},{\"position\":8,\"word\":\"שְׁמוּעָ֨ה\",\"strongId\":\"H8052\",\"morphology\":\"HNcfsa\"},{\"position\":9,\"word\":\"שָׁמַ֜עְנוּ\",\"strongId\":\"H8085\",\"morphology\":\"HVqp1cp\"},{\"position\":10,\"word\":\"מֵ/אֵ֤ת\",\"strongId\":\"H854\",\"morphology\":\"HR/R\"},{\"position\":11,\"word\":\"יְהוָה֙\",\"strongId\":\"H3068\",\"morphology\":\"HNp\"},{\"position\":12,\"word\":\"וְ/צִיר֙\",\"strongId\":\"H6735\",\"morphology\":\"HC/Ncmsa\"},{\"position\":13,\"word\":\"בַּ/גּוֹיִ֣ם\",\"strongId\":\"H1471\",\"morphology\":\"HRd/Ncmpa\"},{\"position\":14,\"word\":\"שֻׁלָּ֔ח\",\"strongId\":\"H7971\",\"morphology\":\"HVPp3ms\"},{\"position\":15,\"word\":\"ק֛וּמוּ\",\"strongId\":\"H6965\",\"morphology\":\"HVqv2mp\"},{\"position\":16,\"word\":\"וְ/נָק֥וּמָה\",\"strongId\":\"H6965\",\"morphology\":\"HC/Vqh1cp\"},{\"position\":17,\"word\":\"עָלֶי/הָ\",\"strongId\":\"H5921\",\"morphology\":\"HR/Sp3fs\"},{\"position\":18,\"word\":\"לַ/מִּלְחָמָֽה\",\"strongId\":\"H4421\",\"morphology\":\"HRd/Ncfsa\"}]",
+    "createdAt": "2025-11-18T18:12:27.000Z"
+  },
+  {
+    "id": 98203,
+    "verseId": "Obad.1.2",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 2,
+    "language": "hebrew",
+    "text": "הִנֵּ֥ה קָטֹ֛ן נְתַתִּ֖י/ךָ בַּ/גּוֹיִ֑ם בָּז֥וּי אַתָּ֖ה מְאֹֽד",
+    "wordAlignment": "[{\"position\":1,\"word\":\"הִנֵּ֥ה\",\"strongId\":\"H2009\",\"morphology\":\"HTm\"},{\"position\":2,\"word\":\"קָטֹ֛ן\",\"strongId\":\"H6996\",\"morphology\":\"HAamsa\"},{\"position\":3,\"word\":\"נְתַתִּ֖י/ךָ\",\"strongId\":\"H5414\",\"morphology\":\"HVqp1cs/Sp2ms\"},{\"position\":4,\"word\":\"בַּ/גּוֹיִ֑ם\",\"strongId\":\"H1471\",\"morphology\":\"HRd/Ncmpa\"},{\"position\":5,\"word\":\"בָּז֥וּי\",\"strongId\":\"H959\",\"morphology\":\"HVqsmsa\"},{\"position\":6,\"word\":\"אַתָּ֖ה\",\"strongId\":\"H859\",\"morphology\":\"HPp2ms\"},{\"position\":7,\"word\":\"מְאֹֽד\",\"strongId\":\"H3966\",\"morphology\":\"HD\"}]",
+    "createdAt": "2025-11-18T18:12:27.000Z"
+  },
+  {
+    "id": 98204,
+    "verseId": "Obad.1.3",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 3,
+    "language": "hebrew",
+    "text": "זְד֤וֹן לִבְּ/ךָ֙ הִשִּׁיאֶ֔/ךָ שֹׁכְנִ֥י בְ/חַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑/וֹ אֹמֵ֣ר בְּ/לִבּ֔/וֹ מִ֥י יוֹרִדֵ֖/נִי אָֽרֶץ",
+    "wordAlignment": "[{\"position\":1,\"word\":\"זְד֤וֹן\",\"strongId\":\"H2087\",\"morphology\":\"HNcmsc\"},{\"position\":2,\"word\":\"לִבְּ/ךָ֙\",\"strongId\":\"H3820\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":3,\"word\":\"הִשִּׁיאֶ֔/ךָ\",\"strongId\":\"H5377\",\"morphology\":\"HVhp3ms/Sp2ms\"},{\"position\":4,\"word\":\"שֹׁכְנִ֥י\",\"strongId\":\"H7931\",\"morphology\":\"HVqrmsc\"},{\"position\":5,\"word\":\"בְ/חַגְוֵי\",\"strongId\":\"H2288\",\"morphology\":\"HR/Ncmpc\"},{\"position\":6,\"word\":\"סֶּ֖לַע\",\"strongId\":\"H5553\",\"morphology\":\"HNcmsa\"},{\"position\":7,\"word\":\"מְר֣וֹם\",\"strongId\":\"H4791\",\"morphology\":\"HNcmsc\"},{\"position\":8,\"word\":\"שִׁבְתּ֑/וֹ\",\"strongId\":\"H7675\",\"morphology\":\"HNcfsc/Sp3ms\"},{\"position\":9,\"word\":\"אֹמֵ֣ר\",\"strongId\":\"H559\",\"morphology\":\"HVqrmsa\"},{\"position\":10,\"word\":\"בְּ/לִבּ֔/וֹ\",\"strongId\":\"H3820\",\"morphology\":\"HR/Ncmsc/Sp3ms\"},{\"position\":11,\"word\":\"מִ֥י\",\"strongId\":\"H4310\",\"morphology\":\"HTi\"},{\"position\":12,\"word\":\"יוֹרִדֵ֖/נִי\",\"strongId\":\"H3381\",\"morphology\":\"HVhi3ms/Sp1cs\"},{\"position\":13,\"word\":\"אָֽרֶץ\",\"strongId\":\"H776\",\"morphology\":\"HNcbsa\"}]",
+    "createdAt": "2025-11-18T18:12:28.000Z"
+  },
+  {
+    "id": 98205,
+    "verseId": "Obad.1.4",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 4,
+    "language": "hebrew",
+    "text": "אִם תַּגְבִּ֣יהַּ כַּ/נֶּ֔שֶׁר וְ/אִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑/ךָ מִ/שָּׁ֥ם אוֹרִֽידְ/ךָ֖ נְאֻם יְהוָֽה",
+    "wordAlignment": "[{\"position\":1,\"word\":\"אִם\",\"strongId\":\"H518\",\"morphology\":\"HC\"},{\"position\":2,\"word\":\"תַּגְבִּ֣יהַּ\",\"strongId\":\"H1361\",\"morphology\":\"HVhi2ms\"},{\"position\":3,\"word\":\"כַּ/נֶּ֔שֶׁר\",\"strongId\":\"H5404\",\"morphology\":\"HRd/Ncmsa\"},{\"position\":4,\"word\":\"וְ/אִם\",\"strongId\":\"H518\",\"morphology\":\"HC/C\"},{\"position\":5,\"word\":\"בֵּ֥ין\",\"strongId\":\"H996\",\"morphology\":\"HR\"},{\"position\":6,\"word\":\"כּֽוֹכָבִ֖ים\",\"strongId\":\"H3556\",\"morphology\":\"HNcmpa\"},{\"position\":7,\"word\":\"שִׂ֣ים\",\"strongId\":\"H7760\",\"morphology\":\"HVqsmsa\"},{\"position\":8,\"word\":\"קִנֶּ֑/ךָ\",\"strongId\":\"H7064\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":9,\"word\":\"מִ/שָּׁ֥ם\",\"strongId\":\"H8033\",\"morphology\":\"HR/D\"},{\"position\":10,\"word\":\"אוֹרִֽידְ/ךָ֖\",\"strongId\":\"H3381\",\"morphology\":\"HVhi1cs/Sp2ms\"},{\"position\":11,\"word\":\"נְאֻם\",\"strongId\":\"H5002\",\"morphology\":\"HNcmsc\"},{\"position\":12,\"word\":\"יְהוָֽה\",\"strongId\":\"H3068\",\"morphology\":\"HNp\"}]",
+    "createdAt": "2025-11-18T18:12:28.000Z"
+  },
+  {
+    "id": 98206,
+    "verseId": "Obad.1.5",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 5,
+    "language": "hebrew",
+    "text": "אִם גַּנָּבִ֤ים בָּאֽוּ לְ/ךָ֙ אִם שׁ֣וֹדְדֵי לַ֔יְלָה אֵ֣יךְ נִדְמֵ֔יתָה הֲ/ל֥וֹא יִגְנְב֖וּ דַּיָּ֑/ם אִם בֹּֽצְרִים֙ בָּ֣אוּ לָ֔/ךְ הֲ/ל֖וֹא יַשְׁאִ֥ירוּ עֹלֵלֽוֹת",
+    "wordAlignment": "[{\"position\":1,\"word\":\"אִם\",\"strongId\":\"H518\",\"morphology\":\"HC\"},{\"position\":2,\"word\":\"גַּנָּבִ֤ים\",\"strongId\":\"H1590\",\"morphology\":\"HNcmpa\"},{\"position\":3,\"word\":\"בָּאֽוּ\",\"strongId\":\"H935\",\"morphology\":\"HVqp3cp\"},{\"position\":4,\"word\":\"לְ/ךָ֙\",\"strongId\":\"\",\"morphology\":\"HR/Sp2ms\"},{\"position\":5,\"word\":\"אִם\",\"strongId\":\"H518\",\"morphology\":\"HC\"},{\"position\":6,\"word\":\"שׁ֣וֹדְדֵי\",\"strongId\":\"H7703\",\"morphology\":\"HVqrmpc\"},{\"position\":7,\"word\":\"לַ֔יְלָה\",\"strongId\":\"H3915\",\"morphology\":\"HNcmsa\"},{\"position\":8,\"word\":\"אֵ֣יךְ\",\"strongId\":\"H349\",\"morphology\":\"HTi\"},{\"position\":9,\"word\":\"נִדְמֵ֔יתָה\",\"strongId\":\"H1820\",\"morphology\":\"HVNp2ms\"},{\"position\":10,\"word\":\"הֲ/ל֥וֹא\",\"strongId\":\"H3808\",\"morphology\":\"HTi/Tn\"},{\"position\":11,\"word\":\"יִגְנְב֖וּ\",\"strongId\":\"H1589\",\"morphology\":\"HVqi3mp\"},{\"position\":12,\"word\":\"דַּיָּ֑/ם\",\"strongId\":\"H1767\",\"morphology\":\"HNcmsc/Sp3mp\"},{\"position\":13,\"word\":\"אִם\",\"strongId\":\"H518\",\"morphology\":\"HC\"},{\"position\":14,\"word\":\"בֹּֽצְרִים֙\",\"strongId\":\"H1219\",\"morphology\":\"HVqrmpa\"},{\"position\":15,\"word\":\"בָּ֣אוּ\",\"strongId\":\"H935\",\"morphology\":\"HVqp3cp\"},{\"position\":16,\"word\":\"לָ֔/ךְ\",\"strongId\":\"\",\"morphology\":\"HR/Sp2fs\"},{\"position\":17,\"word\":\"הֲ/ל֖וֹא\",\"strongId\":\"H3808\",\"morphology\":\"HTi/Tn\"},{\"position\":18,\"word\":\"יַשְׁאִ֥ירוּ\",\"strongId\":\"H7604\",\"morphology\":\"HVhi3mp\"},{\"position\":19,\"word\":\"עֹלֵלֽוֹת\",\"strongId\":\"H5955\",\"morphology\":\"HNcfpa\"}]",
+    "createdAt": "2025-11-18T18:12:29.000Z"
+  },
+  {
+    "id": 98207,
+    "verseId": "Obad.1.6",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 6,
+    "language": "hebrew",
+    "text": "אֵ֚יךְ נֶחְפְּשׂ֣וּ עֵשָׂ֔ו נִבְע֖וּ מַצְפֻּנָֽי/ו",
+    "wordAlignment": "[{\"position\":1,\"word\":\"אֵ֚יךְ\",\"strongId\":\"H349\",\"morphology\":\"HTi\"},{\"position\":2,\"word\":\"נֶחְפְּשׂ֣וּ\",\"strongId\":\"H2664\",\"morphology\":\"HVNp3cp\"},{\"position\":3,\"word\":\"עֵשָׂ֔ו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":4,\"word\":\"נִבְע֖וּ\",\"strongId\":\"H1158\",\"morphology\":\"HVNp3cp\"},{\"position\":5,\"word\":\"מַצְפֻּנָֽי/ו\",\"strongId\":\"H4710\",\"morphology\":\"HNcmpc/Sp3ms\"}]",
+    "createdAt": "2025-11-18T18:12:29.000Z"
+  },
+  {
+    "id": 98208,
+    "verseId": "Obad.1.7",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 7,
+    "language": "hebrew",
+    "text": "עַֽד הַ/גְּב֣וּל שִׁלְּח֗וּ/ךָ כֹּ֚ל אַנְשֵׁ֣י בְרִיתֶ֔/ךָ הִשִּׁיא֛וּ/ךָ יָכְל֥וּ לְ/ךָ֖ אַנְשֵׁ֣י שְׁלֹמֶ֑/ךָ לַחְמְ/ךָ֗ יָשִׂ֤ימוּ מָזוֹר֙ תַּחְתֶּ֔י/ךָ אֵ֥ין תְּבוּנָ֖ה בּֽ/וֹ",
+    "wordAlignment": "[{\"position\":1,\"word\":\"עַֽד\",\"strongId\":\"H5704\",\"morphology\":\"HR\"},{\"position\":2,\"word\":\"הַ/גְּב֣וּל\",\"strongId\":\"H1366\",\"morphology\":\"HTd/Ncmsa\"},{\"position\":3,\"word\":\"שִׁלְּח֗וּ/ךָ\",\"strongId\":\"H7971\",\"morphology\":\"HVpp3cp/Sp2ms\"},{\"position\":4,\"word\":\"כֹּ֚ל\",\"strongId\":\"H3605\",\"morphology\":\"HNcmsc\"},{\"position\":5,\"word\":\"אַנְשֵׁ֣י\",\"strongId\":\"H376\",\"morphology\":\"HNcmpc\"},{\"position\":6,\"word\":\"בְרִיתֶ֔/ךָ\",\"strongId\":\"H1285\",\"morphology\":\"HNcfsc/Sp2ms\"},{\"position\":7,\"word\":\"הִשִּׁיא֛וּ/ךָ\",\"strongId\":\"H5377\",\"morphology\":\"HVhp3cp/Sp2ms\"},{\"position\":8,\"word\":\"יָכְל֥וּ\",\"strongId\":\"H3201\",\"morphology\":\"HVqp3cp\"},{\"position\":9,\"word\":\"לְ/ךָ֖\",\"strongId\":\"\",\"morphology\":\"HR/Sp2ms\"},{\"position\":10,\"word\":\"אַנְשֵׁ֣י\",\"strongId\":\"H376\",\"morphology\":\"HNcmpc\"},{\"position\":11,\"word\":\"שְׁלֹמֶ֑/ךָ\",\"strongId\":\"H7965\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":12,\"word\":\"לַחְמְ/ךָ֗\",\"strongId\":\"H3899\",\"morphology\":\"HNcbsc/Sp2ms\"},{\"position\":13,\"word\":\"יָשִׂ֤ימוּ\",\"strongId\":\"H7760\",\"morphology\":\"HVqi3mp\"},{\"position\":14,\"word\":\"מָזוֹר֙\",\"strongId\":\"H4204\",\"morphology\":\"HNcmsa\"},{\"position\":15,\"word\":\"תַּחְתֶּ֔י/ךָ\",\"strongId\":\"H8478\",\"morphology\":\"HR/Sp2ms\"},{\"position\":16,\"word\":\"אֵ֥ין\",\"strongId\":\"H369\",\"morphology\":\"HTn\"},{\"position\":17,\"word\":\"תְּבוּנָ֖ה\",\"strongId\":\"H8394\",\"morphology\":\"HNcfsa\"},{\"position\":18,\"word\":\"בּֽ/וֹ\",\"strongId\":\"\",\"morphology\":\"HR/Sp3ms\"}]",
+    "createdAt": "2025-11-18T18:12:30.000Z"
+  },
+  {
+    "id": 98209,
+    "verseId": "Obad.1.8",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 8,
+    "language": "hebrew",
+    "text": "הֲ/ל֛וֹא בַּ/יּ֥וֹם הַ/ה֖וּא נְאֻם יְהוָ֑ה וְ/הַאֲבַדְתִּ֤י חֲכָמִים֙ מֵֽ/אֱד֔וֹם וּ/תְבוּנָ֖ה מֵ/הַ֥ר עֵשָֽׂו",
+    "wordAlignment": "[{\"position\":1,\"word\":\"הֲ/ל֛וֹא\",\"strongId\":\"H3808\",\"morphology\":\"HTi/Tn\"},{\"position\":2,\"word\":\"בַּ/יּ֥וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HRd/Ncmsa\"},{\"position\":3,\"word\":\"הַ/ה֖וּא\",\"strongId\":\"H1931\",\"morphology\":\"HTd/Pp3ms\"},{\"position\":4,\"word\":\"נְאֻם\",\"strongId\":\"H5002\",\"morphology\":\"HNcmsc\"},{\"position\":5,\"word\":\"יְהוָ֑ה\",\"strongId\":\"H3068\",\"morphology\":\"HNp\"},{\"position\":6,\"word\":\"וְ/הַאֲבַדְתִּ֤י\",\"strongId\":\"H6\",\"morphology\":\"HC/Vhq1cs\"},{\"position\":7,\"word\":\"חֲכָמִים֙\",\"strongId\":\"H2450\",\"morphology\":\"HAampa\"},{\"position\":8,\"word\":\"מֵֽ/אֱד֔וֹם\",\"strongId\":\"H123\",\"morphology\":\"HR/Np\"},{\"position\":9,\"word\":\"וּ/תְבוּנָ֖ה\",\"strongId\":\"H8394\",\"morphology\":\"HC/Ncfsa\"},{\"position\":10,\"word\":\"מֵ/הַ֥ר\",\"strongId\":\"H2022\",\"morphology\":\"HR/Ncmsc\"},{\"position\":11,\"word\":\"עֵשָֽׂו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"}]",
+    "createdAt": "2025-11-18T18:12:30.000Z"
+  },
+  {
+    "id": 98210,
+    "verseId": "Obad.1.9",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 9,
+    "language": "hebrew",
+    "text": "וְ/חַתּ֥וּ גִבּוֹרֶ֖י/ךָ תֵּימָ֑ן לְמַ֧עַן יִכָּֽרֶת אִ֛ישׁ מֵ/הַ֥ר עֵשָׂ֖ו מִ/קָּֽטֶל",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/חַתּ֥וּ\",\"strongId\":\"H2865\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":2,\"word\":\"גִבּוֹרֶ֖י/ךָ\",\"strongId\":\"H1368\",\"morphology\":\"HAampc/Sp2ms\"},{\"position\":3,\"word\":\"תֵּימָ֑ן\",\"strongId\":\"H8487\",\"morphology\":\"HNp\"},{\"position\":4,\"word\":\"לְמַ֧עַן\",\"strongId\":\"H4616\",\"morphology\":\"HR\"},{\"position\":5,\"word\":\"יִכָּֽרֶת\",\"strongId\":\"H3772\",\"morphology\":\"HVNi3ms\"},{\"position\":6,\"word\":\"אִ֛ישׁ\",\"strongId\":\"H376\",\"morphology\":\"HNcmsa\"},{\"position\":7,\"word\":\"מֵ/הַ֥ר\",\"strongId\":\"H2022\",\"morphology\":\"HR/Ncmsc\"},{\"position\":8,\"word\":\"עֵשָׂ֖ו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":9,\"word\":\"מִ/קָּֽטֶל\",\"strongId\":\"H6993\",\"morphology\":\"HR/Ncmsa\"}]",
+    "createdAt": "2025-11-18T18:12:30.000Z"
+  },
+  {
+    "id": 98211,
+    "verseId": "Obad.1.10",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 10,
+    "language": "hebrew",
+    "text": "מֵ/חֲמַ֛ס אָחִ֥י/ךָ יַעֲקֹ֖ב תְּכַסְּ/ךָ֣ בוּשָׁ֑ה וְ/נִכְרַ֖תָּ לְ/עוֹלָֽם",
+    "wordAlignment": "[{\"position\":1,\"word\":\"מֵ/חֲמַ֛ס\",\"strongId\":\"H2555\",\"morphology\":\"HR/Ncmsc\"},{\"position\":2,\"word\":\"אָחִ֥י/ךָ\",\"strongId\":\"H251\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":3,\"word\":\"יַעֲקֹ֖ב\",\"strongId\":\"H3290\",\"morphology\":\"HNp\"},{\"position\":4,\"word\":\"תְּכַסְּ/ךָ֣\",\"strongId\":\"H3680\",\"morphology\":\"HVpi3fs/Sp2ms\"},{\"position\":5,\"word\":\"בוּשָׁ֑ה\",\"strongId\":\"H955\",\"morphology\":\"HNcfsa\"},{\"position\":6,\"word\":\"וְ/נִכְרַ֖תָּ\",\"strongId\":\"H3772\",\"morphology\":\"HC/VNq2ms\"},{\"position\":7,\"word\":\"לְ/עוֹלָֽם\",\"strongId\":\"H5769\",\"morphology\":\"HR/Ncmsa\"}]",
+    "createdAt": "2025-11-18T18:12:31.000Z"
+  },
+  {
+    "id": 98212,
+    "verseId": "Obad.1.11",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 11,
+    "language": "hebrew",
+    "text": "בְּ/יוֹם֙ עֲמָֽדְ/ךָ֣ מִ/נֶּ֔גֶד בְּ/י֛וֹם שְׁב֥וֹת זָרִ֖ים חֵיל֑/וֹ וְ/נָכְרִ֞ים בָּ֣אוּ שער/ו וְ/עַל יְרוּשָׁלִַ֨ם֙ יַדּ֣וּ גוֹרָ֔ל גַּם אַתָּ֖ה כְּ/אַחַ֥ד מֵ/הֶֽם",
+    "wordAlignment": "[{\"position\":1,\"word\":\"בְּ/יוֹם֙\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":2,\"word\":\"עֲמָֽדְ/ךָ֣\",\"strongId\":\"H5975\",\"morphology\":\"HVqc/Sp2ms\"},{\"position\":3,\"word\":\"מִ/נֶּ֔גֶד\",\"strongId\":\"H5048\",\"morphology\":\"HR/R\"},{\"position\":4,\"word\":\"בְּ/י֛וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":5,\"word\":\"שְׁב֥וֹת\",\"strongId\":\"H7617\",\"morphology\":\"HVqc\"},{\"position\":6,\"word\":\"זָרִ֖ים\",\"strongId\":\"H2114\",\"morphology\":\"HAampa\"},{\"position\":7,\"word\":\"חֵיל֑/וֹ\",\"strongId\":\"H2428\",\"morphology\":\"HNcmsc/Sp3ms\"},{\"position\":8,\"word\":\"וְ/נָכְרִ֞ים\",\"strongId\":\"H5237\",\"morphology\":\"HC/Aampa\"},{\"position\":9,\"word\":\"בָּ֣אוּ\",\"strongId\":\"H935\",\"morphology\":\"HVqp3cp\"},{\"position\":10,\"word\":\"שער/ו\",\"strongId\":\"H8179\",\"morphology\":\"HNcmsc/Sp3ms\"},{\"position\":11,\"word\":\"וְ/עַל\",\"strongId\":\"H5921\",\"morphology\":\"HC/R\"},{\"position\":12,\"word\":\"יְרוּשָׁלִַ֨ם֙\",\"strongId\":\"H3389\",\"morphology\":\"HNp\"},{\"position\":13,\"word\":\"יַדּ֣וּ\",\"strongId\":\"H3032\",\"morphology\":\"HVqp3cp\"},{\"position\":14,\"word\":\"גוֹרָ֔ל\",\"strongId\":\"H1486\",\"morphology\":\"HNcmsa\"},{\"position\":15,\"word\":\"גַּם\",\"strongId\":\"H1571\",\"morphology\":\"HTa\"},{\"position\":16,\"word\":\"אַתָּ֖ה\",\"strongId\":\"H859\",\"morphology\":\"HPp2ms\"},{\"position\":17,\"word\":\"כְּ/אַחַ֥ד\",\"strongId\":\"H259\",\"morphology\":\"HR/Acmsc\"},{\"position\":18,\"word\":\"מֵ/הֶֽם\",\"strongId\":\"\",\"morphology\":\"HR/Sp3mp\"}]",
+    "createdAt": "2025-11-18T18:12:31.000Z"
+  },
+  {
+    "id": 98213,
+    "verseId": "Obad.1.12",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 12,
+    "language": "hebrew",
+    "text": "וְ/אַל תֵּ֤רֶא בְ/יוֹם אָחִ֨י/ךָ֙ בְּ/י֣וֹם נָכְר֔/וֹ וְ/אַל תִּשְׂמַ֥ח לִ/בְנֵֽי יְהוּדָ֖ה בְּ/י֣וֹם אָבְדָ֑/ם וְ/אַל תַּגְדֵּ֥ל פִּ֖י/ךָ בְּ/י֥וֹם צָרָֽה",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/אַל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":2,\"word\":\"תֵּ֤רֶא\",\"strongId\":\"H7200\",\"morphology\":\"HVqj2ms\"},{\"position\":3,\"word\":\"בְ/יוֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":4,\"word\":\"אָחִ֨י/ךָ֙\",\"strongId\":\"H251\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":5,\"word\":\"בְּ/י֣וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":6,\"word\":\"נָכְר֔/וֹ\",\"strongId\":\"H5235\",\"morphology\":\"HNcmsc/Sp3ms\"},{\"position\":7,\"word\":\"וְ/אַל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":8,\"word\":\"תִּשְׂמַ֥ח\",\"strongId\":\"H8055\",\"morphology\":\"HVqj2ms\"},{\"position\":9,\"word\":\"לִ/בְנֵֽי\",\"strongId\":\"H1121\",\"morphology\":\"HR/Ncmpc\"},{\"position\":10,\"word\":\"יְהוּדָ֖ה\",\"strongId\":\"H3063\",\"morphology\":\"HNp\"},{\"position\":11,\"word\":\"בְּ/י֣וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":12,\"word\":\"אָבְדָ֑/ם\",\"strongId\":\"H6\",\"morphology\":\"HVqc/Sp3mp\"},{\"position\":13,\"word\":\"וְ/אַל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":14,\"word\":\"תַּגְדֵּ֥ל\",\"strongId\":\"H1431\",\"morphology\":\"HVhj2ms\"},{\"position\":15,\"word\":\"פִּ֖י/ךָ\",\"strongId\":\"H6310\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":16,\"word\":\"בְּ/י֥וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":17,\"word\":\"צָרָֽה\",\"strongId\":\"H6869\",\"morphology\":\"HNcfsa\"}]",
+    "createdAt": "2025-11-18T18:12:32.000Z"
+  },
+  {
+    "id": 98214,
+    "verseId": "Obad.1.13",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 13,
+    "language": "hebrew",
+    "text": "אַל תָּב֤וֹא בְ/שַֽׁעַר עַמִּ/י֙ בְּ/י֣וֹם אֵידָ֔/ם אַל תֵּ֧רֶא גַם אַתָּ֛ה בְּ/רָעָת֖/וֹ בְּ/י֣וֹם אֵיד֑/וֹ וְ/אַל תִּשְׁלַ֥חְנָה בְ/חֵיל֖/וֹ בְּ/י֥וֹם אֵידֽ/וֹ",
+    "wordAlignment": "[{\"position\":1,\"word\":\"אַל\",\"strongId\":\"H408\",\"morphology\":\"HTn\"},{\"position\":2,\"word\":\"תָּב֤וֹא\",\"strongId\":\"H935\",\"morphology\":\"HVqj2ms\"},{\"position\":3,\"word\":\"בְ/שַֽׁעַר\",\"strongId\":\"H8179\",\"morphology\":\"HR/Ncmsc\"},{\"position\":4,\"word\":\"עַמִּ/י֙\",\"strongId\":\"H5971\",\"morphology\":\"HNcmsc/Sp1cs\"},{\"position\":5,\"word\":\"בְּ/י֣וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":6,\"word\":\"אֵידָ֔/ם\",\"strongId\":\"H343\",\"morphology\":\"HNcmsc/Sp3mp\"},{\"position\":7,\"word\":\"אַל\",\"strongId\":\"H408\",\"morphology\":\"HTn\"},{\"position\":8,\"word\":\"תֵּ֧רֶא\",\"strongId\":\"H7200\",\"morphology\":\"HVqj2ms\"},{\"position\":9,\"word\":\"גַם\",\"strongId\":\"H1571\",\"morphology\":\"HD\"},{\"position\":10,\"word\":\"אַתָּ֛ה\",\"strongId\":\"H859\",\"morphology\":\"HPp2ms\"},{\"position\":11,\"word\":\"בְּ/רָעָת֖/וֹ\",\"strongId\":\"H7451\",\"morphology\":\"HR/Ncfsc/Sp3ms\"},{\"position\":12,\"word\":\"בְּ/י֣וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":13,\"word\":\"אֵיד֑/וֹ\",\"strongId\":\"H343\",\"morphology\":\"HNcmsc/Sp3ms\"},{\"position\":14,\"word\":\"וְ/אַל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":15,\"word\":\"תִּשְׁלַ֥חְנָה\",\"strongId\":\"H7971\",\"morphology\":\"HVqj2fp\"},{\"position\":16,\"word\":\"בְ/חֵיל֖/וֹ\",\"strongId\":\"H2428\",\"morphology\":\"HR/Ncmsc/Sp3ms\"},{\"position\":17,\"word\":\"בְּ/י֥וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":18,\"word\":\"אֵידֽ/וֹ\",\"strongId\":\"H343\",\"morphology\":\"HNcmsc/Sp3ms\"}]",
+    "createdAt": "2025-11-18T18:12:32.000Z"
+  },
+  {
+    "id": 98215,
+    "verseId": "Obad.1.14",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 14,
+    "language": "hebrew",
+    "text": "וְ/אַֽל תַּעֲמֹד֙ עַל הַ/פֶּ֔רֶק לְ/הַכְרִ֖ית אֶת פְּלִיטָ֑י/ו וְ/אַל תַּסְגֵּ֥ר שְׂרִידָ֖י/ו בְּ/י֥וֹם צָרָֽה",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/אַֽל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":2,\"word\":\"תַּעֲמֹד֙\",\"strongId\":\"H5975\",\"morphology\":\"HVqj2ms\"},{\"position\":3,\"word\":\"עַל\",\"strongId\":\"H5921\",\"morphology\":\"HR\"},{\"position\":4,\"word\":\"הַ/פֶּ֔רֶק\",\"strongId\":\"H6563\",\"morphology\":\"HTd/Ncmsa\"},{\"position\":5,\"word\":\"לְ/הַכְרִ֖ית\",\"strongId\":\"H3772\",\"morphology\":\"HR/Vhc\"},{\"position\":6,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":7,\"word\":\"פְּלִיטָ֑י/ו\",\"strongId\":\"H6412\",\"morphology\":\"HNcmpc/Sp3ms\"},{\"position\":8,\"word\":\"וְ/אַל\",\"strongId\":\"H408\",\"morphology\":\"HC/Tn\"},{\"position\":9,\"word\":\"תַּסְגֵּ֥ר\",\"strongId\":\"H5462\",\"morphology\":\"HVhj2ms\"},{\"position\":10,\"word\":\"שְׂרִידָ֖י/ו\",\"strongId\":\"H8300\",\"morphology\":\"HNcmpc/Sp3ms\"},{\"position\":11,\"word\":\"בְּ/י֥וֹם\",\"strongId\":\"H3117\",\"morphology\":\"HR/Ncmsc\"},{\"position\":12,\"word\":\"צָרָֽה\",\"strongId\":\"H6869\",\"morphology\":\"HNcfsa\"}]",
+    "createdAt": "2025-11-18T18:12:33.000Z"
+  },
+  {
+    "id": 98216,
+    "verseId": "Obad.1.15",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 15,
+    "language": "hebrew",
+    "text": "כִּֽי קָר֥וֹב יוֹם יְהוָ֖ה עַל כָּל הַ/גּוֹיִ֑ם כַּ/אֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔/ךְ גְּמֻלְ/ךָ֖ יָשׁ֥וּב בְּ/רֹאשֶֽׁ/ךָ",
+    "wordAlignment": "[{\"position\":1,\"word\":\"כִּֽי\",\"strongId\":\"H3588\",\"morphology\":\"HC\"},{\"position\":2,\"word\":\"קָר֥וֹב\",\"strongId\":\"H7138\",\"morphology\":\"HAamsa\"},{\"position\":3,\"word\":\"יוֹם\",\"strongId\":\"H3117\",\"morphology\":\"HNcmsc\"},{\"position\":4,\"word\":\"יְהוָ֖ה\",\"strongId\":\"H3068\",\"morphology\":\"HNp\"},{\"position\":5,\"word\":\"עַל\",\"strongId\":\"H5921\",\"morphology\":\"HR\"},{\"position\":6,\"word\":\"כָּל\",\"strongId\":\"H3605\",\"morphology\":\"HNcmsc\"},{\"position\":7,\"word\":\"הַ/גּוֹיִ֑ם\",\"strongId\":\"H1471\",\"morphology\":\"HTd/Ncmpa\"},{\"position\":8,\"word\":\"כַּ/אֲשֶׁ֤ר\",\"strongId\":\"H834\",\"morphology\":\"HR/Tr\"},{\"position\":9,\"word\":\"עָשִׂ֨יתָ֙\",\"strongId\":\"H6213\",\"morphology\":\"HVqp2ms\"},{\"position\":10,\"word\":\"יֵעָ֣שֶׂה\",\"strongId\":\"H6213\",\"morphology\":\"HVNi3ms\"},{\"position\":11,\"word\":\"לָּ֔/ךְ\",\"strongId\":\"\",\"morphology\":\"HR/Sp2fs\"},{\"position\":12,\"word\":\"גְּמֻלְ/ךָ֖\",\"strongId\":\"H1576\",\"morphology\":\"HNcmsc/Sp2ms\"},{\"position\":13,\"word\":\"יָשׁ֥וּב\",\"strongId\":\"H7725\",\"morphology\":\"HVqi3ms\"},{\"position\":14,\"word\":\"בְּ/רֹאשֶֽׁ/ךָ\",\"strongId\":\"H7218\",\"morphology\":\"HR/Ncmsc/Sp2ms\"}]",
+    "createdAt": "2025-11-18T18:12:33.000Z"
+  },
+  {
+    "id": 98217,
+    "verseId": "Obad.1.16",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 16,
+    "language": "hebrew",
+    "text": "כִּ֗י כַּֽ/אֲשֶׁ֤ר שְׁתִיתֶם֙ עַל הַ֣ר קָדְשִׁ֔/י יִשְׁתּ֥וּ כָֽל הַ/גּוֹיִ֖ם תָּמִ֑יד וְ/שָׁת֣וּ וְ/לָע֔וּ וְ/הָי֖וּ כְּ/ל֥וֹא הָיֽוּ",
+    "wordAlignment": "[{\"position\":1,\"word\":\"כִּ֗י\",\"strongId\":\"H3588\",\"morphology\":\"HC\"},{\"position\":2,\"word\":\"כַּֽ/אֲשֶׁ֤ר\",\"strongId\":\"H834\",\"morphology\":\"HR/Tr\"},{\"position\":3,\"word\":\"שְׁתִיתֶם֙\",\"strongId\":\"H8354\",\"morphology\":\"HVqp2mp\"},{\"position\":4,\"word\":\"עַל\",\"strongId\":\"H5921\",\"morphology\":\"HR\"},{\"position\":5,\"word\":\"הַ֣ר\",\"strongId\":\"H2022\",\"morphology\":\"HNcmsc\"},{\"position\":6,\"word\":\"קָדְשִׁ֔/י\",\"strongId\":\"H6944\",\"morphology\":\"HNcmsc/Sp1cs\"},{\"position\":7,\"word\":\"יִשְׁתּ֥וּ\",\"strongId\":\"H8354\",\"morphology\":\"HVqi3mp\"},{\"position\":8,\"word\":\"כָֽל\",\"strongId\":\"H3605\",\"morphology\":\"HNcmsc\"},{\"position\":9,\"word\":\"הַ/גּוֹיִ֖ם\",\"strongId\":\"H1471\",\"morphology\":\"HTd/Ncmpa\"},{\"position\":10,\"word\":\"תָּמִ֑יד\",\"strongId\":\"H8548\",\"morphology\":\"HNcmsa\"},{\"position\":11,\"word\":\"וְ/שָׁת֣וּ\",\"strongId\":\"H8354\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":12,\"word\":\"וְ/לָע֔וּ\",\"strongId\":\"H3886\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":13,\"word\":\"וְ/הָי֖וּ\",\"strongId\":\"H1961\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":14,\"word\":\"כְּ/ל֥וֹא\",\"strongId\":\"H3808\",\"morphology\":\"HR/Tn\"},{\"position\":15,\"word\":\"הָיֽוּ\",\"strongId\":\"H1961\",\"morphology\":\"HVqp3cp\"}]",
+    "createdAt": "2025-11-18T18:12:34.000Z"
+  },
+  {
+    "id": 98218,
+    "verseId": "Obad.1.17",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 17,
+    "language": "hebrew",
+    "text": "וּ/בְ/הַ֥ר צִיּ֛וֹן תִּהְיֶ֥ה פְלֵיטָ֖ה וְ/הָ֣יָה קֹ֑דֶשׁ וְ/יָֽרְשׁוּ֙ בֵּ֣ית יַֽעֲקֹ֔ב אֵ֖ת מוֹרָֽשֵׁי/הֶם",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וּ/בְ/הַ֥ר\",\"strongId\":\"H2022\",\"morphology\":\"HC/R/Ncmsc\"},{\"position\":2,\"word\":\"צִיּ֛וֹן\",\"strongId\":\"H6726\",\"morphology\":\"HNp\"},{\"position\":3,\"word\":\"תִּהְיֶ֥ה\",\"strongId\":\"H1961\",\"morphology\":\"HVqi3fs\"},{\"position\":4,\"word\":\"פְלֵיטָ֖ה\",\"strongId\":\"H6413\",\"morphology\":\"HNcfsa\"},{\"position\":5,\"word\":\"וְ/הָ֣יָה\",\"strongId\":\"H1961\",\"morphology\":\"HC/Vqq3ms\"},{\"position\":6,\"word\":\"קֹ֑דֶשׁ\",\"strongId\":\"H6944\",\"morphology\":\"HNcmsa\"},{\"position\":7,\"word\":\"וְ/יָֽרְשׁוּ֙\",\"strongId\":\"H3423\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":8,\"word\":\"בֵּ֣ית\",\"strongId\":\"H1004\",\"morphology\":\"HNcmsc\"},{\"position\":9,\"word\":\"יַֽעֲקֹ֔ב\",\"strongId\":\"H3290\",\"morphology\":\"HNp\"},{\"position\":10,\"word\":\"אֵ֖ת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":11,\"word\":\"מוֹרָֽשֵׁי/הֶם\",\"strongId\":\"H4180\",\"morphology\":\"HNcmpc/Sp3mp\"}]",
+    "createdAt": "2025-11-18T18:12:34.000Z"
+  },
+  {
+    "id": 98219,
+    "verseId": "Obad.1.18",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 18,
+    "language": "hebrew",
+    "text": "וְ/הָיָה֩ בֵית יַעֲקֹ֨ב אֵ֜שׁ וּ/בֵ֧ית יוֹסֵ֣ף לֶהָבָ֗ה וּ/בֵ֤ית עֵשָׂו֙ לְ/קַ֔שׁ וְ/דָלְק֥וּ בָ/הֶ֖ם וַ/אֲכָל֑וּ/ם וְ/לֹֽא יִֽהְיֶ֤ה שָׂרִיד֙ לְ/בֵ֣ית עֵשָׂ֔ו כִּ֥י יְהוָ֖ה דִּבֵּֽר",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/הָיָה֩\",\"strongId\":\"H1961\",\"morphology\":\"HC/Vqq3ms\"},{\"position\":2,\"word\":\"בֵית\",\"strongId\":\"H1004\",\"morphology\":\"HNcmsc\"},{\"position\":3,\"word\":\"יַעֲקֹ֨ב\",\"strongId\":\"H3290\",\"morphology\":\"HNp\"},{\"position\":4,\"word\":\"אֵ֜שׁ\",\"strongId\":\"H784\",\"morphology\":\"HNcbsa\"},{\"position\":5,\"word\":\"וּ/בֵ֧ית\",\"strongId\":\"H1004\",\"morphology\":\"HC/Ncmsc\"},{\"position\":6,\"word\":\"יוֹסֵ֣ף\",\"strongId\":\"H3130\",\"morphology\":\"HNp\"},{\"position\":7,\"word\":\"לֶהָבָ֗ה\",\"strongId\":\"H3852\",\"morphology\":\"HNcfsa\"},{\"position\":8,\"word\":\"וּ/בֵ֤ית\",\"strongId\":\"H1004\",\"morphology\":\"HC/Ncmsc\"},{\"position\":9,\"word\":\"עֵשָׂו֙\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":10,\"word\":\"לְ/קַ֔שׁ\",\"strongId\":\"H7179\",\"morphology\":\"HR/Ncmsa\"},{\"position\":11,\"word\":\"וְ/דָלְק֥וּ\",\"strongId\":\"H1814\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":12,\"word\":\"בָ/הֶ֖ם\",\"strongId\":\"\",\"morphology\":\"HR/Sp3mp\"},{\"position\":13,\"word\":\"וַ/אֲכָל֑וּ/ם\",\"strongId\":\"H398\",\"morphology\":\"HC/Vqq3cp/Sp3mp\"},{\"position\":14,\"word\":\"וְ/לֹֽא\",\"strongId\":\"H3808\",\"morphology\":\"HC/Tn\"},{\"position\":15,\"word\":\"יִֽהְיֶ֤ה\",\"strongId\":\"H1961\",\"morphology\":\"HVqi3ms\"},{\"position\":16,\"word\":\"שָׂרִיד֙\",\"strongId\":\"H8300\",\"morphology\":\"HNcmsa\"},{\"position\":17,\"word\":\"לְ/בֵ֣ית\",\"strongId\":\"H1004\",\"morphology\":\"HR/Ncmsc\"},{\"position\":18,\"word\":\"עֵשָׂ֔ו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":19,\"word\":\"כִּ֥י\",\"strongId\":\"H3588\",\"morphology\":\"HC\"},{\"position\":20,\"word\":\"יְהוָ֖ה\",\"strongId\":\"H3068\",\"morphology\":\"HNp\"},{\"position\":21,\"word\":\"דִּבֵּֽר\",\"strongId\":\"H1696\",\"morphology\":\"HVpp3ms\"}]",
+    "createdAt": "2025-11-18T18:12:35.000Z"
+  },
+  {
+    "id": 98220,
+    "verseId": "Obad.1.19",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 19,
+    "language": "hebrew",
+    "text": "וְ/יָרְשׁ֨וּ הַ/נֶּ֜גֶב אֶת הַ֣ר עֵשָׂ֗ו וְ/הַ/שְּׁפֵלָה֙ אֶת פְּלִשְׁתִּ֔ים וְ/יָרְשׁוּ֙ אֶת שְׂדֵ֣ה אֶפְרַ֔יִם וְ/אֵ֖ת שְׂדֵ֣ה שֹׁמְר֑וֹן וּ/בִנְיָמִ֖ן אֶת הַ/גִּלְעָֽד",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/יָרְשׁ֨וּ\",\"strongId\":\"H3423\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":2,\"word\":\"הַ/נֶּ֜גֶב\",\"strongId\":\"H5045\",\"morphology\":\"HTd/Ncmsa\"},{\"position\":3,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":4,\"word\":\"הַ֣ר\",\"strongId\":\"H2022\",\"morphology\":\"HNcmsc\"},{\"position\":5,\"word\":\"עֵשָׂ֗ו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":6,\"word\":\"וְ/הַ/שְּׁפֵלָה֙\",\"strongId\":\"H8219\",\"morphology\":\"HC/Td/Ncfsa\"},{\"position\":7,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":8,\"word\":\"פְּלִשְׁתִּ֔ים\",\"strongId\":\"H6430\",\"morphology\":\"HNgmpa\"},{\"position\":9,\"word\":\"וְ/יָרְשׁוּ֙\",\"strongId\":\"H3423\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":10,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":11,\"word\":\"שְׂדֵ֣ה\",\"strongId\":\"H7704\",\"morphology\":\"HNcmsc\"},{\"position\":12,\"word\":\"אֶפְרַ֔יִם\",\"strongId\":\"H669\",\"morphology\":\"HNp\"},{\"position\":13,\"word\":\"וְ/אֵ֖ת\",\"strongId\":\"H853\",\"morphology\":\"HC/To\"},{\"position\":14,\"word\":\"שְׂדֵ֣ה\",\"strongId\":\"H7704\",\"morphology\":\"HNcmsc\"},{\"position\":15,\"word\":\"שֹׁמְר֑וֹן\",\"strongId\":\"H8111\",\"morphology\":\"HNp\"},{\"position\":16,\"word\":\"וּ/בִנְיָמִ֖ן\",\"strongId\":\"H1144\",\"morphology\":\"HC/Np\"},{\"position\":17,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":18,\"word\":\"הַ/גִּלְעָֽד\",\"strongId\":\"H1568\",\"morphology\":\"HTd/Np\"}]",
+    "createdAt": "2025-11-18T18:12:35.000Z"
+  },
+  {
+    "id": 98221,
+    "verseId": "Obad.1.20",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 20,
+    "language": "hebrew",
+    "text": "וְ/גָלֻ֣ת הַֽ/חֵל הַ֠/זֶּה לִ/בְנֵ֨י יִשְׂרָאֵ֤ל אֲשֶֽׁר כְּנַעֲנִים֙ עַד צָ֣רְפַ֔ת וְ/גָלֻ֥ת יְרוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּ/סְפָרַ֑ד יִֽרְשׁ֕וּ אֵ֖ת עָרֵ֥י הַ/נֶּֽגֶב",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/גָלֻ֣ת\",\"strongId\":\"H1546\",\"morphology\":\"HC/Ncfsc\"},{\"position\":2,\"word\":\"הַֽ/חֵל\",\"strongId\":\"H2426\",\"morphology\":\"HTd/Ncmsa\"},{\"position\":3,\"word\":\"הַ֠/זֶּה\",\"strongId\":\"H2088\",\"morphology\":\"HTd/Pdxms\"},{\"position\":4,\"word\":\"לִ/בְנֵ֨י\",\"strongId\":\"H1121\",\"morphology\":\"HR/Ncmpc\"},{\"position\":5,\"word\":\"יִשְׂרָאֵ֤ל\",\"strongId\":\"H3478\",\"morphology\":\"HNp\"},{\"position\":6,\"word\":\"אֲשֶֽׁר\",\"strongId\":\"H834\",\"morphology\":\"HTr\"},{\"position\":7,\"word\":\"כְּנַעֲנִים֙\",\"strongId\":\"H3669\",\"morphology\":\"HNgmpa\"},{\"position\":8,\"word\":\"עַד\",\"strongId\":\"H5704\",\"morphology\":\"HR\"},{\"position\":9,\"word\":\"צָ֣רְפַ֔ת\",\"strongId\":\"H6886\",\"morphology\":\"HNp\"},{\"position\":10,\"word\":\"וְ/גָלֻ֥ת\",\"strongId\":\"H1546\",\"morphology\":\"HC/Ncfsc\"},{\"position\":11,\"word\":\"יְרוּשָׁלִַ֖ם\",\"strongId\":\"H3389\",\"morphology\":\"HNp\"},{\"position\":12,\"word\":\"אֲשֶׁ֣ר\",\"strongId\":\"H834\",\"morphology\":\"HTr\"},{\"position\":13,\"word\":\"בִּ/סְפָרַ֑ד\",\"strongId\":\"H5614\",\"morphology\":\"HR/Np\"},{\"position\":14,\"word\":\"יִֽרְשׁ֕וּ\",\"strongId\":\"H3423\",\"morphology\":\"HVqi3mp\"},{\"position\":15,\"word\":\"אֵ֖ת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":16,\"word\":\"עָרֵ֥י\",\"strongId\":\"H5892\",\"morphology\":\"HNcfpc\"},{\"position\":17,\"word\":\"הַ/נֶּֽגֶב\",\"strongId\":\"H5045\",\"morphology\":\"HTd/Ncmsa\"}]",
+    "createdAt": "2025-11-18T18:12:36.000Z"
+  },
+  {
+    "id": 98222,
+    "verseId": "Obad.1.21",
+    "book": "Obadiah",
+    "chapter": 1,
+    "verse": 21,
+    "language": "hebrew",
+    "text": "וְ/עָל֤וּ מֽוֹשִׁעִים֙ בְּ/הַ֣ר צִיּ֔וֹן לִ/שְׁפֹּ֖ט אֶת הַ֣ר עֵשָׂ֑ו וְ/הָיְתָ֥ה לַֽ/יהוָ֖ה הַ/מְּלוּכָֽה",
+    "wordAlignment": "[{\"position\":1,\"word\":\"וְ/עָל֤וּ\",\"strongId\":\"H5927\",\"morphology\":\"HC/Vqq3cp\"},{\"position\":2,\"word\":\"מֽוֹשִׁעִים֙\",\"strongId\":\"H3467\",\"morphology\":\"HVhrmpa\"},{\"position\":3,\"word\":\"בְּ/הַ֣ר\",\"strongId\":\"H2022\",\"morphology\":\"HR/Ncmsc\"},{\"position\":4,\"word\":\"צִיּ֔וֹן\",\"strongId\":\"H6726\",\"morphology\":\"HNp\"},{\"position\":5,\"word\":\"לִ/שְׁפֹּ֖ט\",\"strongId\":\"H8199\",\"morphology\":\"HR/Vqc\"},{\"position\":6,\"word\":\"אֶת\",\"strongId\":\"H853\",\"morphology\":\"HTo\"},{\"position\":7,\"word\":\"הַ֣ר\",\"strongId\":\"H2022\",\"morphology\":\"HNcmsc\"},{\"position\":8,\"word\":\"עֵשָׂ֑ו\",\"strongId\":\"H6215\",\"morphology\":\"HNp\"},{\"position\":9,\"word\":\"וְ/הָיְתָ֥ה\",\"strongId\":\"H1961\",\"morphology\":\"HC/Vqq3fs\"},{\"position\":10,\"word\":\"לַֽ/יהוָ֖ה\",\"strongId\":\"H3068\",\"morphology\":\"HR/Np\"},{\"position\":11,\"word\":\"הַ/מְּלוּכָֽה\",\"strongId\":\"H4410\",\"morphology\":\"HTd/Ncfsa\"}]",
+    "createdAt": "2025-11-18T18:12:36.000Z"
+  }
+]

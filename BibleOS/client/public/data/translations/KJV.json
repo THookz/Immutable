@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "verseId": "GEN.2.2",
+    "translation": "KJV",
+    "language": "english",
+    "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+    "wordAlignment": "[{\"word\":\"ended\",\"strongId\":\"H3615\",\"position\":1},{\"word\":\"God\",\"strongId\":\"H430\",\"position\":2},{\"word\":\"day\",\"strongId\":\"H3117\",\"position\":3},{\"word\":\"seventh\",\"strongId\":\"H7637\",\"position\":4},{\"word\":\"work\",\"strongId\":\"H4399\",\"position\":5},{\"word\":\"rested\",\"strongId\":\"H7673\",\"position\":6}]",
+    "createdAt": "2025-11-18T06:17:00.000Z"
+  },
+  {
+    "id": 2,
+    "verseId": "EXO.20.8",
+    "translation": "KJV",
+    "language": "english",
+    "text": "Remember the sabbath day, to keep it holy.",
+    "wordAlignment": "[{\"word\":\"Remember\",\"strongId\":\"H2142\",\"position\":1},{\"word\":\"day\",\"strongId\":\"H3117\",\"position\":2},{\"word\":\"sabbath\",\"strongId\":\"H7676\",\"position\":3},{\"word\":\"holy\",\"strongId\":\"H6942\",\"position\":4}]",
+    "createdAt": "2025-11-18T06:17:00.000Z"
+  },
+  {
+    "id": 3,
+    "verseId": "DAN.7.10",
+    "translation": "KJV",
+    "language": "english",
+    "text": "the judgment was set, and the books were opened.",
+    "wordAlignment": "[{\"word\":\"judgment\",\"strongId\":\"H1780\",\"position\":1},{\"word\":\"set\",\"strongId\":\"H3488\",\"position\":2},{\"word\":\"books\",\"strongId\":\"H5609\",\"position\":3},{\"word\":\"opened\",\"strongId\":\"H6606\",\"position\":4}]",
+    "createdAt": "2025-11-18T06:17:01.000Z"
+  },
+  {
+    "id": 30001,
+    "verseId": "EXO.31.13",
+    "translation": "KJV",
+    "language": "english",
+    "text": "Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations",
+    "wordAlignment": "[{\"word\":\"sabbaths\",\"strongId\":\"H7676\",\"position\":2},{\"word\":\"keep\",\"strongId\":\"H8104\",\"position\":3},{\"word\":\"sign\",\"strongId\":\"H226\",\"position\":4},{\"word\":\"between\",\"strongId\":\"H996\",\"position\":5}]",
+    "createdAt": "2025-11-18T06:34:09.000Z"
+  },
+  {
+    "id": 30002,
+    "verseId": "DAN.7.25",
+    "translation": "KJV",
+    "language": "english",
+    "text": "and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.",
+    "wordAlignment": "[{\"word\":\"think\",\"strongId\":\"H5452\",\"position\":1},{\"word\":\"change\",\"strongId\":\"H8133\",\"position\":2},{\"word\":\"times\",\"strongId\":\"H2166\",\"position\":3},{\"word\":\"laws\",\"strongId\":\"H1882\",\"position\":4}]",
+    "createdAt": "2025-11-18T06:34:09.000Z"
+  },
+  {
+    "id": 30003,
+    "verseId": "REV.14.12",
+    "translation": "KJV",
+    "language": "english",
+    "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.",
+    "wordAlignment": "[{\"word\":\"Here\",\"strongId\":\"G5602\",\"position\":1},{\"word\":\"patience\",\"strongId\":\"G5281\",\"position\":2},{\"word\":\"saints\",\"strongId\":\"G40\",\"position\":3},{\"word\":\"keep\",\"strongId\":\"G5083\",\"position\":4},{\"word\":\"commandments\",\"strongId\":\"G1785\",\"position\":5},{\"word\":\"God\",\"strongId\":\"G2316\",\"position\":6}]",
+    "createdAt": "2025-11-18T06:34:10.000Z"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "eventId": "constantine-sunday-law",
+    "name": "Constantine's Sunday Law",
+    "date": "March 7, AD 321",
+    "description": "Roman Emperor Constantine issued the first civil Sunday law, requiring rest on 'the venerable day of the Sun'",
+    "significance": "This marked the beginning of the official transition from Sabbath to Sunday observance in the Roman Empire",
+    "relatedSymbols": "[\"sabbath\"]",
+    "sourceUrl": "https://historictruth.org/blog/sabbath-to-sunday",
+    "createdAt": "2025-11-18T06:17:02.000Z"
+  },
+  {
+    "id": 2,
+    "eventId": "council-laodicea",
+    "name": "Council of Laodicea",
+    "date": "AD 364",
+    "description": "Church council Canon 29 stated: 'Christians must not judaize by resting on the Sabbath, but must work on that day'",
+    "significance": "Official church policy forbidding Sabbath observance and mandating Sunday worship",
+    "relatedSymbols": "[\"sabbath\"]",
+    "sourceUrl": "https://historictruth.org/blog/sabbath-to-sunday",
+    "createdAt": "2025-11-18T06:17:02.000Z"
+  },
+  {
+    "id": 3,
+    "eventId": "protestant-reformation",
+    "name": "Protestant Reformation",
+    "date": "1517",
+    "description": "Martin Luther posted 95 Theses, beginning the Protestant Reformation",
+    "significance": "Reformers returned to Scripture and identified papal Rome as the antichrist power",
+    "relatedSymbols": "[\"beast\"]",
+    "sourceUrl": "https://historictruth.org/blog/protestant-reformation",
+    "createdAt": "2025-11-18T06:17:02.000Z"
+  },
+  {
+    "id": 30001,
+    "eventId": "justinian-decree",
+    "name": "Justinian's Decree",
+    "date": "533-538 AD",
+    "description": "Emperor Justinian issued decrees establishing the Bishop of Rome as head of all churches and 'corrector of heretics'",
+    "significance": "Beginning of 1260 years of papal supremacy (538-1798 AD), fulfilling Daniel 7:25 and Revelation 12:6",
+    "relatedSymbols": "[\"little-horn\",\"woman\",\"beast\"]",
+    "sourceUrl": "https://historictruth.org/blog/daniel-prophecy",
+    "createdAt": "2025-11-18T06:34:10.000Z"
+  },
+  {
+    "id": 30002,
+    "eventId": "papal-captivity-1798",
+    "name": "Papal Captivity (1798)",
+    "date": "February 10, 1798",
+    "description": "French General Berthier entered Rome, took Pope Pius VI captive, and declared the political rule of the papacy at an end",
+    "significance": "End of 1260 years of papal persecution, fulfilling Revelation 13:10 'he that leadeth into captivity shall go into captivity'",
+    "relatedSymbols": "[\"little-horn\",\"beast\"]",
+    "sourceUrl": "https://historictruth.org/blog/daniel-prophecy",
+    "createdAt": "2025-11-18T06:34:10.000Z"
+  },
+  {
+    "id": 30003,
+    "eventId": "waldenses-persecution",
+    "name": "Persecution of Waldenses",
+    "date": "12th-17th Century",
+    "description": "Waldenses (Vaudois) kept the Sabbath and rejected papal authority, suffering severe persecution and martyrdom",
+    "significance": "Example of pure woman (faithful church) persecuted by harlot (papal system) during 1260 years",
+    "relatedSymbols": "[\"woman\",\"sabbath\",\"little-horn\"]",
+    "sourceUrl": "https://historictruth.org/blog/protestant-reformation",
+    "createdAt": "2025-11-18T06:34:10.000Z"
+  },
+  {
+    "id": 30004,
+    "eventId": "jesuit-counter-reformation",
+    "name": "Jesuit Counter-Reformation",
+    "date": "1540-1648",
+    "description": "Jesuits founded by Ignatius Loyola to counter Protestant Reformation through education, infiltration, and Inquisition",
+    "significance": "Developed Futurism and Preterism to deflect Protestant identification of papacy as antichrist",
+    "relatedSymbols": "[\"babylon\",\"little-horn\"]",
+    "sourceUrl": "https://historictruth.org/blog/jesuit-oath",
+    "createdAt": "2025-11-18T06:34:11.000Z"
+  },
+  {
+    "id": 30005,
+    "eventId": "great-disappointment",
+    "name": "Great Disappointment",
+    "date": "October 22, 1844",
+    "description": "Millerite movement expected Christ's return based on Daniel 8:14, but Christ entered Most Holy Place in heavenly sanctuary instead",
+    "significance": "Beginning of investigative judgment and cleansing of heavenly sanctuary, fulfilling Daniel 8:14",
+    "relatedSymbols": "[\"sanctuary\"]",
+    "sourceUrl": "https://historictruth.org/blog/daniel-prophecy",
+    "createdAt": "2025-11-18T06:34:11.000Z"
+  },
+  {
+    "id": 30006,
+    "eventId": "sunday-law-movements",
+    "name": "Sunday Law Movements",
+    "date": "19th-20th Century",
+    "description": "Various attempts to enforce Sunday observance by civil law in America and Europe",
+    "significance": "Foreshadowing of final enforcement of mark of the beast through Sunday laws",
+    "relatedSymbols": "[\"mark-of-beast\",\"sabbath\"]",
+    "sourceUrl": "https://historictruth.org/blog/sabbath-to-sunday",
+    "createdAt": "2025-11-18T06:34:11.000Z"
+  }
+]

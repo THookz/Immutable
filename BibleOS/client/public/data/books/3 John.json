@@ -1,0 +1,167 @@
+[
+  {
+    "id": 109613,
+    "verseId": "3 John.1.1",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 1,
+    "language": "greek",
+    "text": "Ὁ πρεσβύτερος Γαΐῳ τῷ ἀγαπητῷ, ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Ὁ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSM-\",\"pos\":\"RA\"},{\"position\":2,\"word\":\"πρεσβύτερος\",\"lemma\":\"πρεσβύτερος\",\"morphology\":\"----NSM-\",\"pos\":\"A-\"},{\"position\":3,\"word\":\"Γαΐῳ\",\"lemma\":\"Γάϊος\",\"morphology\":\"----DSM-\",\"pos\":\"N-\"},{\"position\":4,\"word\":\"τῷ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSM-\",\"pos\":\"RA\"},{\"position\":5,\"word\":\"ἀγαπητῷ,\",\"lemma\":\"ἀγαπητός\",\"morphology\":\"----DSM-\",\"pos\":\"A-\"},{\"position\":6,\"word\":\"ὃν\",\"lemma\":\"ὅς\",\"morphology\":\"----ASM-\",\"pos\":\"RR\"},{\"position\":7,\"word\":\"ἐγὼ\",\"lemma\":\"ἐγώ\",\"morphology\":\"----NS--\",\"pos\":\"RP\"},{\"position\":8,\"word\":\"ἀγαπῶ\",\"lemma\":\"ἀγαπάω\",\"morphology\":\"1PAI-S--\",\"pos\":\"V-\"},{\"position\":9,\"word\":\"ἐν\",\"lemma\":\"ἐν\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":10,\"word\":\"ἀληθείᾳ.\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:18.000Z"
+  },
+  {
+    "id": 109614,
+    "verseId": "3 John.1.2",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 2,
+    "language": "greek",
+    "text": "Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Ἀγαπητέ,\",\"lemma\":\"ἀγαπητός\",\"morphology\":\"----VSM-\",\"pos\":\"A-\"},{\"position\":2,\"word\":\"περὶ\",\"lemma\":\"περί\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":3,\"word\":\"πάντων\",\"lemma\":\"πᾶς\",\"morphology\":\"----GPN-\",\"pos\":\"A-\"},{\"position\":4,\"word\":\"εὔχομαί\",\"lemma\":\"εὔχομαι\",\"morphology\":\"1PMI-S--\",\"pos\":\"V-\"},{\"position\":5,\"word\":\"σε\",\"lemma\":\"σύ\",\"morphology\":\"----AS--\",\"pos\":\"RP\"},{\"position\":6,\"word\":\"εὐοδοῦσθαι\",\"lemma\":\"εὐοδόομαι\",\"morphology\":\"-PPN----\",\"pos\":\"V-\"},{\"position\":7,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":8,\"word\":\"ὑγιαίνειν,\",\"lemma\":\"ὑγιαίνω\",\"morphology\":\"-PAN----\",\"pos\":\"V-\"},{\"position\":9,\"word\":\"καθὼς\",\"lemma\":\"καθώς\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":10,\"word\":\"εὐοδοῦταί\",\"lemma\":\"εὐοδόομαι\",\"morphology\":\"3PPI-S--\",\"pos\":\"V-\"},{\"position\":11,\"word\":\"σου\",\"lemma\":\"σύ\",\"morphology\":\"----GS--\",\"pos\":\"RP\"},{\"position\":12,\"word\":\"ἡ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSF-\",\"pos\":\"RA\"},{\"position\":13,\"word\":\"ψυχή.\",\"lemma\":\"ψυχή\",\"morphology\":\"----NSF-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:19.000Z"
+  },
+  {
+    "id": 109615,
+    "verseId": "3 John.1.3",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 3,
+    "language": "greek",
+    "text": "ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"ἐχάρην\",\"lemma\":\"χαίρω\",\"morphology\":\"1API-S--\",\"pos\":\"V-\"},{\"position\":2,\"word\":\"γὰρ\",\"lemma\":\"γάρ\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":3,\"word\":\"λίαν\",\"lemma\":\"λίαν\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":4,\"word\":\"ἐρχομένων\",\"lemma\":\"ἔρχομαι\",\"morphology\":\"-PMPGPM-\",\"pos\":\"V-\"},{\"position\":5,\"word\":\"ἀδελφῶν\",\"lemma\":\"ἀδελφός\",\"morphology\":\"----GPM-\",\"pos\":\"N-\"},{\"position\":6,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":7,\"word\":\"μαρτυρούντων\",\"lemma\":\"μαρτυρέω\",\"morphology\":\"-PAPGPM-\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"σου\",\"lemma\":\"σύ\",\"morphology\":\"----GS--\",\"pos\":\"RP\"},{\"position\":9,\"word\":\"τῇ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSF-\",\"pos\":\"RA\"},{\"position\":10,\"word\":\"ἀληθείᾳ,\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"},{\"position\":11,\"word\":\"καθὼς\",\"lemma\":\"καθώς\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":12,\"word\":\"σὺ\",\"lemma\":\"σύ\",\"morphology\":\"----NS--\",\"pos\":\"RP\"},{\"position\":13,\"word\":\"ἐν\",\"lemma\":\"ἐν\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":14,\"word\":\"ἀληθείᾳ\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"},{\"position\":15,\"word\":\"περιπατεῖς.\",\"lemma\":\"περιπατέω\",\"morphology\":\"2PAI-S--\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:19.000Z"
+  },
+  {
+    "id": 109616,
+    "verseId": "3 John.1.4",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 4,
+    "language": "greek",
+    "text": "μειζοτέραν τούτων οὐκ ἔχω ⸀χαράν, ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν ⸀τῇ ἀληθείᾳ περιπατοῦντα.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"μειζοτέραν\",\"lemma\":\"μειζότερος\",\"morphology\":\"----ASFC\",\"pos\":\"A-\"},{\"position\":2,\"word\":\"τούτων\",\"lemma\":\"οὗτος\",\"morphology\":\"----GPN-\",\"pos\":\"RD\"},{\"position\":3,\"word\":\"οὐκ\",\"lemma\":\"οὐ\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":4,\"word\":\"ἔχω\",\"lemma\":\"ἔχω\",\"morphology\":\"1PAI-S--\",\"pos\":\"V-\"},{\"position\":5,\"word\":\"⸀χαράν,\",\"lemma\":\"χαρά\",\"morphology\":\"----ASF-\",\"pos\":\"N-\"},{\"position\":6,\"word\":\"ἵνα\",\"lemma\":\"ἵνα\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":7,\"word\":\"ἀκούω\",\"lemma\":\"ἀκούω\",\"morphology\":\"1PAS-S--\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"τὰ\",\"lemma\":\"ὁ\",\"morphology\":\"----APN-\",\"pos\":\"RA\"},{\"position\":9,\"word\":\"ἐμὰ\",\"lemma\":\"ἐμός\",\"morphology\":\"----APN-\",\"pos\":\"A-\"},{\"position\":10,\"word\":\"τέκνα\",\"lemma\":\"τέκνον\",\"morphology\":\"----APN-\",\"pos\":\"N-\"},{\"position\":11,\"word\":\"ἐν\",\"lemma\":\"ἐν\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":12,\"word\":\"⸀τῇ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSF-\",\"pos\":\"RA\"},{\"position\":13,\"word\":\"ἀληθείᾳ\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"},{\"position\":14,\"word\":\"περιπατοῦντα.\",\"lemma\":\"περιπατέω\",\"morphology\":\"-PAPAPN-\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:20.000Z"
+  },
+  {
+    "id": 109617,
+    "verseId": "3 John.1.5",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 5,
+    "language": "greek",
+    "text": "Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ ⸀τοῦτο ξένους,",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Ἀγαπητέ,\",\"lemma\":\"ἀγαπητός\",\"morphology\":\"----VSM-\",\"pos\":\"A-\"},{\"position\":2,\"word\":\"πιστὸν\",\"lemma\":\"πιστός\",\"morphology\":\"----ASN-\",\"pos\":\"A-\"},{\"position\":3,\"word\":\"ποιεῖς\",\"lemma\":\"ποιέω\",\"morphology\":\"2PAI-S--\",\"pos\":\"V-\"},{\"position\":4,\"word\":\"ὃ\",\"lemma\":\"ὅς\",\"morphology\":\"----ASN-\",\"pos\":\"RR\"},{\"position\":5,\"word\":\"ἐὰν\",\"lemma\":\"ἐάν\",\"morphology\":\"--------\",\"pos\":\"X-\"},{\"position\":6,\"word\":\"ἐργάσῃ\",\"lemma\":\"ἐργάζομαι\",\"morphology\":\"2AMS-S--\",\"pos\":\"V-\"},{\"position\":7,\"word\":\"εἰς\",\"lemma\":\"εἰς\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":8,\"word\":\"τοὺς\",\"lemma\":\"ὁ\",\"morphology\":\"----APM-\",\"pos\":\"RA\"},{\"position\":9,\"word\":\"ἀδελφοὺς\",\"lemma\":\"ἀδελφός\",\"morphology\":\"----APM-\",\"pos\":\"N-\"},{\"position\":10,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":11,\"word\":\"⸀τοῦτο\",\"lemma\":\"οὗτος\",\"morphology\":\"----ASN-\",\"pos\":\"RD\"},{\"position\":12,\"word\":\"ξένους,\",\"lemma\":\"ξένος\",\"morphology\":\"----APM-\",\"pos\":\"A-\"}]",
+    "createdAt": "2025-11-18T19:42:20.000Z"
+  },
+  {
+    "id": 109618,
+    "verseId": "3 John.1.6",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 6,
+    "language": "greek",
+    "text": "οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας, οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ θεοῦ·",
+    "wordAlignment": "[{\"position\":1,\"word\":\"οἳ\",\"lemma\":\"ὅς\",\"morphology\":\"----NPM-\",\"pos\":\"RR\"},{\"position\":2,\"word\":\"ἐμαρτύρησάν\",\"lemma\":\"μαρτυρέω\",\"morphology\":\"3AAI-P--\",\"pos\":\"V-\"},{\"position\":3,\"word\":\"σου\",\"lemma\":\"σύ\",\"morphology\":\"----GS--\",\"pos\":\"RP\"},{\"position\":4,\"word\":\"τῇ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSF-\",\"pos\":\"RA\"},{\"position\":5,\"word\":\"ἀγάπῃ\",\"lemma\":\"ἀγάπη\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"},{\"position\":6,\"word\":\"ἐνώπιον\",\"lemma\":\"ἐνώπιον\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":7,\"word\":\"ἐκκλησίας,\",\"lemma\":\"ἐκκλησία\",\"morphology\":\"----GSF-\",\"pos\":\"N-\"},{\"position\":8,\"word\":\"οὓς\",\"lemma\":\"ὅς\",\"morphology\":\"----APM-\",\"pos\":\"RR\"},{\"position\":9,\"word\":\"καλῶς\",\"lemma\":\"καλῶς\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":10,\"word\":\"ποιήσεις\",\"lemma\":\"ποιέω\",\"morphology\":\"2FAI-S--\",\"pos\":\"V-\"},{\"position\":11,\"word\":\"προπέμψας\",\"lemma\":\"προπέμπω\",\"morphology\":\"-AAPNSM-\",\"pos\":\"V-\"},{\"position\":12,\"word\":\"ἀξίως\",\"lemma\":\"ἀξίως\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":13,\"word\":\"τοῦ\",\"lemma\":\"ὁ\",\"morphology\":\"----GSM-\",\"pos\":\"RA\"},{\"position\":14,\"word\":\"θεοῦ·\",\"lemma\":\"θεός\",\"morphology\":\"----GSM-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:21.000Z"
+  },
+  {
+    "id": 109619,
+    "verseId": "3 John.1.7",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 7,
+    "language": "greek",
+    "text": "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ⸀ἐθνικῶν.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"ὑπὲρ\",\"lemma\":\"ὑπέρ\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":2,\"word\":\"γὰρ\",\"lemma\":\"γάρ\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":3,\"word\":\"τοῦ\",\"lemma\":\"ὁ\",\"morphology\":\"----GSN-\",\"pos\":\"RA\"},{\"position\":4,\"word\":\"ὀνόματος\",\"lemma\":\"ὄνομα\",\"morphology\":\"----GSN-\",\"pos\":\"N-\"},{\"position\":5,\"word\":\"ἐξῆλθον\",\"lemma\":\"ἐξέρχομαι\",\"morphology\":\"3AAI-P--\",\"pos\":\"V-\"},{\"position\":6,\"word\":\"μηδὲν\",\"lemma\":\"μηδείς\",\"morphology\":\"----ASN-\",\"pos\":\"A-\"},{\"position\":7,\"word\":\"λαμβάνοντες\",\"lemma\":\"λαμβάνω\",\"morphology\":\"-PAPNPM-\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"ἀπὸ\",\"lemma\":\"ἀπό\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":9,\"word\":\"τῶν\",\"lemma\":\"ὁ\",\"morphology\":\"----GPM-\",\"pos\":\"RA\"},{\"position\":10,\"word\":\"⸀ἐθνικῶν.\",\"lemma\":\"ἐθνικός\",\"morphology\":\"----GPM-\",\"pos\":\"A-\"}]",
+    "createdAt": "2025-11-18T19:42:21.000Z"
+  },
+  {
+    "id": 109620,
+    "verseId": "3 John.1.8",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 8,
+    "language": "greek",
+    "text": "ἡμεῖς οὖν ὀφείλομεν ⸀ὑπολαμβάνειν τοὺς τοιούτους, ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"ἡμεῖς\",\"lemma\":\"ἐγώ\",\"morphology\":\"----NP--\",\"pos\":\"RP\"},{\"position\":2,\"word\":\"οὖν\",\"lemma\":\"οὖν\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":3,\"word\":\"ὀφείλομεν\",\"lemma\":\"ὀφείλω\",\"morphology\":\"1PAI-P--\",\"pos\":\"V-\"},{\"position\":4,\"word\":\"⸀ὑπολαμβάνειν\",\"lemma\":\"ὑπολαμβάνω\",\"morphology\":\"-PAN----\",\"pos\":\"V-\"},{\"position\":5,\"word\":\"τοὺς\",\"lemma\":\"ὁ\",\"morphology\":\"----APM-\",\"pos\":\"RA\"},{\"position\":6,\"word\":\"τοιούτους,\",\"lemma\":\"τοιοῦτος\",\"morphology\":\"----APM-\",\"pos\":\"RD\"},{\"position\":7,\"word\":\"ἵνα\",\"lemma\":\"ἵνα\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":8,\"word\":\"συνεργοὶ\",\"lemma\":\"συνεργός\",\"morphology\":\"----NPM-\",\"pos\":\"A-\"},{\"position\":9,\"word\":\"γινώμεθα\",\"lemma\":\"γίνομαι\",\"morphology\":\"1PMS-P--\",\"pos\":\"V-\"},{\"position\":10,\"word\":\"τῇ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSF-\",\"pos\":\"RA\"},{\"position\":11,\"word\":\"ἀληθείᾳ.\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:22.000Z"
+  },
+  {
+    "id": 109621,
+    "verseId": "3 John.1.9",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 9,
+    "language": "greek",
+    "text": "Ἔγραψά ⸀τι τῇ ἐκκλησίᾳ· ἀλλ’ ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης οὐκ ἐπιδέχεται ἡμᾶς.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Ἔγραψά\",\"lemma\":\"γράφω\",\"morphology\":\"1AAI-S--\",\"pos\":\"V-\"},{\"position\":2,\"word\":\"⸀τι\",\"lemma\":\"τις\",\"morphology\":\"----ASN-\",\"pos\":\"RI\"},{\"position\":3,\"word\":\"τῇ\",\"lemma\":\"ὁ\",\"morphology\":\"----DSF-\",\"pos\":\"RA\"},{\"position\":4,\"word\":\"ἐκκλησίᾳ·\",\"lemma\":\"ἐκκλησία\",\"morphology\":\"----DSF-\",\"pos\":\"N-\"},{\"position\":5,\"word\":\"ἀλλ’\",\"lemma\":\"ἀλλά\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":6,\"word\":\"ὁ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSM-\",\"pos\":\"RA\"},{\"position\":7,\"word\":\"φιλοπρωτεύων\",\"lemma\":\"φιλοπρωτεύω\",\"morphology\":\"-PAPNSM-\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"αὐτῶν\",\"lemma\":\"αὐτός\",\"morphology\":\"----GPM-\",\"pos\":\"RP\"},{\"position\":9,\"word\":\"Διοτρέφης\",\"lemma\":\"Διοτρέφης\",\"morphology\":\"----NSM-\",\"pos\":\"N-\"},{\"position\":10,\"word\":\"οὐκ\",\"lemma\":\"οὐ\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":11,\"word\":\"ἐπιδέχεται\",\"lemma\":\"ἐπιδέχομαι\",\"morphology\":\"3PMI-S--\",\"pos\":\"V-\"},{\"position\":12,\"word\":\"ἡμᾶς.\",\"lemma\":\"ἐγώ\",\"morphology\":\"----AP--\",\"pos\":\"RP\"}]",
+    "createdAt": "2025-11-18T19:42:22.000Z"
+  },
+  {
+    "id": 109622,
+    "verseId": "3 John.1.10",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 10,
+    "language": "greek",
+    "text": "διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ, λόγοις πονηροῖς φλυαρῶν ἡμᾶς, καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"διὰ\",\"lemma\":\"διά\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":2,\"word\":\"τοῦτο,\",\"lemma\":\"οὗτος\",\"morphology\":\"----ASN-\",\"pos\":\"RD\"},{\"position\":3,\"word\":\"ἐὰν\",\"lemma\":\"ἐάν\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":4,\"word\":\"ἔλθω,\",\"lemma\":\"ἔρχομαι\",\"morphology\":\"1AAS-S--\",\"pos\":\"V-\"},{\"position\":5,\"word\":\"ὑπομνήσω\",\"lemma\":\"ὑπομιμνῄσκω\",\"morphology\":\"1FAI-S--\",\"pos\":\"V-\"},{\"position\":6,\"word\":\"αὐτοῦ\",\"lemma\":\"αὐτός\",\"morphology\":\"----GSM-\",\"pos\":\"RP\"},{\"position\":7,\"word\":\"τὰ\",\"lemma\":\"ὁ\",\"morphology\":\"----APN-\",\"pos\":\"RA\"},{\"position\":8,\"word\":\"ἔργα\",\"lemma\":\"ἔργον\",\"morphology\":\"----APN-\",\"pos\":\"N-\"},{\"position\":9,\"word\":\"ἃ\",\"lemma\":\"ὅς\",\"morphology\":\"----APN-\",\"pos\":\"RR\"},{\"position\":10,\"word\":\"ποιεῖ,\",\"lemma\":\"ποιέω\",\"morphology\":\"3PAI-S--\",\"pos\":\"V-\"},{\"position\":11,\"word\":\"λόγοις\",\"lemma\":\"λόγος\",\"morphology\":\"----DPM-\",\"pos\":\"N-\"},{\"position\":12,\"word\":\"πονηροῖς\",\"lemma\":\"πονηρός\",\"morphology\":\"----DPM-\",\"pos\":\"A-\"},{\"position\":13,\"word\":\"φλυαρῶν\",\"lemma\":\"φλυαρέω\",\"morphology\":\"-PAPNSM-\",\"pos\":\"V-\"},{\"position\":14,\"word\":\"ἡμᾶς,\",\"lemma\":\"ἐγώ\",\"morphology\":\"----AP--\",\"pos\":\"RP\"},{\"position\":15,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":16,\"word\":\"μὴ\",\"lemma\":\"μή\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":17,\"word\":\"ἀρκούμενος\",\"lemma\":\"ἀρκέω\",\"morphology\":\"-PPPNSM-\",\"pos\":\"V-\"},{\"position\":18,\"word\":\"ἐπὶ\",\"lemma\":\"ἐπί\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":19,\"word\":\"τούτοις\",\"lemma\":\"οὗτος\",\"morphology\":\"----DPN-\",\"pos\":\"RD\"},{\"position\":20,\"word\":\"οὔτε\",\"lemma\":\"οὔτε\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":21,\"word\":\"αὐτὸς\",\"lemma\":\"αὐτός\",\"morphology\":\"----NSM-\",\"pos\":\"RP\"},{\"position\":22,\"word\":\"ἐπιδέχεται\",\"lemma\":\"ἐπιδέχομαι\",\"morphology\":\"3PMI-S--\",\"pos\":\"V-\"},{\"position\":23,\"word\":\"τοὺς\",\"lemma\":\"ὁ\",\"morphology\":\"----APM-\",\"pos\":\"RA\"},{\"position\":24,\"word\":\"ἀδελφοὺς\",\"lemma\":\"ἀδελφός\",\"morphology\":\"----APM-\",\"pos\":\"N-\"},{\"position\":25,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":26,\"word\":\"τοὺς\",\"lemma\":\"ὁ\",\"morphology\":\"----APM-\",\"pos\":\"RA\"},{\"position\":27,\"word\":\"βουλομένους\",\"lemma\":\"βούλομαι\",\"morphology\":\"-PMPAPM-\",\"pos\":\"V-\"},{\"position\":28,\"word\":\"κωλύει\",\"lemma\":\"κωλύω\",\"morphology\":\"3PAI-S--\",\"pos\":\"V-\"},{\"position\":29,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":30,\"word\":\"ἐκ\",\"lemma\":\"ἐκ\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":31,\"word\":\"τῆς\",\"lemma\":\"ὁ\",\"morphology\":\"----GSF-\",\"pos\":\"RA\"},{\"position\":32,\"word\":\"ἐκκλησίας\",\"lemma\":\"ἐκκλησία\",\"morphology\":\"----GSF-\",\"pos\":\"N-\"},{\"position\":33,\"word\":\"ἐκβάλλει.\",\"lemma\":\"ἐκβάλλω\",\"morphology\":\"3PAI-S--\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:23.000Z"
+  },
+  {
+    "id": 109623,
+    "verseId": "3 John.1.11",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 11,
+    "language": "greek",
+    "text": "Ἀγαπητέ, μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν. ὁ ἀγαθοποιῶν ἐκ τοῦ θεοῦ ἐστιν· ὁ κακοποιῶν οὐχ ἑώρακεν τὸν θεόν.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Ἀγαπητέ,\",\"lemma\":\"ἀγαπητός\",\"morphology\":\"----VSM-\",\"pos\":\"A-\"},{\"position\":2,\"word\":\"μὴ\",\"lemma\":\"μή\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":3,\"word\":\"μιμοῦ\",\"lemma\":\"μιμέομαι\",\"morphology\":\"2PMD-S--\",\"pos\":\"V-\"},{\"position\":4,\"word\":\"τὸ\",\"lemma\":\"ὁ\",\"morphology\":\"----ASN-\",\"pos\":\"RA\"},{\"position\":5,\"word\":\"κακὸν\",\"lemma\":\"κακός\",\"morphology\":\"----ASN-\",\"pos\":\"A-\"},{\"position\":6,\"word\":\"ἀλλὰ\",\"lemma\":\"ἀλλά\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":7,\"word\":\"τὸ\",\"lemma\":\"ὁ\",\"morphology\":\"----ASN-\",\"pos\":\"RA\"},{\"position\":8,\"word\":\"ἀγαθόν.\",\"lemma\":\"ἀγαθός\",\"morphology\":\"----ASN-\",\"pos\":\"A-\"},{\"position\":9,\"word\":\"ὁ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSM-\",\"pos\":\"RA\"},{\"position\":10,\"word\":\"ἀγαθοποιῶν\",\"lemma\":\"ἀγαθοποιέω\",\"morphology\":\"-PAPNSM-\",\"pos\":\"V-\"},{\"position\":11,\"word\":\"ἐκ\",\"lemma\":\"ἐκ\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":12,\"word\":\"τοῦ\",\"lemma\":\"ὁ\",\"morphology\":\"----GSM-\",\"pos\":\"RA\"},{\"position\":13,\"word\":\"θεοῦ\",\"lemma\":\"θεός\",\"morphology\":\"----GSM-\",\"pos\":\"N-\"},{\"position\":14,\"word\":\"ἐστιν·\",\"lemma\":\"εἰμί\",\"morphology\":\"3PAI-S--\",\"pos\":\"V-\"},{\"position\":15,\"word\":\"ὁ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSM-\",\"pos\":\"RA\"},{\"position\":16,\"word\":\"κακοποιῶν\",\"lemma\":\"κακοποιέω\",\"morphology\":\"-PAPNSM-\",\"pos\":\"V-\"},{\"position\":17,\"word\":\"οὐχ\",\"lemma\":\"οὐ\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":18,\"word\":\"ἑώρακεν\",\"lemma\":\"ὁράω\",\"morphology\":\"3XAI-S--\",\"pos\":\"V-\"},{\"position\":19,\"word\":\"τὸν\",\"lemma\":\"ὁ\",\"morphology\":\"----ASM-\",\"pos\":\"RA\"},{\"position\":20,\"word\":\"θεόν.\",\"lemma\":\"θεός\",\"morphology\":\"----ASM-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:23.000Z"
+  },
+  {
+    "id": 109624,
+    "verseId": "3 John.1.12",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 12,
+    "language": "greek",
+    "text": "Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας· καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ ⸀οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Δημητρίῳ\",\"lemma\":\"Δημήτριος\",\"morphology\":\"----DSM-\",\"pos\":\"N-\"},{\"position\":2,\"word\":\"μεμαρτύρηται\",\"lemma\":\"μαρτυρέω\",\"morphology\":\"3XPI-S--\",\"pos\":\"V-\"},{\"position\":3,\"word\":\"ὑπὸ\",\"lemma\":\"ὑπό\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":4,\"word\":\"πάντων\",\"lemma\":\"πᾶς\",\"morphology\":\"----GPM-\",\"pos\":\"A-\"},{\"position\":5,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":6,\"word\":\"ὑπὸ\",\"lemma\":\"ὑπό\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":7,\"word\":\"αὐτῆς\",\"lemma\":\"αὐτός\",\"morphology\":\"----GSF-\",\"pos\":\"RP\"},{\"position\":8,\"word\":\"τῆς\",\"lemma\":\"ὁ\",\"morphology\":\"----GSF-\",\"pos\":\"RA\"},{\"position\":9,\"word\":\"ἀληθείας·\",\"lemma\":\"ἀλήθεια\",\"morphology\":\"----GSF-\",\"pos\":\"N-\"},{\"position\":10,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":11,\"word\":\"ἡμεῖς\",\"lemma\":\"ἐγώ\",\"morphology\":\"----NP--\",\"pos\":\"RP\"},{\"position\":12,\"word\":\"δὲ\",\"lemma\":\"δέ\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":13,\"word\":\"μαρτυροῦμεν,\",\"lemma\":\"μαρτυρέω\",\"morphology\":\"1PAI-P--\",\"pos\":\"V-\"},{\"position\":14,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":15,\"word\":\"⸀οἶδας\",\"lemma\":\"οἶδα\",\"morphology\":\"2XAI-S--\",\"pos\":\"V-\"},{\"position\":16,\"word\":\"ὅτι\",\"lemma\":\"ὅτι\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":17,\"word\":\"ἡ\",\"lemma\":\"ὁ\",\"morphology\":\"----NSF-\",\"pos\":\"RA\"},{\"position\":18,\"word\":\"μαρτυρία\",\"lemma\":\"μαρτυρία\",\"morphology\":\"----NSF-\",\"pos\":\"N-\"},{\"position\":19,\"word\":\"ἡμῶν\",\"lemma\":\"ἐγώ\",\"morphology\":\"----GP--\",\"pos\":\"RP\"},{\"position\":20,\"word\":\"ἀληθής\",\"lemma\":\"ἀληθής\",\"morphology\":\"----NSF-\",\"pos\":\"A-\"},{\"position\":21,\"word\":\"ἐστιν.\",\"lemma\":\"εἰμί\",\"morphology\":\"3PAI-S--\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:24.000Z"
+  },
+  {
+    "id": 109625,
+    "verseId": "3 John.1.13",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 13,
+    "language": "greek",
+    "text": "Πολλὰ εἶχον ⸂γράψαι σοι⸃, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι ⸀γράφειν·",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Πολλὰ\",\"lemma\":\"πολύς\",\"morphology\":\"----APN-\",\"pos\":\"A-\"},{\"position\":2,\"word\":\"εἶχον\",\"lemma\":\"ἔχω\",\"morphology\":\"1IAI-S--\",\"pos\":\"V-\"},{\"position\":3,\"word\":\"⸂γράψαι\",\"lemma\":\"γράφω\",\"morphology\":\"-AAN----\",\"pos\":\"V-\"},{\"position\":4,\"word\":\"σοι⸃,\",\"lemma\":\"σύ\",\"morphology\":\"----DS--\",\"pos\":\"RP\"},{\"position\":5,\"word\":\"ἀλλ’\",\"lemma\":\"ἀλλά\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":6,\"word\":\"οὐ\",\"lemma\":\"οὐ\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":7,\"word\":\"θέλω\",\"lemma\":\"θέλω\",\"morphology\":\"1PAI-S--\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"διὰ\",\"lemma\":\"διά\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":9,\"word\":\"μέλανος\",\"lemma\":\"μέλαν\",\"morphology\":\"----GSN-\",\"pos\":\"N-\"},{\"position\":10,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":11,\"word\":\"καλάμου\",\"lemma\":\"κάλαμος\",\"morphology\":\"----GSM-\",\"pos\":\"N-\"},{\"position\":12,\"word\":\"σοι\",\"lemma\":\"σύ\",\"morphology\":\"----DS--\",\"pos\":\"RP\"},{\"position\":13,\"word\":\"⸀γράφειν·\",\"lemma\":\"γράφω\",\"morphology\":\"-PAN----\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:24.000Z"
+  },
+  {
+    "id": 109626,
+    "verseId": "3 John.1.14",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 14,
+    "language": "greek",
+    "text": "ἐλπίζω δὲ εὐθέως ⸂σε ἰδεῖν⸃, καὶ στόμα πρὸς στόμα λαλήσομεν.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"ἐλπίζω\",\"lemma\":\"ἐλπίζω\",\"morphology\":\"1PAI-S--\",\"pos\":\"V-\"},{\"position\":2,\"word\":\"δὲ\",\"lemma\":\"δέ\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":3,\"word\":\"εὐθέως\",\"lemma\":\"εὐθέως\",\"morphology\":\"--------\",\"pos\":\"D-\"},{\"position\":4,\"word\":\"⸂σε\",\"lemma\":\"σύ\",\"morphology\":\"----AS--\",\"pos\":\"RP\"},{\"position\":5,\"word\":\"ἰδεῖν⸃,\",\"lemma\":\"ὁράω\",\"morphology\":\"-AAN----\",\"pos\":\"V-\"},{\"position\":6,\"word\":\"καὶ\",\"lemma\":\"καί\",\"morphology\":\"--------\",\"pos\":\"C-\"},{\"position\":7,\"word\":\"στόμα\",\"lemma\":\"στόμα\",\"morphology\":\"----ASN-\",\"pos\":\"N-\"},{\"position\":8,\"word\":\"πρὸς\",\"lemma\":\"πρός\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":9,\"word\":\"στόμα\",\"lemma\":\"στόμα\",\"morphology\":\"----ASN-\",\"pos\":\"N-\"},{\"position\":10,\"word\":\"λαλήσομεν.\",\"lemma\":\"λαλέω\",\"morphology\":\"1FAI-P--\",\"pos\":\"V-\"}]",
+    "createdAt": "2025-11-18T19:42:24.000Z"
+  },
+  {
+    "id": 109627,
+    "verseId": "3 John.1.15",
+    "book": "3 John",
+    "chapter": 1,
+    "verse": 15,
+    "language": "greek",
+    "text": "Εἰρήνη σοι. ἀσπάζονταί σε οἱ φίλοι. ἀσπάζου τοὺς φίλους κατ’ ὄνομα.",
+    "wordAlignment": "[{\"position\":1,\"word\":\"Εἰρήνη\",\"lemma\":\"εἰρήνη\",\"morphology\":\"----NSF-\",\"pos\":\"N-\"},{\"position\":2,\"word\":\"σοι.\",\"lemma\":\"σύ\",\"morphology\":\"----DS--\",\"pos\":\"RP\"},{\"position\":3,\"word\":\"ἀσπάζονταί\",\"lemma\":\"ἀσπάζομαι\",\"morphology\":\"3PMI-P--\",\"pos\":\"V-\"},{\"position\":4,\"word\":\"σε\",\"lemma\":\"σύ\",\"morphology\":\"----AS--\",\"pos\":\"RP\"},{\"position\":5,\"word\":\"οἱ\",\"lemma\":\"ὁ\",\"morphology\":\"----NPM-\",\"pos\":\"RA\"},{\"position\":6,\"word\":\"φίλοι.\",\"lemma\":\"φίλος\",\"morphology\":\"----NPM-\",\"pos\":\"A-\"},{\"position\":7,\"word\":\"ἀσπάζου\",\"lemma\":\"ἀσπάζομαι\",\"morphology\":\"2PMD-S--\",\"pos\":\"V-\"},{\"position\":8,\"word\":\"τοὺς\",\"lemma\":\"ὁ\",\"morphology\":\"----APM-\",\"pos\":\"RA\"},{\"position\":9,\"word\":\"φίλους\",\"lemma\":\"φίλος\",\"morphology\":\"----APM-\",\"pos\":\"A-\"},{\"position\":10,\"word\":\"κατ’\",\"lemma\":\"κατά\",\"morphology\":\"--------\",\"pos\":\"P-\"},{\"position\":11,\"word\":\"ὄνομα.\",\"lemma\":\"ὄνομα\",\"morphology\":\"----ASN-\",\"pos\":\"N-\"}]",
+    "createdAt": "2025-11-18T19:42:25.000Z"
+  }
+]
