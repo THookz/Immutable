@@ -351,7 +351,7 @@ export async function getUnsyncedItems(): Promise<SyncQueueItem[]> {
     const transaction = db.transaction(STORES.SYNC_QUEUE, 'readonly');
     const store = transaction.objectStore(STORES.SYNC_QUEUE);
     const index = store.index('synced');
-    const request = index.getAll(false);
+    const request = index.getAll(0); // 0 for false in IndexedDB
 
     request.onerror = () => reject(request.error);
     request.onsuccess = () => resolve(request.result);
@@ -543,4 +543,44 @@ export async function isOfflineDataAvailable(): Promise<boolean> {
     console.error('Error checking offline data availability:', error);
     return false;
   }
+}
+
+/**
+ * Get data by index
+ */
+export async function getByIndex(
+  storeName: string,
+  indexName: string,
+  value: IDBValidKey
+): Promise<any> {
+  const db = await initDB();
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(storeName, 'readonly');
+    const store = transaction.objectStore(storeName);
+    const index = store.index(indexName);
+    const request = index.get(value);
+
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => resolve(request.result);
+  });
+}
+
+/**
+ * Get all data by index
+ */
+export async function getAllByIndex(
+  storeName: string,
+  indexName: string,
+  value: IDBValidKey
+): Promise<any[]> {
+  const db = await initDB();
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(storeName, 'readonly');
+    const store = transaction.objectStore(storeName);
+    const index = store.index(indexName);
+    const request = index.getAll(value);
+
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => resolve(request.result);
+  });
 }

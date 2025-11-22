@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { APP_LOGO, APP_TITLE } from "@/const";
-import { Book, Flame, History, Languages, Search, Download } from "lucide-react";
+import { Book, Flame, History, Languages, Search, Download, RefreshCw, CloudDownload } from "lucide-react";
 import { Link } from "wouter";
 import { OfflineDownload } from "@/components/OfflineDownload";
 
@@ -140,6 +140,38 @@ export default function Home() {
               </CardDescription>
             </CardContent>
           </Card>
+
+          <Link href="/download">
+            <Card className="hover:shadow-lg transition-shadow cursor-pointer">
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <CloudDownload className="h-5 w-5 text-blue-600" />
+                  Progressive Download
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <CardDescription>
+                  Download individual Bible books for offline access. Choose only what you need to save storage space.
+                </CardDescription>
+              </CardContent>
+            </Card>
+          </Link>
+
+          <Link href="/sync-status">
+            <Card className="hover:shadow-lg transition-shadow cursor-pointer">
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <RefreshCw className="h-5 w-5 text-green-600" />
+                  Sync Status
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <CardDescription>
+                  Monitor offline data synchronization and manage background sync settings for seamless updates.
+                </CardDescription>
+              </CardContent>
+            </Card>
+          </Link>
         </div>
       </section>
 

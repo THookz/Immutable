@@ -7,7 +7,16 @@ import superjson from "superjson";
 import App from "./App";
 import { getLoginUrl } from "./const";
 import { registerServiceWorker } from "./lib/registerSW";
+import { setupAutoSync, isSyncSupported } from "./lib/sync-manager";
+import { initDB } from "./lib/indexeddb";
 import "./index.css";
+
+// Initialize IndexedDB
+initDB().then(() => {
+  console.log('IndexedDB initialized');
+}).catch((error) => {
+  console.error('Failed to initialize IndexedDB:', error);
+});
 
 // Register service worker for offline functionality
 if (import.meta.env.PROD) {
@@ -16,6 +25,14 @@ if (import.meta.env.PROD) {
       console.log('BibleOS is now available offline!');
     }
   });
+}
+
+// Setup auto-sync for background synchronization
+if (isSyncSupported()) {
+  setupAutoSync();
+  console.log('Auto-sync enabled');
+} else {
+  console.warn('Background sync not supported in this browser');
 }
 
 const queryClient = new QueryClient();
