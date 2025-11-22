@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "timelineKey": "daniel_2_kingdoms",
+    "name": "Daniel 2: The Great Image - Four Kingdoms Timeline",
+    "description": "The prophetic timeline from Nebuchadnezzar's dream (Daniel 2), showing the succession of world empires from Babylon to Christ's eternal kingdom. This is the foundational prophecy that establishes the historicist interpretation of Daniel's visions.",
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2],
+      "verses": ["Dan.2.31-45"]
+    },
+    "periods": [
+      {
+        "id": "babylon",
+        "name": "Babylon (Head of Gold)",
+        "eventKey": "babylon_empire",
+        "startYear": -612,
+        "endYear": -539,
+        "duration": "73 years",
+        "color": "#FFD700",
+        "description": "The first world empire. God explicitly identified: 'You are this head of gold' (Dan 2:38). Babylon fell to Cyrus the Great in 539 BC, exactly as prophesied."
+      },
+      {
+        "id": "medo_persia",
+        "name": "Medo-Persia (Chest of Silver)",
+        "eventKey": "medo_persia_empire",
+        "startYear": -539,
+        "endYear": -331,
+        "duration": "208 years",
+        "color": "#C0C0C0",
+        "description": "The second kingdom, 'inferior' to Babylon (Dan 2:39). The two arms represent the dual Medo-Persian alliance. Fell to Alexander the Great at Gaugamela (331 BC)."
+      },
+      {
+        "id": "greece",
+        "name": "Greece (Belly of Bronze)",
+        "eventKey": "greece_empire",
+        "startYear": -331,
+        "endYear": -168,
+        "duration": "163 years",
+        "color": "#CD7F32",
+        "description": "The third kingdom of bronze, 'which shall rule over all the earth' (Dan 2:39). Alexander conquered the known world in 10 years. Fell to Rome at Pydna (168 BC)."
+      },
+      {
+        "id": "rome",
+        "name": "Rome (Legs of Iron)",
+        "eventKey": "rome_empire",
+        "startYear": -168,
+        "endYear": 476,
+        "duration": "644 years",
+        "color": "#808080",
+        "description": "The fourth kingdom, 'strong as iron' (Dan 2:40). Rome crushed all opposition. The two legs represent Eastern (Constantinople) and Western (Rome) empires. Western Rome fell in 476 AD."
+      },
+      {
+        "id": "divided_europe",
+        "name": "Divided Europe (Feet of Iron & Clay)",
+        "eventKey": "divided_rome",
+        "startYear": 476,
+        "endYear": null,
+        "duration": "1,500+ years (ongoing)",
+        "color": "#A0522D",
+        "description": "The divided state of Europe. 'They shall not cleave one to another' (Dan 2:43). Despite countless attempts (Charlemagne, Napoleon, Hitler, EU), Europe has never reunited - exactly as prophesied."
+      },
+      {
+        "id": "stone_kingdom",
+        "name": "God's Eternal Kingdom (Stone)",
+        "eventKey": "stone_kingdom",
+        "startYear": null,
+        "endYear": null,
+        "duration": "Forever",
+        "color": "#4169E1",
+        "description": "The stone 'cut out without hands' strikes the feet (divided Europe) and becomes a great mountain filling the earth (Dan 2:34-35, 44-45). Christ's Second Coming and eternal kingdom."
+      }
+    ],
+    "interpretiveNotes": "This timeline spans 2,600+ years of fulfilled prophecy with mathematical precision. Every kingdom arose and fell exactly as prophesied. We are living in the time of the feet - the final phase before the stone strikes. The accuracy of past fulfillments gives us confidence in the future fulfillment: Christ's return and the establishment of His eternal kingdom.",
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 2,
+    "timelineKey": "daniel_7_beasts",
+    "name": "Daniel 7: Four Beasts and the Little Horn",
+    "description": "The prophetic timeline from Daniel's vision of four beasts (Daniel 7), paralleling Daniel 2 but adding crucial details about the little horn power that persecutes the saints for 1,260 years.",
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [7],
+      "verses": ["Dan.7.1-28"]
+    },
+    "periods": [
+      {
+        "id": "babylon_lion",
+        "name": "Babylon (Lion with Eagle's Wings)",
+        "eventKey": "babylon_empire",
+        "startYear": -612,
+        "endYear": -539,
+        "duration": "73 years",
+        "color": "#FFD700",
+        "description": "The lion represents royal power. The eagle's wings represent rapid conquest. Babylon was the dominant power during Daniel's time."
+      },
+      {
+        "id": "medo_persia_bear",
+        "name": "Medo-Persia (Bear with Three Ribs)",
+        "eventKey": "medo_persia_empire",
+        "startYear": -539,
+        "endYear": -331,
+        "duration": "208 years",
+        "color": "#C0C0C0",
+        "description": "The bear represents strength and ferocity. Raised up on one side (Persia dominant). Three ribs = three conquests: Lydia (546 BC), Babylon (539 BC), Egypt (525 BC)."
+      },
+      {
+        "id": "greece_leopard",
+        "name": "Greece (Leopard with Four Wings & Four Heads)",
+        "eventKey": "greece_empire",
+        "startYear": -331,
+        "endYear": -168,
+        "duration": "163 years",
+        "color": "#CD7F32",
+        "description": "The leopard represents speed. Four wings = Alexander's lightning-fast conquests. Four heads = division among four generals after Alexander's death (323 BC)."
+      },
+      {
+        "id": "rome_beast",
+        "name": "Rome (Dreadful Beast with Ten Horns)",
+        "eventKey": "rome_empire",
+        "startYear": -168,
+        "endYear": 476,
+        "duration": "644 years",
+        "color": "#808080",
+        "description": "'Dreadful and terrible, exceedingly strong' with iron teeth (Dan 7:7). The ten horns represent the ten kingdoms that arose from Western Rome's fall."
+      },
+      {
+        "id": "ten_kingdoms",
+        "name": "Ten Kingdoms (Ten Horns)",
+        "eventKey": "divided_rome",
+        "startYear": 476,
+        "endYear": 538,
+        "duration": "62 years",
+        "color": "#A0522D",
+        "description": "The ten Germanic tribes that divided Western Rome: Alemanni, Franks, Burgundians, Suevi, Anglo-Saxons, Visigoths, Lombards, Ostrogoths, Heruli, Vandals."
+      },
+      {
+        "id": "little_horn",
+        "name": "Little Horn (Papal Supremacy)",
+        "eventKey": "little_horn_papal",
+        "startYear": 538,
+        "endYear": 1798,
+        "duration": "1,260 years",
+        "color": "#8B0000",
+        "description": "The little horn arose among the ten, uprooted three (Heruli 493, Vandals 534, Ostrogoths 538), spoke pompous words, persecuted saints, attempted to change times and law. Ruled for 'time, times, and half a time' (1,260 years: 538-1798 AD)."
+      },
+      {
+        "id": "time_of_end",
+        "name": "Time of the End",
+        "eventKey": "deadly_wound_1798",
+        "startYear": 1798,
+        "endYear": null,
+        "duration": "227+ years (ongoing)",
+        "color": "#FF8C00",
+        "description": "The 1,260 years ended in 1798 when Napoleon took the pope captive (deadly wound, Rev 13:3). Daniel 12:4 marks this as the beginning of the 'time of the end' when knowledge would increase."
+      },
+      {
+        "id": "judgment_kingdom",
+        "name": "Judgment & Kingdom Given to Saints",
+        "eventKey": "stone_kingdom",
+        "startYear": null,
+        "endYear": null,
+        "duration": "Forever",
+        "color": "#4169E1",
+        "description": "The Ancient of Days sits in judgment (Dan 7:9-10). The little horn is destroyed (Dan 7:11, 26). The Son of Man receives the kingdom (Dan 7:13-14). The saints possess the kingdom forever (Dan 7:18, 27)."
+      }
+    ],
+    "interpretiveNotes": "Daniel 7 parallels Daniel 2 but adds critical details about the little horn power. The 1,260-year period (538-1798 AD) is the most precisely fulfilled time prophecy in Scripture. Protestant Reformers unanimously identified the little horn as the papal system. The 'deadly wound' of 1798 marked the end of papal temporal power, but Revelation 13:3 prophesies the wound would be healed - fulfilled through the Lateran Treaty (1929) and increasing papal influence today.",
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 3,
+    "timelineKey": "1260_year_prophecy",
+    "name": "The 1,260-Year Prophecy: Time, Times, and Half a Time",
+    "description": "The most important time prophecy in Daniel and Revelation, mentioned seven times. This 1,260-year period (538-1798 AD) marks the duration of papal supremacy and persecution of God's faithful people. The mathematical precision of this prophecy proves the divine inspiration of Scripture.",
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [7, 12],
+      "verses": ["Dan.7.25", "Dan.12.7", "Rev.11.2-3", "Rev.12.6", "Rev.12.14", "Rev.13.5"]
+    },
+    "periods": [
+      {
+        "id": "pre_supremacy",
+        "name": "Three Horns Uprooted",
+        "eventKey": "three_horns_uprooted",
+        "startYear": 493,
+        "endYear": 538,
+        "duration": "45 years",
+        "color": "#696969",
+        "description": "The three Arian kingdoms (Heruli 493, Vandals 534, Ostrogoths 538) were destroyed to make way for papal supremacy. Justinian's decree (533 AD) couldn't take effect until the Ostrogoths were removed (538 AD)."
+      },
+      {
+        "id": "papal_supremacy",
+        "name": "Papal Supremacy & Persecution",
+        "eventKey": "little_horn_papal",
+        "startYear": 538,
+        "endYear": 1798,
+        "duration": "1,260 years",
+        "color": "#8B0000",
+        "description": "The 1,260-year period of papal supremacy. During this time: millions of faithful believers were martyred (Inquisition), the Sabbath was changed to Sunday, the Ten Commandments were altered, and the papacy claimed divine prerogatives. 538 + 1,260 = 1798 (mathematical precision)."
+      },
+      {
+        "id": "deadly_wound",
+        "name": "Deadly Wound (1798)",
+        "eventKey": "deadly_wound_1798",
+        "startYear": 1798,
+        "endYear": 1798,
+        "duration": "1 year",
+        "color": "#FF0000",
+        "description": "Napoleon's general Berthier took Pope Pius VI captive (Feb 10, 1798). The pope died in exile (Aug 29, 1799). This marked the end of the 1,260 years and the beginning of the 'time of the end' (Dan 12:4)."
+      },
+      {
+        "id": "wound_healing",
+        "name": "Wound Healing",
+        "eventKey": "wound_healed",
+        "startYear": 1929,
+        "endYear": null,
+        "duration": "96+ years (ongoing)",
+        "color": "#FF8C00",
+        "description": "Revelation 13:3 prophesied the deadly wound would be healed. The Lateran Treaty (1929) restored the Vatican's sovereignty. Papal influence has been steadily increasing, preparing for the final crisis when 'all the world wondered after the beast' (Rev 13:3)."
+      }
+    ],
+    "interpretiveNotes": "The 1,260-year prophecy is mentioned seven times using different expressions: 'time, times, and half a time' (Dan 7:25, 12:7, Rev 12:14) = 3.5 prophetic years; '42 months' (Rev 11:2, 13:5) = 42 × 30 = 1,260 days; '1,260 days' (Rev 11:3, 12:6). Using the day-year principle (Num 14:34, Ezek 4:6), these all equal 1,260 prophetic years. The mathematical precision of 538 + 1,260 = 1798 proves divine inspiration. Walter Veith emphasizes this is the most important time prophecy for understanding church history and end-time events.",
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 4,
+    "timelineKey": "jesus_daniel_connection",
+    "name": "Jesus' Reference to Daniel: The Abomination of Desolation",
+    "description": "Jesus explicitly directed His followers to Daniel's prophecies in Matthew 24:15 and Mark 13:14. This connection links Daniel's prophecies to the destruction of Jerusalem (70 AD) and the end-time crisis. Understanding Daniel is essential for understanding Jesus' end-time warnings.",
+    "prophecySource": {
+      "book": "Matthew",
+      "chapters": [24],
+      "verses": ["Matt.24.15-16", "Mark.13.14", "Dan.11.31", "Dan.12.11"]
+    },
+    "periods": [
+      {
+        "id": "antiochus_type",
+        "name": "Antiochus Epiphanes (Type)",
+        "eventKey": null,
+        "startYear": -167,
+        "endYear": -164,
+        "duration": "3 years",
+        "color": "#8B4513",
+        "description": "Antiochus IV Epiphanes desecrated the Jewish temple (167 BC), setting up a pagan altar and sacrificing swine. This fulfilled Daniel 11:31 and was a type of the greater 'abomination of desolation' to come."
+      },
+      {
+        "id": "rome_destroys_jerusalem",
+        "name": "Rome Destroys Jerusalem (70 AD)",
+        "eventKey": null,
+        "startYear": 70,
+        "endYear": 70,
+        "duration": "1 year",
+        "color": "#DC143C",
+        "description": "Jesus warned: 'When you see the abomination of desolation... then let those who are in Judea flee' (Matt 24:15-16). Christians heeded this warning and fled when Roman armies (the 'abomination') surrounded Jerusalem. Over 1 million Jews perished; Christians escaped."
+      },
+      {
+        "id": "papal_abomination",
+        "name": "Papal System (Antitype)",
+        "eventKey": "little_horn_papal",
+        "startYear": 538,
+        "endYear": 1798,
+        "duration": "1,260 years",
+        "color": "#8B0000",
+        "description": "The papal system is the ultimate 'abomination of desolation' - sitting 'in the temple of God, showing himself that he is God' (2 Thess 2:4). This is the power Daniel warned about (Dan 7:25, 11:31, 12:11) and Jesus referenced (Matt 24:15)."
+      },
+      {
+        "id": "final_crisis",
+        "name": "Final Crisis (Future)",
+        "eventKey": null,
+        "startYear": null,
+        "endYear": null,
+        "duration": "Unknown",
+        "color": "#FF4500",
+        "description": "Revelation 13:11-18 describes a final crisis when the 'image to the beast' is enforced and the 'mark of the beast' is imposed. This is the ultimate fulfillment of the 'abomination of desolation' - a global religious-political system opposing God's truth."
+      }
+    ],
+    "interpretiveNotes": "Jesus said, 'When you see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place, (whoever reads, let him understand)' (Matt 24:15). The parenthetical '(whoever reads, let him understand)' is Jesus' direct appeal for us to study Daniel's prophecies. This connection is crucial: Daniel prophesied it, Jesus endorsed it, and history has fulfilled it. The abomination has multiple fulfillments (Antiochus, Rome, papal system, final crisis), all following the same pattern of opposing God's truth and persecuting His people.",
+    "createdAt": "2025-11-22T02:00:00Z"
+  }
+]

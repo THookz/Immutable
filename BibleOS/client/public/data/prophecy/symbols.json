@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "symbolKey": "kingdom",
+    "name": "Kingdom / Dominion",
+    "category": "object",
+    "aramaic": {
+      "lemma": "מַלְכוּ",
+      "strongId": "H4437",
+      "transliteration": "malkûw"
+    },
+    "hebrew": {
+      "lemma": "מַלְכוּת",
+      "strongId": "H4438",
+      "transliteration": "malkûwth"
+    },
+    "greek": {
+      "lemma": "βασιλεία",
+      "strongId": "G932",
+      "transliteration": "basileia"
+    },
+    "generalMeaning": "In biblical prophecy, a 'kingdom' represents a political power, empire, or nation that exercises dominion over a territory and people. Kingdoms rise and fall according to God's sovereign plan.",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 2",
+        "meaning": "The succession of four world empires (Babylon, Medo-Persia, Greece, Rome) followed by divided Europe, culminating in God's eternal kingdom",
+        "eventKeys": ["babylon_empire", "medo_persia_empire", "greece_empire", "rome_empire", "divided_rome", "stone_kingdom"]
+      },
+      {
+        "context": "Daniel 7",
+        "meaning": "The same four kingdoms represented as beasts, with emphasis on the little horn power and the final judgment giving the kingdom to the saints",
+        "eventKeys": ["babylon_empire", "medo_persia_empire", "greece_empire", "rome_empire", "little_horn_papal", "stone_kingdom"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.2.37", "book": "Daniel", "chapter": 2, "verse": 37, "context": "God has given you a kingdom"},
+      {"verseId": "Dan.2.39", "book": "Daniel", "chapter": 2, "verse": 39, "context": "Another kingdom... third kingdom"},
+      {"verseId": "Dan.2.44", "book": "Daniel", "chapter": 2, "verse": 44, "context": "God will set up a kingdom which shall never be destroyed"},
+      {"verseId": "Dan.7.14", "book": "Daniel", "chapter": 7, "verse": 14, "context": "To Him was given dominion and glory and a kingdom"},
+      {"verseId": "Dan.7.18", "book": "Daniel", "chapter": 7, "verse": 18, "context": "Saints shall receive the kingdom"},
+      {"verseId": "Dan.7.27", "book": "Daniel", "chapter": 7, "verse": 27, "context": "Kingdom... shall be given to the people, the saints"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 2,
+    "symbolKey": "horn",
+    "name": "Horn",
+    "category": "body_part",
+    "aramaic": {
+      "lemma": "קֶרֶן",
+      "strongId": "H7162",
+      "transliteration": "qeren"
+    },
+    "hebrew": {
+      "lemma": "קֶרֶן",
+      "strongId": "H7161",
+      "transliteration": "qeren"
+    },
+    "greek": {
+      "lemma": "κέρας",
+      "strongId": "G2768",
+      "transliteration": "keras"
+    },
+    "generalMeaning": "In biblical prophecy, a 'horn' represents a king, kingdom, or political power. Horns symbolize strength, authority, and the ability to make war. The number and characteristics of horns provide specific identifying details about the powers they represent.",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 7 - Ten Horns",
+        "meaning": "The ten kingdoms that arose from the division of the Western Roman Empire (Alemanni, Franks, Burgundians, Suevi, Anglo-Saxons, Visigoths, Lombards, Ostrogoths, Heruli, Vandals)",
+        "eventKeys": ["divided_rome"]
+      },
+      {
+        "context": "Daniel 7 - Little Horn",
+        "meaning": "The papal power that arose among the ten kingdoms, uprooted three (Heruli, Vandals, Ostrogoths), and persecuted the saints for 1,260 years (538-1798 AD)",
+        "eventKeys": ["little_horn_papal", "three_horns_uprooted"]
+      },
+      {
+        "context": "Daniel 8 - Ram's Two Horns",
+        "meaning": "The kings of Media and Persia (explicitly identified in Dan 8:20), with one horn higher representing Persia's dominance",
+        "eventKeys": ["medo_persia_empire"]
+      },
+      {
+        "context": "Daniel 8 - Goat's Horn",
+        "meaning": "The first king of Greece (Alexander the Great, explicitly identified in Dan 8:21), whose empire was divided into four kingdoms after his death",
+        "eventKeys": ["greece_empire"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.7.7", "book": "Daniel", "chapter": 7, "verse": 7, "context": "Fourth beast had ten horns"},
+      {"verseId": "Dan.7.8", "book": "Daniel", "chapter": 7, "verse": 8, "context": "Another horn, a little one, coming up among them"},
+      {"verseId": "Dan.7.20", "book": "Daniel", "chapter": 7, "verse": 20, "context": "Ten horns... and the other horn which came up"},
+      {"verseId": "Dan.7.24", "book": "Daniel", "chapter": 7, "verse": 24, "context": "Ten horns are ten kings"},
+      {"verseId": "Dan.8.3", "book": "Daniel", "chapter": 8, "verse": 3, "context": "Ram which had two horns"},
+      {"verseId": "Dan.8.20", "book": "Daniel", "chapter": 8, "verse": 20, "context": "Two horns are the kings of Media and Persia"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 3,
+    "symbolKey": "stone",
+    "name": "Stone Cut Without Hands",
+    "category": "object",
+    "aramaic": {
+      "lemma": "אֶבֶן",
+      "strongId": "H69",
+      "transliteration": "ʼeben"
+    },
+    "hebrew": {
+      "lemma": "אֶבֶן",
+      "strongId": "H68",
+      "transliteration": "ʼeben"
+    },
+    "greek": {
+      "lemma": "λίθος",
+      "strongId": "G3037",
+      "transliteration": "lithos"
+    },
+    "generalMeaning": "The stone 'cut out without hands' represents God's eternal kingdom established at Christ's Second Coming. 'Without hands' means it is of divine, not human, origin. The stone strikes the feet (divided Europe), destroys all earthly kingdoms, and becomes a great mountain filling the whole earth.",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 2",
+        "meaning": "Christ and His eternal kingdom that will destroy all earthly powers and stand forever. The stone is Christ (1 Pet 2:4-8), and the kingdom is given to the saints (Dan 7:27)",
+        "eventKeys": ["stone_kingdom"]
+      },
+      {
+        "context": "New Testament",
+        "meaning": "Jesus is the 'stone which the builders rejected' (Matt 21:42, 1 Pet 2:7) and the 'rock of offense' (Rom 9:33). He is the foundation stone of God's eternal kingdom",
+        "eventKeys": ["stone_kingdom"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.2.34", "book": "Daniel", "chapter": 2, "verse": 34, "context": "A stone was cut out without hands"},
+      {"verseId": "Dan.2.35", "book": "Daniel", "chapter": 2, "verse": 35, "context": "The stone became a great mountain and filled the whole earth"},
+      {"verseId": "Dan.2.45", "book": "Daniel", "chapter": 2, "verse": 45, "context": "The stone was cut out of the mountain without hands"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 4,
+    "symbolKey": "time_times_half",
+    "name": "Time, Times, and Half a Time",
+    "category": "time_period",
+    "aramaic": {
+      "lemma": "זְמָן",
+      "strongId": "H2166",
+      "transliteration": "zᵉmân"
+    },
+    "hebrew": {
+      "lemma": "עֵת",
+      "strongId": "H6256",
+      "transliteration": "ʻêth"
+    },
+    "greek": {
+      "lemma": "καιρός",
+      "strongId": "G2540",
+      "transliteration": "kairos"
+    },
+    "generalMeaning": "A prophetic time period of 1,260 years (538-1798 AD), during which the papal power exercised supremacy, persecuted the saints, and attempted to change God's times and law. This period is mentioned seven times in Daniel and Revelation using different expressions: 'time, times, and half a time' (Dan 7:25, 12:7, Rev 12:14), '42 months' (Rev 11:2, 13:5), and '1,260 days' (Rev 11:3, 12:6). Using the day-year principle (Num 14:34, Ezek 4:6), these all equal 1,260 prophetic years.",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 7:25",
+        "meaning": "The duration of papal supremacy and persecution of the saints (538-1798 AD). Began when the last Arian kingdom (Ostrogoths) was defeated (538 AD), ended when Napoleon took the pope captive (1798 AD)",
+        "eventKeys": ["little_horn_papal", "deadly_wound_1798"]
+      },
+      {
+        "context": "Daniel 12:7",
+        "meaning": "The time until 'the power of the holy people has been completely shattered' - referring to the same 1,260-year period of persecution",
+        "eventKeys": ["little_horn_papal"]
+      },
+      {
+        "context": "Revelation 12:6, 14",
+        "meaning": "The woman (true church) flees into the wilderness for 1,260 days/time, times, and half a time - the same period when faithful believers were persecuted and fled to remote areas",
+        "eventKeys": ["little_horn_papal"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.7.25", "book": "Daniel", "chapter": 7, "verse": 25, "context": "Saints given into his hand for a time, times, and half a time"},
+      {"verseId": "Dan.12.7", "book": "Daniel", "chapter": 12, "verse": 7, "context": "It shall be for a time, times, and half a time"},
+      {"verseId": "Rev.12.14", "book": "Revelation", "chapter": 12, "verse": 14, "context": "Woman given two wings... for a time, times, and half a time"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 5,
+    "symbolKey": "abomination_desolation",
+    "name": "Abomination of Desolation",
+    "category": "object",
+    "aramaic": null,
+    "hebrew": {
+      "lemma": "שִׁקּוּץ שֹׁמֵם",
+      "strongId": "H8251+H8074",
+      "transliteration": "shiqqûwts shômêm"
+    },
+    "greek": {
+      "lemma": "βδέλυγμα ἐρήμωσις",
+      "strongId": "G946+G2050",
+      "transliteration": "bdelugma erēmōsis"
+    },
+    "generalMeaning": "The 'abomination of desolation' refers to a sacrilegious power that defiles God's sanctuary, opposes His truth, and brings spiritual desolation. Jesus explicitly referenced Daniel's prophecy (Matt 24:15, Mark 13:14), warning believers to flee when they see it. In historicist interpretation, this has multiple fulfillments: (1) Antiochus Epiphanes desecrating the temple (Dan 11:31, fulfilled 167 BC), (2) Rome destroying Jerusalem (fulfilled 70 AD), and (3) the papal system 'sitting in the temple of God' claiming divine prerogatives (2 Thess 2:4, Dan 7:25).",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 11:31",
+        "meaning": "Historical fulfillment: Antiochus Epiphanes desecrated the Jewish temple (167 BC), setting up a pagan altar and sacrificing swine. This was a type of the greater antichrist power",
+        "eventKeys": []
+      },
+      {
+        "context": "Daniel 12:11",
+        "meaning": "Prophetic fulfillment: The 1,290 days (years) from the 'daily' being taken away (508 AD - Clovis converts to Catholicism) to 1798 AD (deadly wound). The 'abomination' is the papal system replacing Christ's mediation",
+        "eventKeys": ["little_horn_papal", "deadly_wound_1798"]
+      },
+      {
+        "context": "Matthew 24:15",
+        "meaning": "Jesus' warning had immediate fulfillment (Rome's armies surrounding Jerusalem, 70 AD) and end-time application (final crisis when the image to the beast is enforced, Rev 13:14-15)",
+        "eventKeys": ["little_horn_papal"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.11.31", "book": "Daniel", "chapter": 11, "verse": 31, "context": "They shall defile the sanctuary... and place the abomination of desolation"},
+      {"verseId": "Dan.12.11", "book": "Daniel", "chapter": 12, "verse": 11, "context": "From the time that the daily sacrifice is taken away, and the abomination of desolation is set up"},
+      {"verseId": "Matt.24.15", "book": "Matthew", "chapter": 24, "verse": 15, "context": "When you see the abomination of desolation, spoken of by Daniel the prophet"},
+      {"verseId": "Mark.13.14", "book": "Mark", "chapter": 13, "verse": 14, "context": "When you see the abomination of desolation, spoken of by Daniel the prophet"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 6,
+    "symbolKey": "beast",
+    "name": "Beast",
+    "category": "animal",
+    "aramaic": {
+      "lemma": "חֵיוָה",
+      "strongId": "H2423",
+      "transliteration": "chêyvâh"
+    },
+    "hebrew": {
+      "lemma": "חַיָּה",
+      "strongId": "H2416",
+      "transliteration": "chayyâh"
+    },
+    "greek": {
+      "lemma": "θηρίον",
+      "strongId": "G2342",
+      "transliteration": "thērion"
+    },
+    "generalMeaning": "In biblical prophecy, a 'beast' represents a kingdom, empire, or political power (Dan 7:17, 23). The characteristics of each beast (lion, bear, leopard, dreadful beast) provide identifying details about the kingdom it represents. Beasts rising from the sea (Dan 7:3) represent kingdoms arising from populated areas (waters = peoples, Rev 17:15).",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 7 - Lion",
+        "meaning": "Babylon - the first kingdom, characterized by royal power and strength. The eagle's wings represent rapid conquest",
+        "eventKeys": ["babylon_empire"]
+      },
+      {
+        "context": "Daniel 7 - Bear",
+        "meaning": "Medo-Persia - the second kingdom, characterized by strength and ferocity. Raised up on one side (Persia dominant over Media), three ribs in mouth (three major conquests)",
+        "eventKeys": ["medo_persia_empire"]
+      },
+      {
+        "context": "Daniel 7 - Leopard",
+        "meaning": "Greece - the third kingdom, characterized by speed (four wings = Alexander's rapid conquests) and division (four heads = four generals dividing the empire)",
+        "eventKeys": ["greece_empire"]
+      },
+      {
+        "context": "Daniel 7 - Dreadful Beast",
+        "meaning": "Rome - the fourth kingdom, 'dreadful and terrible, exceedingly strong' with iron teeth (crushing power) and ten horns (ten kingdoms of divided Europe)",
+        "eventKeys": ["rome_empire", "divided_rome"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.7.3", "book": "Daniel", "chapter": 7, "verse": 3, "context": "Four great beasts came up from the sea"},
+      {"verseId": "Dan.7.4", "book": "Daniel", "chapter": 7, "verse": 4, "context": "First was like a lion"},
+      {"verseId": "Dan.7.5", "book": "Daniel", "chapter": 7, "verse": 5, "context": "Another beast, a second, like a bear"},
+      {"verseId": "Dan.7.6", "book": "Daniel", "chapter": 7, "verse": 6, "context": "Another, like a leopard"},
+      {"verseId": "Dan.7.7", "book": "Daniel", "chapter": 7, "verse": 7, "context": "A fourth beast, dreadful and terrible"},
+      {"verseId": "Dan.7.17", "book": "Daniel", "chapter": 7, "verse": 17, "context": "These great beasts... are four kings which arise"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 7,
+    "symbolKey": "saints",
+    "name": "Saints of the Most High",
+    "category": "object",
+    "aramaic": {
+      "lemma": "קַדִּישׁ",
+      "strongId": "H6922",
+      "transliteration": "qaddîysh"
+    },
+    "hebrew": {
+      "lemma": "קָדוֹשׁ",
+      "strongId": "H6918",
+      "transliteration": "qâdôwsh"
+    },
+    "greek": {
+      "lemma": "ἅγιος",
+      "strongId": "G40",
+      "transliteration": "hagios"
+    },
+    "generalMeaning": "The 'saints of the Most High' are God's faithful people who remain loyal to Him despite persecution. In Daniel 7, they are persecuted by the little horn for 1,260 years but ultimately receive the kingdom. Throughout history, the saints include the Waldenses, Albigenses, Huguenots, Protestant Reformers, and all who refuse to compromise God's truth.",
+    "contextualMeanings": [
+      {
+        "context": "Daniel 7",
+        "meaning": "God's faithful people who are persecuted by the papal power (little horn) during the 1,260 years (538-1798 AD) but ultimately receive the eternal kingdom at Christ's return",
+        "eventKeys": ["little_horn_papal", "stone_kingdom"]
+      },
+      {
+        "context": "Revelation 13-14",
+        "meaning": "The end-time remnant who 'keep the commandments of God and have the testimony of Jesus Christ' (Rev 12:17), refusing the mark of the beast",
+        "eventKeys": ["little_horn_papal"]
+      }
+    ],
+    "occurrences": [
+      {"verseId": "Dan.7.18", "book": "Daniel", "chapter": 7, "verse": 18, "context": "Saints of the Most High shall receive the kingdom"},
+      {"verseId": "Dan.7.21", "book": "Daniel", "chapter": 7, "verse": 21, "context": "Horn was making war against the saints"},
+      {"verseId": "Dan.7.22", "book": "Daniel", "chapter": 7, "verse": 22, "context": "Judgment was made in favor of the saints"},
+      {"verseId": "Dan.7.25", "book": "Daniel", "chapter": 7, "verse": 25, "context": "He shall persecute the saints of the Most High"},
+      {"verseId": "Dan.7.27", "book": "Daniel", "chapter": 7, "verse": 27, "context": "Kingdom... shall be given to the people, the saints"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  }
+]

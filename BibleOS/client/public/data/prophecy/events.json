@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "eventKey": "babylon_empire",
+    "name": "Babylonian Empire (Head of Gold / Lion)",
+    "description": "The first world empire in Daniel's prophecy, represented by the head of gold in Nebuchadnezzar's dream (Daniel 2:37-38) and the lion with eagle's wings (Daniel 7:4). Babylon was the dominant power during Daniel's time and represents supreme authority. God explicitly identifies this kingdom: 'You are this head of gold' (Dan 2:38).",
+    "historicalPeriod": {
+      "start": -612,
+      "end": -539,
+      "startEvent": "Fall of Nineveh (612 BC) - Babylon becomes the dominant world power",
+      "endEvent": "Fall of Babylon to Cyrus the Great (539 BC) - Fulfilled Daniel 5:25-31"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7],
+      "primaryVerses": ["Dan.2.37-38", "Dan.2.39", "Dan.7.4"]
+    },
+    "symbolism": {
+      "symbols": ["head of gold", "lion with eagle's wings"],
+      "meaning": "Gold represents supreme value and authority; the lion represents royal power and strength. The eagle's wings suggest rapid conquest.",
+      "aramaicLemmas": ["H1722", "H4430", "H7217", "H738"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Universal agreement among historicist interpreters (Seventh-day Adventist, Protestant Reformers including Luther, Calvin, Wesley) that Babylon is the first kingdom. Explicitly confirmed by Daniel 2:38. Historical dates are well-established. Walter Veith emphasizes this as the foundation for understanding all subsequent prophecy.",
+    "relatedEvents": ["medo_persia_empire", "greece_empire", "rome_empire", "divided_rome"],
+    "typology": {
+      "role": "type",
+      "connection": "Ancient Babylon is a type of spiritual Babylon in Revelation 17-18, representing apostate religious-political systems that oppose God's people."
+    },
+    "crossReferences": {
+      "oldTestament": ["Isa.13.1-22", "Isa.14.4-23", "Jer.50.1-46", "Jer.51.1-64"],
+      "newTestament": ["Rev.17.5", "Rev.18.2", "Rev.18.10", "Rev.18.21"],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 2,
+    "eventKey": "medo_persia_empire",
+    "name": "Medo-Persian Empire (Chest of Silver / Bear)",
+    "description": "The second world empire, represented by the chest and arms of silver (Daniel 2:39) and the bear raised up on one side with three ribs in its mouth (Daniel 7:5). The two arms/sides represent the dual nature of the Medo-Persian alliance, with Persia being the dominant power. The three ribs represent the three major conquests: Lydia, Babylon, and Egypt.",
+    "historicalPeriod": {
+      "start": -539,
+      "end": -331,
+      "startEvent": "Conquest of Babylon by Cyrus (539 BC) - Fulfilled Daniel 5:28-31",
+      "endEvent": "Defeat by Alexander the Great at Battle of Gaugamela (331 BC)"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7, 8],
+      "primaryVerses": ["Dan.2.39", "Dan.7.5", "Dan.8.3-4", "Dan.8.20"]
+    },
+    "symbolism": {
+      "symbols": ["chest and arms of silver", "bear raised up on one side", "ram with two horns"],
+      "meaning": "Silver represents inferior value to gold but still precious. The bear represents strength and ferocity. The ram explicitly identified as 'the kings of Media and Persia' (Dan 8:20). One horn higher than the other represents Persia's dominance over Media.",
+      "aramaicLemmas": ["H4437", "H3890", "H1768"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Explicitly identified in Daniel 8:20: 'The ram which you saw, having the two horns—they are the kings of Media and Persia.' Historical dates are precise and well-documented. The bear 'raised up on one side' perfectly matches Persia's dominance over Media. Walter Veith notes the three ribs as Lydia (546 BC), Babylon (539 BC), and Egypt (525 BC).",
+    "relatedEvents": ["babylon_empire", "greece_empire", "rome_empire"],
+    "typology": {
+      "role": "pattern",
+      "connection": "Cyrus as a type of Christ the Liberator (Isa 45:1-7), releasing God's people from captivity."
+    },
+    "crossReferences": {
+      "oldTestament": ["Isa.44.28", "Isa.45.1-7", "Ezra.1.1-4", "Dan.5.28-31", "Dan.6.28"],
+      "newTestament": [],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 3,
+    "eventKey": "greece_empire",
+    "name": "Grecian Empire (Belly of Bronze / Leopard)",
+    "description": "The third world empire, represented by the belly and thighs of bronze (Daniel 2:39) and the leopard with four wings and four heads (Daniel 7:6). Greece under Alexander the Great conquered the known world with unprecedented speed (the four wings). After Alexander's death, his empire was divided among his four generals (the four heads): Cassander (Macedonia), Lysimachus (Thrace/Asia Minor), Ptolemy (Egypt), and Seleucus (Syria/Babylon).",
+    "historicalPeriod": {
+      "start": -331,
+      "end": -168,
+      "startEvent": "Alexander's victory at Gaugamela (331 BC) - Persia defeated",
+      "endEvent": "Rome's victory at Battle of Pydna (168 BC) - Macedonia falls to Rome"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7, 8, 11],
+      "primaryVerses": ["Dan.2.39", "Dan.7.6", "Dan.8.5-8", "Dan.8.21", "Dan.11.3-4"]
+    },
+    "symbolism": {
+      "symbols": ["belly and thighs of bronze", "leopard with four wings", "goat with notable horn"],
+      "meaning": "Bronze represents strength and military prowess. The leopard's four wings represent Alexander's lightning-fast conquests (conquered known world in 10 years). The four heads represent the four-way division of the empire. The goat explicitly identified as 'the kingdom of Greece' (Dan 8:21), with the 'notable horn' being Alexander.",
+      "aramaicLemmas": ["H4437", "H5487"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Explicitly identified in Daniel 8:21: 'The male goat is the kingdom of Greece. The large horn that is between its eyes is the first king' (Alexander). Daniel 11:3-4 describes Alexander's conquests and the four-way division. Historical dates are precise. Walter Veith emphasizes the prophetic accuracy: Alexander died at age 32 (323 BC), and his empire was divided exactly as prophesied among his four generals, not to his descendants (Dan 11:4).",
+    "relatedEvents": ["medo_persia_empire", "rome_empire", "little_horn_papal"],
+    "typology": {
+      "role": "pattern",
+      "connection": "Alexander's rapid conquest and sudden fall illustrate the temporary nature of earthly kingdoms."
+    },
+    "crossReferences": {
+      "oldTestament": ["Dan.8.21-22", "Dan.11.2-4", "Zech.9.13"],
+      "newTestament": ["1Macc.1.1-9"],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 4,
+    "eventKey": "rome_empire",
+    "name": "Roman Empire (Legs of Iron / Dreadful Beast)",
+    "description": "The fourth world empire, represented by the legs of iron (Daniel 2:40) and the dreadful beast with iron teeth and ten horns (Daniel 7:7). Rome was the most powerful empire, crushing all before it. The two legs represent the division into Eastern (Constantinople) and Western (Rome) empires. The ten horns represent the ten kingdoms that arose from the breakup of Western Rome.",
+    "historicalPeriod": {
+      "start": -168,
+      "end": 476,
+      "startEvent": "Rome defeats Macedonia at Pydna (168 BC) - Becomes dominant world power",
+      "endEvent": "Fall of Western Rome (476 AD) - Last emperor Romulus Augustulus deposed"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7],
+      "primaryVerses": ["Dan.2.40-43", "Dan.7.7", "Dan.7.19-24"]
+    },
+    "symbolism": {
+      "symbols": ["legs of iron", "dreadful beast with iron teeth", "ten horns"],
+      "meaning": "Iron represents crushing military might and political power. The beast is described as 'dreadful and terrible, exceedingly strong' (Dan 7:7). The ten horns are explicitly 'ten kings who shall arise' (Dan 7:24) from this kingdom.",
+      "aramaicLemmas": ["H4437", "H6523", "H7162"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Rome's identity is certain based on historical succession and the description's perfect match. Rome ruled during Christ's time (Luke 2:1, 3:1). The ten horns represent the Germanic tribes that divided Western Rome: Alemanni, Franks, Burgundians, Suevi, Anglo-Saxons, Visigoths, Lombards, Ostrogoths, Heruli, Vandals. Three were 'plucked up' (Dan 7:8): Heruli (493 AD), Vandals (534 AD), Ostrogoths (538 AD) - all Arian tribes opposed by papal Rome. Walter Veith emphasizes Rome's continuation in two phases: pagan (168 BC - 476 AD) and papal (538 AD - present).",
+    "relatedEvents": ["greece_empire", "divided_rome", "little_horn_papal"],
+    "typology": {
+      "role": "type",
+      "connection": "Pagan Rome persecuted Christ and early Christians; papal Rome persecuted faithful believers during the Dark Ages. Both are types of end-time persecution (Rev 13)."
+    },
+    "crossReferences": {
+      "oldTestament": ["Dan.2.40-43", "Dan.7.7", "Dan.7.19-24"],
+      "newTestament": ["Luke.2.1", "Luke.3.1", "John.19.15", "Rev.13.1-10", "Rev.17.9-14"],
+      "jesusReference": "Matt.24.15"
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 5,
+    "eventKey": "divided_rome",
+    "name": "Divided Europe (Feet of Iron and Clay / Ten Horns)",
+    "description": "The divided state of Europe following the fall of Western Rome, represented by the feet and toes of iron mixed with clay (Daniel 2:41-43) and the ten horns on the fourth beast (Daniel 7:7). The iron represents the strength of Rome that continues, while the clay represents the weakness of division. Daniel prophesied they would NOT unite: 'they will not adhere to one another, just as iron does not mix with clay' (Dan 2:43).",
+    "historicalPeriod": {
+      "start": 476,
+      "end": null,
+      "startEvent": "Fall of Western Rome (476 AD) - Division into ten kingdoms",
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7],
+      "primaryVerses": ["Dan.2.41-43", "Dan.7.7", "Dan.7.24"]
+    },
+    "symbolism": {
+      "symbols": ["feet of iron and clay", "ten toes", "ten horns"],
+      "meaning": "Iron mixed with clay represents strength mixed with weakness - a divided Europe that retains Roman influence but cannot reunite. The ten toes/horns represent the ten kingdoms. The prophecy 'they shall not cleave one to another' (Dan 2:43 KJV) has been fulfilled repeatedly: Charlemagne, Charles V, Napoleon, Hitler, and the EU have all failed to reunite Europe.",
+      "aramaicLemmas": ["H4437", "H6523", "H2635", "H7162"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The ten kingdoms that emerged from Western Rome: Alemanni (Germany), Franks (France), Burgundians (Switzerland), Suevi (Portugal), Anglo-Saxons (England), Visigoths (Spain), Lombards (Italy), plus three that were destroyed (Heruli, Vandals, Ostrogoths). Despite countless attempts through marriage alliances ('mingle themselves with the seed of men' Dan 2:43) and military conquest, Europe has never reunited. Walter Veith emphasizes this as one of the most remarkable fulfilled prophecies - every attempt to reunite Europe has failed, exactly as prophesied 2,500 years ago.",
+    "relatedEvents": ["rome_empire", "little_horn_papal", "stone_kingdom"],
+    "typology": {
+      "role": "pattern",
+      "connection": "The divided kingdoms represent the final state of earthly power before God's eternal kingdom (the stone) destroys them all."
+    },
+    "crossReferences": {
+      "oldTestament": ["Dan.2.41-44", "Dan.7.24"],
+      "newTestament": ["Rev.17.12-14"],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 6,
+    "eventKey": "little_horn_papal",
+    "name": "Little Horn Power (Papal Rome)",
+    "description": "The 'little horn' of Daniel 7:8, 7:24-25, and 8:9-12 represents the papal system that arose from the ruins of the Roman Empire. This power has distinct characteristics: arises among the ten horns (Europe), uproots three horns (Arian tribes), speaks pompous words against God, persecutes the saints, attempts to change times and laws, and rules for 'a time, times, and half a time' (1,260 years: 538-1798 AD). This is the 'abomination of desolation' Jesus warned about in Matthew 24:15.",
+    "historicalPeriod": {
+      "start": 538,
+      "end": 1798,
+      "startEvent": "Justinian's decree establishing papal supremacy (533 AD), effective after Ostrogoths defeated (538 AD)",
+      "endEvent": "Napoleon's general Berthier takes Pope Pius VI captive (1798 AD) - 'deadly wound' (Rev 13:3)"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [7, 8, 11, 12],
+      "primaryVerses": ["Dan.7.8", "Dan.7.20-25", "Dan.8.9-14", "Dan.8.23-25", "Dan.11.31", "Dan.12.7", "Dan.12.11"]
+    },
+    "symbolism": {
+      "symbols": ["little horn", "king of fierce countenance", "abomination of desolation"],
+      "meaning": "The 'little horn' starts small but becomes 'greater than its fellows' (Dan 7:20). It has 'eyes like a man' (human wisdom) and a 'mouth speaking pompous words' (blasphemous claims). It 'persecutes the saints' (Inquisition, martyrs) and 'intends to change times and law' (changed Sabbath, altered Ten Commandments). The 1,260-year period (538-1798) is mentioned seven times in Daniel and Revelation.",
+      "aramaicLemmas": ["H7162", "H2192", "H6925", "H5648", "H8133", "H2166"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Protestant Reformers (Luther, Calvin, Wesley, Wycliffe, Huss, Knox) unanimously identified the little horn as the papal system. The identifying marks are precise: (1) Arose among ten kingdoms of Europe ✓ (2) Uprooted three Arian kingdoms ✓ (3) Different from other kingdoms (religious-political) ✓ (4) Speaks against God (claims to forgive sins, change God's law) ✓ (5) Persecutes saints (Inquisition: millions martyred) ✓ (6) Attempts to change times and law (Sabbath to Sunday, altered Commandments) ✓ (7) Rules 1,260 years (538-1798 AD) ✓. Walter Veith emphasizes this is not anti-Catholic but pro-truth - identifying the system, not condemning individuals. Jesus Himself warned: 'When you see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place... then let those who are in Judea flee' (Matt 24:15-16).",
+    "relatedEvents": ["rome_empire", "divided_rome", "three_horns_uprooted", "deadly_wound_1798", "time_of_end"],
+    "typology": {
+      "role": "antitype",
+      "connection": "The little horn is the antitype of Antiochus Epiphanes (Dan 8:9-14, 11:31-35), who desecrated the temple and persecuted God's people. Both are types of the final antichrist power in Revelation 13."
+    },
+    "crossReferences": {
+      "oldTestament": ["Dan.7.8", "Dan.7.20-27", "Dan.8.9-14", "Dan.8.23-25", "Dan.11.31-35", "Dan.12.7", "Dan.12.11"],
+      "newTestament": ["Matt.24.15", "Mark.13.14", "2Thess.2.3-12", "Rev.13.1-10", "Rev.13.5-7", "Rev.17.1-6"],
+      "jesusReference": "Matt.24.15"
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 7,
+    "eventKey": "three_horns_uprooted",
+    "name": "Three Horns Uprooted (Heruli, Vandals, Ostrogoths)",
+    "description": "Daniel 7:8 prophesied that the little horn would uproot three of the ten horns. History records that three Arian kingdoms were destroyed at the instigation of papal Rome: the Heruli (493 AD), the Vandals (534 AD), and the Ostrogoths (538 AD). These were the last obstacles to papal supremacy in Europe. The year 538 AD marks the beginning of the 1,260-year papal supremacy.",
+    "historicalPeriod": {
+      "start": 493,
+      "end": 538,
+      "startEvent": "Heruli destroyed by Ostrogoths (493 AD)",
+      "endEvent": "Ostrogoths defeated by Justinian's general Belisarius (538 AD)"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [7],
+      "primaryVerses": ["Dan.7.8", "Dan.7.20", "Dan.7.24"]
+    },
+    "symbolism": {
+      "symbols": ["three horns plucked up by the roots"],
+      "meaning": "The three horns represent three kingdoms completely destroyed (plucked up by the roots) to make way for the little horn's supremacy. All three were Arian (non-Trinitarian) kingdoms that opposed papal theology.",
+      "aramaicLemmas": ["H7162", "H8532", "H6132"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Historical dates are precise: Heruli destroyed 493 AD, Vandals 534 AD, Ostrogoths 538 AD. All three were Arian kingdoms that rejected papal authority and Trinitarian doctrine. Their destruction was accomplished by Catholic powers (Ostrogoths destroyed Heruli; Justinian destroyed Vandals and Ostrogoths). The year 538 AD is significant as it marks both the final uprooting and the beginning of papal supremacy - the start of the 1,260-year period. Walter Veith notes that Justinian's decree (533 AD) couldn't take effect until the Ostrogoths were removed (538 AD).",
+    "relatedEvents": ["rome_empire", "divided_rome", "little_horn_papal"],
+    "typology": null,
+    "crossReferences": {
+      "oldTestament": ["Dan.7.8", "Dan.7.20", "Dan.7.24"],
+      "newTestament": ["Rev.13.5"],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 8,
+    "eventKey": "deadly_wound_1798",
+    "name": "Deadly Wound (1798 AD)",
+    "description": "The 1,260-year period of papal supremacy (538-1798 AD) ended when Napoleon's general Berthier took Pope Pius VI captive in 1798 AD. This fulfilled both Daniel 7:25 ('time, times, and half a time') and Revelation 13:3 ('deadly wound'). The pope died in exile in 1799. This marked the end of the papal temporal power and the beginning of the 'time of the end' (Dan 12:4).",
+    "historicalPeriod": {
+      "start": 1798,
+      "end": 1798,
+      "startEvent": "Pope Pius VI taken captive by General Berthier (February 10, 1798)",
+      "endEvent": "Pope Pius VI dies in exile in Valence, France (August 29, 1799)"
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [7, 12],
+      "primaryVerses": ["Dan.7.25", "Dan.12.4", "Dan.12.7"]
+    },
+    "symbolism": {
+      "symbols": ["time, times, and half a time ends", "deadly wound"],
+      "meaning": "The 1,260 years (538-1798) ended exactly as prophesied. The 'deadly wound' represents the loss of papal temporal power. Revelation 13:3 prophesies this wound would be healed - fulfilled as papal influence has been restored in modern times.",
+      "aramaicLemmas": ["H5732", "H2166"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The date 1798 is historically precise. Napoleon declared the pope's temporal power ended. This marks the end of the 1,260-year prophecy with mathematical exactness: 538 + 1260 = 1798. Daniel 12:4 says 'seal the book until the time of the end' - historicists understand 1798 as the beginning of the 'time of the end,' when prophetic understanding would increase. Walter Veith emphasizes that Revelation 13:3 prophesies the wound would be healed - fulfilled through the Lateran Treaty (1929) and increasing papal influence in modern times, culminating in a future global religious-political system (Rev 13:11-18).",
+    "relatedEvents": ["little_horn_papal", "time_of_end", "wound_healed"],
+    "typology": null,
+    "crossReferences": {
+      "oldTestament": ["Dan.7.25", "Dan.12.4", "Dan.12.7"],
+      "newTestament": ["Rev.13.3", "Rev.13.5", "Rev.13.10"],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 9,
+    "eventKey": "stone_kingdom",
+    "name": "Stone Kingdom (God's Eternal Kingdom)",
+    "description": "The stone 'cut out without hands' that strikes the image and becomes a great mountain filling the whole earth (Daniel 2:34-35, 44-45). This represents God's eternal kingdom established at Christ's Second Coming, which will destroy all earthly kingdoms and stand forever. This is the climax of all prophecy - the establishment of God's everlasting kingdom.",
+    "historicalPeriod": {
+      "start": null,
+      "end": null,
+      "startEvent": "Christ's Second Coming (future)",
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Daniel",
+      "chapters": [2, 7],
+      "primaryVerses": ["Dan.2.34-35", "Dan.2.44-45", "Dan.7.13-14", "Dan.7.27"]
+    },
+    "symbolism": {
+      "symbols": ["stone cut without hands", "mountain filling the earth", "Son of Man coming with clouds"],
+      "meaning": "'Cut without hands' means not of human origin - God's kingdom, not man's. The stone strikes the feet (divided Europe) and destroys the entire image (all earthly kingdoms). It becomes a mountain (kingdom) filling the whole earth. Daniel 7:13-14 shows the Son of Man (Jesus) receiving the kingdom from the Ancient of Days (God the Father).",
+      "aramaicLemmas": ["H69", "H4437", "H5957", "H606"]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "This is the blessed hope of all believers - Christ's return and the establishment of His eternal kingdom. Daniel 2:44 says 'in the days of these kings' (divided Europe) God will set up His kingdom. We are living in the time of the feet - the final phase before the stone strikes. The kingdom is given to 'the saints of the Most High' (Dan 7:27). Walter Veith emphasizes this is not a gradual spiritual process but a sudden, catastrophic event at Christ's visible return. Jesus Himself referred to this: 'They will see the Son of Man coming on the clouds of heaven with power and great glory' (Matt 24:30).",
+    "relatedEvents": ["divided_rome", "little_horn_papal", "time_of_end"],
+    "typology": {
+      "role": "antitype",
+      "connection": "The stone is Christ (1 Pet 2:4-8, Matt 21:42-44). He is the 'Rock of Ages' who will crush all opposition and establish His eternal kingdom."
+    },
+    "crossReferences": {
+      "oldTestament": ["Dan.2.34-35", "Dan.2.44-45", "Dan.7.13-14", "Dan.7.27", "Ps.2.6-9", "Isa.9.6-7"],
+      "newTestament": ["Matt.24.30", "Matt.25.31", "Matt.26.64", "Mark.13.26", "Luke.21.27", "1Thess.4.16-17", "Rev.19.11-16", "Rev.20.4-6", "Rev.21.1-4"],
+      "jesusReference": "Matt.24.30"
+    },
+    "createdAt": "2025-11-22T02:00:00Z",
+    "updatedAt": "2025-11-22T02:00:00Z"
+  }
+]

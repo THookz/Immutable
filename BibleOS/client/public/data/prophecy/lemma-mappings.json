@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "strongId": "H4437",
+    "lemma": "מַלְכוּ",
+    "transliteration": "malkûw",
+    "language": "aramaic",
+    "symbolKeys": ["kingdom", "dominion"],
+    "eventKeys": ["babylon_empire", "medo_persia_empire", "greece_empire", "rome_empire", "divided_rome", "little_horn_papal", "stone_kingdom"],
+    "propheticSignificance": "The Aramaic word 'malkûw' (dominion/kingdom) is THE central prophetic term in Daniel. It appears 57 times, primarily in prophetic contexts describing the succession of world empires and the final establishment of God's eternal kingdom. This word is the thread that ties together Daniel 2, 7, and the entire prophetic timeline from Babylon to Christ's return.",
+    "verses": [
+      {"verseId": "Dan.2.37", "isProphetic": true, "context": "You, O king [Nebuchadnezzar], are a king of kings. For the God of heaven has given you a kingdom (malkûw), power, strength, and glory"},
+      {"verseId": "Dan.2.39", "isProphetic": true, "context": "After you shall arise another kingdom (malkûw) inferior to yours; then another third kingdom (malkûw) of bronze"},
+      {"verseId": "Dan.2.40", "isProphetic": true, "context": "And the fourth kingdom (malkûw) shall be as strong as iron"},
+      {"verseId": "Dan.2.44", "isProphetic": true, "context": "In the days of these kings the God of heaven will set up a kingdom (malkûw) which shall never be destroyed"},
+      {"verseId": "Dan.7.14", "isProphetic": true, "context": "Then to Him [Son of Man] was given dominion (malkûw) and glory and a kingdom (malkûw)"},
+      {"verseId": "Dan.7.18", "isProphetic": true, "context": "But the saints of the Most High shall receive the kingdom (malkûw) and possess the kingdom (malkûw) forever"},
+      {"verseId": "Dan.7.27", "isProphetic": true, "context": "Then the kingdom (malkûw) and dominion... shall be given to the people, the saints of the Most High"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 2,
+    "strongId": "H7162",
+    "lemma": "קֶרֶן",
+    "transliteration": "qeren",
+    "language": "aramaic",
+    "symbolKeys": ["horn", "power", "kingdom"],
+    "eventKeys": ["divided_rome", "little_horn_papal", "three_horns_uprooted"],
+    "propheticSignificance": "The Aramaic word 'qeren' (horn) is used 14 times in Daniel 7-8 to represent kingdoms and powers. In biblical prophecy, horns always represent political/military powers or kingdoms. The 'ten horns' represent the ten kingdoms of divided Europe, and the 'little horn' represents the papal power that arose among them. This word is crucial for understanding the identity of the antichrist power.",
+    "verses": [
+      {"verseId": "Dan.7.7", "isProphetic": true, "context": "The fourth beast... had ten horns (qeren)"},
+      {"verseId": "Dan.7.8", "isProphetic": true, "context": "I was considering the horns (qeren), and there was another horn (qeren), a little one, coming up among them, before whom three of the first horns (qeren) were plucked out by the roots"},
+      {"verseId": "Dan.7.20", "isProphetic": true, "context": "The ten horns (qeren) that were on its head, and the other horn (qeren) which came up, before which three fell"},
+      {"verseId": "Dan.7.24", "isProphetic": true, "context": "The ten horns (qeren) are ten kings who shall arise from this kingdom. And another shall rise after them"},
+      {"verseId": "Dan.8.3", "isProphetic": true, "context": "A ram which had two horns (qeren), and the two horns (qeren) were high; but one was higher than the other"},
+      {"verseId": "Dan.8.20", "isProphetic": true, "context": "The ram which you saw, having the two horns (qeren)—they are the kings of Media and Persia"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 3,
+    "strongId": "H2166",
+    "lemma": "זְמָן",
+    "transliteration": "zᵉmân",
+    "language": "aramaic",
+    "symbolKeys": ["time", "appointed_time", "prophetic_period"],
+    "eventKeys": ["little_horn_papal", "deadly_wound_1798"],
+    "propheticSignificance": "The Aramaic word 'zᵉmân' (appointed time/season) appears 13 times in Daniel, often in prophetic time contexts. Most significantly in Daniel 7:25 ('time, times, and half a time' = 1,260 years) describing the duration of papal supremacy. This word establishes the mathematical precision of Bible prophecy - God has appointed specific times for prophetic fulfillment.",
+    "verses": [
+      {"verseId": "Dan.2.21", "isProphetic": true, "context": "He changes the times (zᵉmân) and the seasons"},
+      {"verseId": "Dan.7.12", "isProphetic": true, "context": "Their lives were prolonged for a season (zᵉmân) and a time (zᵉmân)"},
+      {"verseId": "Dan.7.25", "isProphetic": true, "context": "The saints shall be given into his hand for a time (zᵉmân) and times (zᵉmân) and half a time (zᵉmân)"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 4,
+    "strongId": "H8133",
+    "lemma": "שְׁנָא",
+    "transliteration": "shᵉnâʼ",
+    "language": "aramaic",
+    "symbolKeys": ["change", "alter"],
+    "eventKeys": ["little_horn_papal"],
+    "propheticSignificance": "The Aramaic verb 'shᵉnâʼ' (to change/alter) appears in Daniel 7:25 describing the little horn's attempt to 'change times and law.' This is a key identifying mark of the papal power: the change of the Sabbath from Saturday to Sunday and the alteration of the Ten Commandments (removing the second commandment about images, splitting the tenth). This word exposes the audacity of attempting to change God's immutable law.",
+    "verses": [
+      {"verseId": "Dan.2.9", "isProphetic": false, "context": "Until the time is changed (shᵉnâʼ)"},
+      {"verseId": "Dan.2.21", "isProphetic": true, "context": "He [God] changes (shᵉnâʼ) the times and the seasons"},
+      {"verseId": "Dan.7.25", "isProphetic": true, "context": "He [little horn] shall intend to change (shᵉnâʼ) times and law"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 5,
+    "strongId": "H6925",
+    "lemma": "קֳדָם",
+    "transliteration": "qŏḏâm",
+    "language": "aramaic",
+    "symbolKeys": ["before", "presence"],
+    "eventKeys": ["little_horn_papal", "stone_kingdom"],
+    "propheticSignificance": "The Aramaic preposition 'qŏḏâm' (before/in the presence of) appears 42 times in Daniel, often describing actions done 'before God' or 'before the king.' Critically, it's used in Daniel 7:8 and 7:20 to describe the three horns that fell 'before' the little horn, and in Daniel 7:13-14 describing the Son of Man coming 'before' the Ancient of Days to receive the kingdom. This word connects the rise of the papal power with the ultimate triumph of Christ.",
+    "verses": [
+      {"verseId": "Dan.7.8", "isProphetic": true, "context": "Three of the first horns were plucked out by the roots before it (qŏḏâm)"},
+      {"verseId": "Dan.7.10", "isProphetic": true, "context": "A thousand thousands ministered to Him; ten thousand times ten thousand stood before Him (qŏḏâm)"},
+      {"verseId": "Dan.7.13", "isProphetic": true, "context": "One like the Son of Man, coming with the clouds of heaven! He came to the Ancient of Days, and they brought Him near before Him (qŏḏâm)"},
+      {"verseId": "Dan.7.20", "isProphetic": true, "context": "The horn that had eyes and a mouth which spoke pompous words, whose appearance was greater than his fellows... before whom (qŏḏâm) three fell"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 6,
+    "strongId": "H6922",
+    "lemma": "קַדִּישׁ",
+    "transliteration": "qaddîysh",
+    "language": "aramaic",
+    "symbolKeys": ["saint", "holy_one"],
+    "eventKeys": ["little_horn_papal", "stone_kingdom"],
+    "propheticSignificance": "The Aramaic word 'qaddîysh' (saint/holy one) appears 13 times in Daniel 7, describing God's faithful people who are persecuted by the little horn but ultimately receive the kingdom. This word identifies the victims of papal persecution (Waldenses, Albigenses, Huguenots, Reformers) and the inheritors of God's eternal kingdom. It answers the question: who are the 'saints' that the little horn makes war against?",
+    "verses": [
+      {"verseId": "Dan.7.18", "isProphetic": true, "context": "But the saints (qaddîysh) of the Most High shall receive the kingdom, and possess the kingdom forever"},
+      {"verseId": "Dan.7.21", "isProphetic": true, "context": "I was watching; and the same horn was making war against the saints (qaddîysh), and prevailing against them"},
+      {"verseId": "Dan.7.22", "isProphetic": true, "context": "Until the Ancient of Days came, and a judgment was made in favor of the saints (qaddîysh) of the Most High"},
+      {"verseId": "Dan.7.25", "isProphetic": true, "context": "He shall speak pompous words against the Most High, shall persecute the saints (qaddîysh) of the Most High"},
+      {"verseId": "Dan.7.27", "isProphetic": true, "context": "The kingdom and dominion... shall be given to the people, the saints (qaddîysh) of the Most High"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 7,
+    "strongId": "H69",
+    "lemma": "אֶבֶן",
+    "transliteration": "ʼeben",
+    "language": "aramaic",
+    "symbolKeys": ["stone", "rock"],
+    "eventKeys": ["stone_kingdom"],
+    "propheticSignificance": "The Aramaic word 'ʼeben' (stone) appears 8 times in Daniel 2, describing the stone 'cut out without hands' that destroys all earthly kingdoms and becomes a great mountain. This is one of the most powerful prophetic symbols - representing Christ and His eternal kingdom. The stone is 'cut without hands' (divine origin), strikes the feet (during divided Europe), destroys the image (all earthly powers), and fills the earth (global kingdom). This word encapsulates the entire gospel hope.",
+    "verses": [
+      {"verseId": "Dan.2.34", "isProphetic": true, "context": "You watched while a stone (ʼeben) was cut out without hands, which struck the image on its feet of iron and clay, and broke them in pieces"},
+      {"verseId": "Dan.2.35", "isProphetic": true, "context": "The stone (ʼeben) that struck the image became a great mountain and filled the whole earth"},
+      {"verseId": "Dan.2.45", "isProphetic": true, "context": "The great God has made known to the king what will come to pass after this. The dream is certain, and its interpretation is sure"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 8,
+    "strongId": "H1722",
+    "lemma": "דְּהַב",
+    "transliteration": "dᵉhab",
+    "language": "aramaic",
+    "symbolKeys": ["gold", "babylon"],
+    "eventKeys": ["babylon_empire"],
+    "propheticSignificance": "The Aramaic word 'dᵉhab' (gold) appears 23 times in Daniel, most significantly in Daniel 2:32, 38 identifying Babylon as the 'head of gold.' Gold represents supreme value, authority, and glory - fitting for Babylon, the first and greatest of the four empires. This word establishes the starting point of the prophetic timeline and God's explicit identification: 'You [Nebuchadnezzar] are this head of gold.'",
+    "verses": [
+      {"verseId": "Dan.2.32", "isProphetic": true, "context": "This image's head was of fine gold (dᵉhab), its chest and arms of silver"},
+      {"verseId": "Dan.2.38", "isProphetic": true, "context": "You are this head of gold (dᵉhab)"},
+      {"verseId": "Dan.2.45", "isProphetic": true, "context": "The great God has made known to the king what will come to pass after this"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 9,
+    "strongId": "H3890",
+    "lemma": "כְּסַף",
+    "transliteration": "kᵉsaph",
+    "language": "aramaic",
+    "symbolKeys": ["silver", "medo_persia"],
+    "eventKeys": ["medo_persia_empire"],
+    "propheticSignificance": "The Aramaic word 'kᵉsaph' (silver) appears 13 times in Daniel, representing Medo-Persia as the 'chest and arms of silver' (Dan 2:32). Silver is inferior to gold but still precious, fitting Medo-Persia's role as the second empire. The two arms represent the dual nature of the Medo-Persian alliance. This word marks the transition from Babylon to Persia in the prophetic timeline.",
+    "verses": [
+      {"verseId": "Dan.2.32", "isProphetic": true, "context": "This image's head was of fine gold, its chest and arms of silver (kᵉsaph)"},
+      {"verseId": "Dan.2.35", "isProphetic": true, "context": "The iron, the clay, the bronze, the silver (kᵉsaph), and the gold were crushed together"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 10,
+    "strongId": "H5174",
+    "lemma": "נְחָשׁ",
+    "transliteration": "nᵉḥâsh",
+    "language": "aramaic",
+    "symbolKeys": ["bronze", "greece"],
+    "eventKeys": ["greece_empire"],
+    "propheticSignificance": "The Aramaic word 'nᵉḥâsh' (bronze/brass/copper) appears 10 times in Daniel, representing Greece as the 'belly and thighs of bronze' (Dan 2:32). Bronze represents military strength and conquest - fitting for Alexander the Great's lightning-fast campaigns. This word marks the third phase of the prophetic timeline and connects to Daniel 8's explicit identification of Greece.",
+    "verses": [
+      {"verseId": "Dan.2.32", "isProphetic": true, "context": "Its belly and its thighs of bronze (nᵉḥâsh)"},
+      {"verseId": "Dan.2.35", "isProphetic": true, "context": "The iron, the clay, the bronze (nᵉḥâsh), the silver, and the gold were crushed together"},
+      {"verseId": "Dan.2.39", "isProphetic": true, "context": "Then another, a third kingdom of bronze (nᵉḥâsh), which shall rule over all the earth"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 11,
+    "strongId": "H6523",
+    "lemma": "פַּרְזֶל",
+    "transliteration": "parzel",
+    "language": "aramaic",
+    "symbolKeys": ["iron", "rome"],
+    "eventKeys": ["rome_empire", "divided_rome"],
+    "propheticSignificance": "The Aramaic word 'parzel' (iron) appears 21 times in Daniel 2, representing Rome as the 'legs of iron' and 'feet of iron mixed with clay.' Iron represents crushing military might and political power - perfectly describing Rome's dominance. The two legs represent the division into Eastern and Western empires. The iron mixed with clay (Dan 2:41-43) represents divided Europe that cannot reunite. This word spans from pagan Rome through divided Europe to the Second Coming.",
+    "verses": [
+      {"verseId": "Dan.2.33", "isProphetic": true, "context": "Its legs of iron (parzel), its feet partly of iron (parzel) and partly of clay"},
+      {"verseId": "Dan.2.40", "isProphetic": true, "context": "The fourth kingdom shall be as strong as iron (parzel), inasmuch as iron (parzel) breaks in pieces and shatters everything"},
+      {"verseId": "Dan.2.41", "isProphetic": true, "context": "Whereas you saw the feet and toes, partly of potter's clay and partly of iron (parzel), the kingdom shall be divided"},
+      {"verseId": "Dan.2.43", "isProphetic": true, "context": "As you saw iron (parzel) mixed with ceramic clay, they will mingle with the seed of men; but they will not adhere to one another, just as iron (parzel) does not mix with clay"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 12,
+    "strongId": "H2635",
+    "lemma": "חֲסַף",
+    "transliteration": "ḥăsaph",
+    "language": "aramaic",
+    "symbolKeys": ["clay", "divided_europe"],
+    "eventKeys": ["divided_rome"],
+    "propheticSignificance": "The Aramaic word 'ḥăsaph' (clay/potsherd) appears 10 times in Daniel 2:41-45, representing the weakness and division of Europe after Rome's fall. Clay mixed with iron cannot cohere - a perfect prophecy of Europe's inability to reunite despite countless attempts (Charlemagne, Napoleon, Hitler, EU). This word proves the supernatural accuracy of Bible prophecy: 'they shall not cleave one to another' (Dan 2:43 KJV) has been fulfilled for 1,500+ years.",
+    "verses": [
+      {"verseId": "Dan.2.41", "isProphetic": true, "context": "Whereas you saw the feet and toes, partly of potter's clay (ḥăsaph) and partly of iron, the kingdom shall be divided"},
+      {"verseId": "Dan.2.42", "isProphetic": true, "context": "As the toes of the feet were partly of iron and partly of clay (ḥăsaph), so the kingdom shall be partly strong and partly fragile"},
+      {"verseId": "Dan.2.43", "isProphetic": true, "context": "As you saw iron mixed with ceramic clay (ḥăsaph), they will mingle with the seed of men; but they will not adhere to one another, just as iron does not mix with clay (ḥăsaph)"}
+    ],
+    "createdAt": "2025-11-22T02:00:00Z"
+  }
+]
