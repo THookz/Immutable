@@ -12,25 +12,55 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7],
-      "primaryVerses": ["Dan.2.37-38", "Dan.2.39", "Dan.7.4"]
+      "chapters": [
+        2,
+        7
+      ],
+      "primaryVerses": [
+        "Dan.2.37-38",
+        "Dan.2.39",
+        "Dan.7.4"
+      ]
     },
     "symbolism": {
-      "symbols": ["head of gold", "lion with eagle's wings"],
+      "symbols": [
+        "head of gold",
+        "lion with eagle's wings"
+      ],
       "meaning": "Gold represents supreme value and authority; the lion represents royal power and strength. The eagle's wings suggest rapid conquest.",
-      "aramaicLemmas": ["H1722", "H4430", "H7217", "H738"]
+      "aramaicLemmas": [
+        "H1722",
+        "H4430",
+        "H7217",
+        "H738"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "Universal agreement among historicist interpreters (Seventh-day Adventist, Protestant Reformers including Luther, Calvin, Wesley) that Babylon is the first kingdom. Explicitly confirmed by Daniel 2:38. Historical dates are well-established. Walter Veith emphasizes this as the foundation for understanding all subsequent prophecy.",
-    "relatedEvents": ["medo_persia_empire", "greece_empire", "rome_empire", "divided_rome"],
+    "relatedEvents": [
+      "medo_persia_empire",
+      "greece_empire",
+      "rome_empire",
+      "divided_rome"
+    ],
     "typology": {
       "role": "type",
       "connection": "Ancient Babylon is a type of spiritual Babylon in Revelation 17-18, representing apostate religious-political systems that oppose God's people."
     },
     "crossReferences": {
-      "oldTestament": ["Isa.13.1-22", "Isa.14.4-23", "Jer.50.1-46", "Jer.51.1-64"],
-      "newTestament": ["Rev.17.5", "Rev.18.2", "Rev.18.10", "Rev.18.21"],
+      "oldTestament": [
+        "Isa.13.1-22",
+        "Isa.14.4-23",
+        "Jer.50.1-46",
+        "Jer.51.1-64"
+      ],
+      "newTestament": [
+        "Rev.17.5",
+        "Rev.18.2",
+        "Rev.18.10",
+        "Rev.18.21"
+      ],
       "jesusReference": null
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -49,24 +79,51 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7, 8],
-      "primaryVerses": ["Dan.2.39", "Dan.7.5", "Dan.8.3-4", "Dan.8.20"]
+      "chapters": [
+        2,
+        7,
+        8
+      ],
+      "primaryVerses": [
+        "Dan.2.39",
+        "Dan.7.5",
+        "Dan.8.3-4",
+        "Dan.8.20"
+      ]
     },
     "symbolism": {
-      "symbols": ["chest and arms of silver", "bear raised up on one side", "ram with two horns"],
+      "symbols": [
+        "chest and arms of silver",
+        "bear raised up on one side",
+        "ram with two horns"
+      ],
       "meaning": "Silver represents inferior value to gold but still precious. The bear represents strength and ferocity. The ram explicitly identified as 'the kings of Media and Persia' (Dan 8:20). One horn higher than the other represents Persia's dominance over Media.",
-      "aramaicLemmas": ["H4437", "H3890", "H1768"]
+      "aramaicLemmas": [
+        "H4437",
+        "H3890",
+        "H1768"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "Explicitly identified in Daniel 8:20: 'The ram which you saw, having the two horns—they are the kings of Media and Persia.' Historical dates are precise and well-documented. The bear 'raised up on one side' perfectly matches Persia's dominance over Media. Walter Veith notes the three ribs as Lydia (546 BC), Babylon (539 BC), and Egypt (525 BC).",
-    "relatedEvents": ["babylon_empire", "greece_empire", "rome_empire"],
+    "relatedEvents": [
+      "babylon_empire",
+      "greece_empire",
+      "rome_empire"
+    ],
     "typology": {
       "role": "pattern",
       "connection": "Cyrus as a type of Christ the Liberator (Isa 45:1-7), releasing God's people from captivity."
     },
     "crossReferences": {
-      "oldTestament": ["Isa.44.28", "Isa.45.1-7", "Ezra.1.1-4", "Dan.5.28-31", "Dan.6.28"],
+      "oldTestament": [
+        "Isa.44.28",
+        "Isa.45.1-7",
+        "Ezra.1.1-4",
+        "Dan.5.28-31",
+        "Dan.6.28"
+      ],
       "newTestament": [],
       "jesusReference": null
     },
@@ -86,25 +143,53 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7, 8, 11],
-      "primaryVerses": ["Dan.2.39", "Dan.7.6", "Dan.8.5-8", "Dan.8.21", "Dan.11.3-4"]
+      "chapters": [
+        2,
+        7,
+        8,
+        11
+      ],
+      "primaryVerses": [
+        "Dan.2.39",
+        "Dan.7.6",
+        "Dan.8.5-8",
+        "Dan.8.21",
+        "Dan.11.3-4"
+      ]
     },
     "symbolism": {
-      "symbols": ["belly and thighs of bronze", "leopard with four wings", "goat with notable horn"],
+      "symbols": [
+        "belly and thighs of bronze",
+        "leopard with four wings",
+        "goat with notable horn"
+      ],
       "meaning": "Bronze represents strength and military prowess. The leopard's four wings represent Alexander's lightning-fast conquests (conquered known world in 10 years). The four heads represent the four-way division of the empire. The goat explicitly identified as 'the kingdom of Greece' (Dan 8:21), with the 'notable horn' being Alexander.",
-      "aramaicLemmas": ["H4437", "H5487"]
+      "aramaicLemmas": [
+        "H4437",
+        "H5487"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "Explicitly identified in Daniel 8:21: 'The male goat is the kingdom of Greece. The large horn that is between its eyes is the first king' (Alexander). Daniel 11:3-4 describes Alexander's conquests and the four-way division. Historical dates are precise. Walter Veith emphasizes the prophetic accuracy: Alexander died at age 32 (323 BC), and his empire was divided exactly as prophesied among his four generals, not to his descendants (Dan 11:4).",
-    "relatedEvents": ["medo_persia_empire", "rome_empire", "little_horn_papal"],
+    "relatedEvents": [
+      "medo_persia_empire",
+      "rome_empire",
+      "little_horn_papal"
+    ],
     "typology": {
       "role": "pattern",
       "connection": "Alexander's rapid conquest and sudden fall illustrate the temporary nature of earthly kingdoms."
     },
     "crossReferences": {
-      "oldTestament": ["Dan.8.21-22", "Dan.11.2-4", "Zech.9.13"],
-      "newTestament": ["1Macc.1.1-9"],
+      "oldTestament": [
+        "Dan.8.21-22",
+        "Dan.11.2-4",
+        "Zech.9.13"
+      ],
+      "newTestament": [
+        "1Macc.1.1-9"
+      ],
       "jesusReference": null
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -123,25 +208,54 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7],
-      "primaryVerses": ["Dan.2.40-43", "Dan.7.7", "Dan.7.19-24"]
+      "chapters": [
+        2,
+        7
+      ],
+      "primaryVerses": [
+        "Dan.2.40-43",
+        "Dan.7.7",
+        "Dan.7.19-24"
+      ]
     },
     "symbolism": {
-      "symbols": ["legs of iron", "dreadful beast with iron teeth", "ten horns"],
+      "symbols": [
+        "legs of iron",
+        "dreadful beast with iron teeth",
+        "ten horns"
+      ],
       "meaning": "Iron represents crushing military might and political power. The beast is described as 'dreadful and terrible, exceedingly strong' (Dan 7:7). The ten horns are explicitly 'ten kings who shall arise' (Dan 7:24) from this kingdom.",
-      "aramaicLemmas": ["H4437", "H6523", "H7162"]
+      "aramaicLemmas": [
+        "H4437",
+        "H6523",
+        "H7162"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "Rome's identity is certain based on historical succession and the description's perfect match. Rome ruled during Christ's time (Luke 2:1, 3:1). The ten horns represent the Germanic tribes that divided Western Rome: Alemanni, Franks, Burgundians, Suevi, Anglo-Saxons, Visigoths, Lombards, Ostrogoths, Heruli, Vandals. Three were 'plucked up' (Dan 7:8): Heruli (493 AD), Vandals (534 AD), Ostrogoths (538 AD) - all Arian tribes opposed by papal Rome. Walter Veith emphasizes Rome's continuation in two phases: pagan (168 BC - 476 AD) and papal (538 AD - present).",
-    "relatedEvents": ["greece_empire", "divided_rome", "little_horn_papal"],
+    "relatedEvents": [
+      "greece_empire",
+      "divided_rome",
+      "little_horn_papal"
+    ],
     "typology": {
       "role": "type",
       "connection": "Pagan Rome persecuted Christ and early Christians; papal Rome persecuted faithful believers during the Dark Ages. Both are types of end-time persecution (Rev 13)."
     },
     "crossReferences": {
-      "oldTestament": ["Dan.2.40-43", "Dan.7.7", "Dan.7.19-24"],
-      "newTestament": ["Luke.2.1", "Luke.3.1", "John.19.15", "Rev.13.1-10", "Rev.17.9-14"],
+      "oldTestament": [
+        "Dan.2.40-43",
+        "Dan.7.7",
+        "Dan.7.19-24"
+      ],
+      "newTestament": [
+        "Luke.2.1",
+        "Luke.3.1",
+        "John.19.15",
+        "Rev.13.1-10",
+        "Rev.17.9-14"
+      ],
       "jesusReference": "Matt.24.15"
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -160,25 +274,50 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7],
-      "primaryVerses": ["Dan.2.41-43", "Dan.7.7", "Dan.7.24"]
+      "chapters": [
+        2,
+        7
+      ],
+      "primaryVerses": [
+        "Dan.2.41-43",
+        "Dan.7.7",
+        "Dan.7.24"
+      ]
     },
     "symbolism": {
-      "symbols": ["feet of iron and clay", "ten toes", "ten horns"],
+      "symbols": [
+        "feet of iron and clay",
+        "ten toes",
+        "ten horns"
+      ],
       "meaning": "Iron mixed with clay represents strength mixed with weakness - a divided Europe that retains Roman influence but cannot reunite. The ten toes/horns represent the ten kingdoms. The prophecy 'they shall not cleave one to another' (Dan 2:43 KJV) has been fulfilled repeatedly: Charlemagne, Charles V, Napoleon, Hitler, and the EU have all failed to reunite Europe.",
-      "aramaicLemmas": ["H4437", "H6523", "H2635", "H7162"]
+      "aramaicLemmas": [
+        "H4437",
+        "H6523",
+        "H2635",
+        "H7162"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "The ten kingdoms that emerged from Western Rome: Alemanni (Germany), Franks (France), Burgundians (Switzerland), Suevi (Portugal), Anglo-Saxons (England), Visigoths (Spain), Lombards (Italy), plus three that were destroyed (Heruli, Vandals, Ostrogoths). Despite countless attempts through marriage alliances ('mingle themselves with the seed of men' Dan 2:43) and military conquest, Europe has never reunited. Walter Veith emphasizes this as one of the most remarkable fulfilled prophecies - every attempt to reunite Europe has failed, exactly as prophesied 2,500 years ago.",
-    "relatedEvents": ["rome_empire", "little_horn_papal", "stone_kingdom"],
+    "relatedEvents": [
+      "rome_empire",
+      "little_horn_papal",
+      "stone_kingdom"
+    ],
     "typology": {
       "role": "pattern",
       "connection": "The divided kingdoms represent the final state of earthly power before God's eternal kingdom (the stone) destroys them all."
     },
     "crossReferences": {
-      "oldTestament": ["Dan.2.41-44", "Dan.7.24"],
-      "newTestament": ["Rev.17.12-14"],
+      "oldTestament": [
+        "Dan.2.41-44",
+        "Dan.7.24"
+      ],
+      "newTestament": [
+        "Rev.17.12-14"
+      ],
       "jesusReference": null
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -197,25 +336,72 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [7, 8, 11, 12],
-      "primaryVerses": ["Dan.7.8", "Dan.7.20-25", "Dan.8.9-14", "Dan.8.23-25", "Dan.11.31", "Dan.12.7", "Dan.12.11"]
+      "chapters": [
+        7,
+        8,
+        11,
+        12
+      ],
+      "primaryVerses": [
+        "Dan.7.8",
+        "Dan.7.20-25",
+        "Dan.8.9-14",
+        "Dan.8.23-25",
+        "Dan.11.31",
+        "Dan.12.7",
+        "Dan.12.11"
+      ]
     },
     "symbolism": {
-      "symbols": ["little horn", "man of sin", "son of perdition", "king of fierce countenance", "abomination of desolation"],
+      "symbols": [
+        "little horn",
+        "man of sin",
+        "son of perdition",
+        "king of fierce countenance",
+        "abomination of desolation"
+      ],
       "meaning": "The 'little horn' starts small but becomes 'greater than its fellows' (Dan 7:20). It has 'eyes like a man' (human wisdom) and a 'mouth speaking pompous words' (blasphemous claims). Paul describes this same power as one who 'opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God in the temple of God, showing himself that he is God' (2 Thess 2:4). It 'persecutes the saints' (Inquisition, martyrs) and 'intends to change times and law' (changed Sabbath from Saturday to Sunday, altered Ten Commandments). The 1,260-year period (538-1798) is mentioned seven times in Daniel and Revelation.",
-      "aramaicLemmas": ["H7162", "H2192", "H6925", "H5648", "H8133", "H2166"]
+      "aramaicLemmas": [
+        "H7162",
+        "H2192",
+        "H6925",
+        "H5648",
+        "H8133",
+        "H2166"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
-    "scholarlyNotes": "Over 46 documented scholars from 1310-1800 AD (including all major Protestant Reformers: Luther, Calvin, Wesley, Wycliffe, Huss, Knox, Tyndale, and even Isaac Newton) unanimously identified the little horn as the papal system based on Daniel's prophecy and Paul's description in 2 Thessalonians 2:3-4. The identifying marks are precise: (1) Arose among ten kingdoms of Europe ✓ (2) Uprooted three Arian kingdoms ✓ (3) Different from other kingdoms (religious-political) ✓ (4) Speaks against God and exalts himself as God (claims to forgive sins, infallibility, 'Vicarius Filii Dei' = Vicar of the Son of God) ✓ (5) Sits in God's temple (claims headship over the church) ✓ (6) Persecutes saints (Inquisition: millions martyred) ✓ (7) Attempts to change times and law (Sabbath to Sunday, altered Commandments in catechism) ✓ (8) Rules 1,260 years (538-1798 AD) ✓. The mathematical precision of 538 + 1,260 = 1798 proves divine inspiration. Walter Veith emphasizes this is not anti-Catholic but pro-truth - identifying the system, not condemning individuals. Jesus Himself warned: 'When you see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place... then let those who are in Judea flee' (Matt 24:15-16). The Greek word 'anti' in 'antichrist' means 'in place of' - the papal claim to be Christ's vicar (representative) on earth perfectly fulfills this."
-    "relatedEvents": ["rome_empire", "divided_rome", "three_horns_uprooted", "deadly_wound_1798", "time_of_end"],
+    "scholarlyNotes": "Over 46 documented scholars from 1310-1800 AD (including all major Protestant Reformers: Luther, Calvin, Wesley, Wycliffe, Huss, Knox, Tyndale, and even Isaac Newton) unanimously identified the little horn as the papal system based on Daniel's prophecy and Paul's description in 2 Thessalonians 2:3-4. The identifying marks are precise: (1) Arose among ten kingdoms of Europe ✓ (2) Uprooted three Arian kingdoms ✓ (3) Different from other kingdoms (religious-political) ✓ (4) Speaks against God and exalts himself as God (claims to forgive sins, infallibility, 'Vicarius Filii Dei' = Vicar of the Son of God) ✓ (5) Sits in God's temple (claims headship over the church) ✓ (6) Persecutes saints (Inquisition: millions martyred) ✓ (7) Attempts to change times and law (Sabbath to Sunday, altered Commandments in catechism) ✓ (8) Rules 1,260 years (538-1798 AD) ✓. The mathematical precision of 538 + 1,260 = 1798 proves divine inspiration. Walter Veith emphasizes this is not anti-Catholic but pro-truth - identifying the system, not condemning individuals. Jesus Himself warned: 'When you see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place... then let those who are in Judea flee' (Matt 24:15-16). The Greek word 'anti' in 'antichrist' means 'in place of' - the papal claim to be Christ's vicar (representative) on earth perfectly fulfills this.",
+    "relatedEvents": [
+      "rome_empire",
+      "divided_rome",
+      "three_horns_uprooted",
+      "deadly_wound_1798",
+      "time_of_end"
+    ],
     "typology": {
       "role": "antitype",
       "connection": "The little horn is the antitype of Antiochus Epiphanes (Dan 8:9-14, 11:31-35), who desecrated the temple and persecuted God's people. Both are types of the final antichrist power in Revelation 13."
     },
     "crossReferences": {
-      "oldTestament": ["Dan.7.8", "Dan.7.20-27", "Dan.8.9-14", "Dan.8.23-25", "Dan.11.31-35", "Dan.12.7", "Dan.12.11"],
-      "newTestament": ["Matt.24.15", "Mark.13.14", "2Thess.2.3-12", "Rev.13.1-10", "Rev.13.5-7", "Rev.17.1-6"],
+      "oldTestament": [
+        "Dan.7.8",
+        "Dan.7.20-27",
+        "Dan.8.9-14",
+        "Dan.8.23-25",
+        "Dan.11.31-35",
+        "Dan.12.7",
+        "Dan.12.11"
+      ],
+      "newTestament": [
+        "Matt.24.15",
+        "Mark.13.14",
+        "2Thess.2.3-12",
+        "Rev.13.1-10",
+        "Rev.13.5-7",
+        "Rev.17.1-6"
+      ],
       "jesusReference": "Matt.24.15"
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -234,22 +420,44 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [7],
-      "primaryVerses": ["Dan.7.8", "Dan.7.20", "Dan.7.24"]
+      "chapters": [
+        7
+      ],
+      "primaryVerses": [
+        "Dan.7.8",
+        "Dan.7.20",
+        "Dan.7.24"
+      ]
     },
     "symbolism": {
-      "symbols": ["three horns plucked up by the roots"],
+      "symbols": [
+        "three horns plucked up by the roots"
+      ],
       "meaning": "The three horns represent three kingdoms completely destroyed (plucked up by the roots) to make way for the little horn's supremacy. All three were Arian (non-Trinitarian) kingdoms that opposed papal theology.",
-      "aramaicLemmas": ["H7162", "H8532", "H6132"]
+      "aramaicLemmas": [
+        "H7162",
+        "H8532",
+        "H6132"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "Historical dates are precise: Heruli destroyed 493 AD, Vandals 534 AD, Ostrogoths 538 AD. All three were Arian kingdoms that rejected papal authority and Trinitarian doctrine. Their destruction was accomplished by Catholic powers (Ostrogoths destroyed Heruli; Justinian destroyed Vandals and Ostrogoths). The year 538 AD is significant as it marks both the final uprooting and the beginning of papal supremacy - the start of the 1,260-year period. Walter Veith notes that Justinian's decree (533 AD) couldn't take effect until the Ostrogoths were removed (538 AD).",
-    "relatedEvents": ["rome_empire", "divided_rome", "little_horn_papal"],
+    "relatedEvents": [
+      "rome_empire",
+      "divided_rome",
+      "little_horn_papal"
+    ],
     "typology": null,
     "crossReferences": {
-      "oldTestament": ["Dan.7.8", "Dan.7.20", "Dan.7.24"],
-      "newTestament": ["Rev.13.5"],
+      "oldTestament": [
+        "Dan.7.8",
+        "Dan.7.20",
+        "Dan.7.24"
+      ],
+      "newTestament": [
+        "Rev.13.5"
+      ],
       "jesusReference": null
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -268,22 +476,47 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [7, 12],
-      "primaryVerses": ["Dan.7.25", "Dan.12.4", "Dan.12.7"]
+      "chapters": [
+        7,
+        12
+      ],
+      "primaryVerses": [
+        "Dan.7.25",
+        "Dan.12.4",
+        "Dan.12.7"
+      ]
     },
     "symbolism": {
-      "symbols": ["time, times, and half a time ends", "deadly wound"],
+      "symbols": [
+        "time, times, and half a time ends",
+        "deadly wound"
+      ],
       "meaning": "The 1,260 years (538-1798) ended exactly as prophesied. The 'deadly wound' represents the loss of papal temporal power. Revelation 13:3 prophesies this wound would be healed - fulfilled as papal influence has been restored in modern times.",
-      "aramaicLemmas": ["H5732", "H2166"]
+      "aramaicLemmas": [
+        "H5732",
+        "H2166"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "The date 1798 is historically precise. Napoleon declared the pope's temporal power ended. This marks the end of the 1,260-year prophecy with mathematical exactness: 538 + 1260 = 1798. Daniel 12:4 says 'seal the book until the time of the end' - historicists understand 1798 as the beginning of the 'time of the end,' when prophetic understanding would increase. Walter Veith emphasizes that Revelation 13:3 prophesies the wound would be healed - fulfilled through the Lateran Treaty (1929) and increasing papal influence in modern times, culminating in a future global religious-political system (Rev 13:11-18).",
-    "relatedEvents": ["little_horn_papal", "time_of_end", "wound_healed"],
+    "relatedEvents": [
+      "little_horn_papal",
+      "time_of_end",
+      "wound_healed"
+    ],
     "typology": null,
     "crossReferences": {
-      "oldTestament": ["Dan.7.25", "Dan.12.4", "Dan.12.7"],
-      "newTestament": ["Rev.13.3", "Rev.13.5", "Rev.13.10"],
+      "oldTestament": [
+        "Dan.7.25",
+        "Dan.12.4",
+        "Dan.12.7"
+      ],
+      "newTestament": [
+        "Rev.13.3",
+        "Rev.13.5",
+        "Rev.13.10"
+      ],
       "jesusReference": null
     },
     "createdAt": "2025-11-22T02:00:00Z",
@@ -302,28 +535,411 @@
     },
     "prophecySource": {
       "book": "Daniel",
-      "chapters": [2, 7],
-      "primaryVerses": ["Dan.2.34-35", "Dan.2.44-45", "Dan.7.13-14", "Dan.7.27"]
+      "chapters": [
+        2,
+        7
+      ],
+      "primaryVerses": [
+        "Dan.2.34-35",
+        "Dan.2.44-45",
+        "Dan.7.13-14",
+        "Dan.7.27"
+      ]
     },
     "symbolism": {
-      "symbols": ["stone cut without hands", "mountain filling the earth", "Son of Man coming with clouds"],
+      "symbols": [
+        "stone cut without hands",
+        "mountain filling the earth",
+        "Son of Man coming with clouds"
+      ],
       "meaning": "'Cut without hands' means not of human origin - God's kingdom, not man's. The stone strikes the feet (divided Europe) and destroys the entire image (all earthly kingdoms). It becomes a mountain (kingdom) filling the whole earth. Daniel 7:13-14 shows the Son of Man (Jesus) receiving the kingdom from the Ancient of Days (God the Father).",
-      "aramaicLemmas": ["H69", "H4437", "H5957", "H606"]
+      "aramaicLemmas": [
+        "H69",
+        "H4437",
+        "H5957",
+        "H606"
+      ]
     },
     "interpretiveMethod": "historicist",
     "confidence": 5,
     "scholarlyNotes": "This is the blessed hope of all believers - Christ's return and the establishment of His eternal kingdom. Daniel 2:44 says 'in the days of these kings' (divided Europe) God will set up His kingdom. We are living in the time of the feet - the final phase before the stone strikes. The kingdom is given to 'the saints of the Most High' (Dan 7:27). Walter Veith emphasizes this is not a gradual spiritual process but a sudden, catastrophic event at Christ's visible return. Jesus Himself referred to this: 'They will see the Son of Man coming on the clouds of heaven with power and great glory' (Matt 24:30).",
-    "relatedEvents": ["divided_rome", "little_horn_papal", "time_of_end"],
+    "relatedEvents": [
+      "divided_rome",
+      "little_horn_papal",
+      "time_of_end"
+    ],
     "typology": {
       "role": "antitype",
       "connection": "The stone is Christ (1 Pet 2:4-8, Matt 21:42-44). He is the 'Rock of Ages' who will crush all opposition and establish His eternal kingdom."
     },
     "crossReferences": {
-      "oldTestament": ["Dan.2.34-35", "Dan.2.44-45", "Dan.7.13-14", "Dan.7.27", "Ps.2.6-9", "Isa.9.6-7"],
-      "newTestament": ["Matt.24.30", "Matt.25.31", "Matt.26.64", "Mark.13.26", "Luke.21.27", "1Thess.4.16-17", "Rev.19.11-16", "Rev.20.4-6", "Rev.21.1-4"],
+      "oldTestament": [
+        "Dan.2.34-35",
+        "Dan.2.44-45",
+        "Dan.7.13-14",
+        "Dan.7.27",
+        "Ps.2.6-9",
+        "Isa.9.6-7"
+      ],
+      "newTestament": [
+        "Matt.24.30",
+        "Matt.25.31",
+        "Matt.26.64",
+        "Mark.13.26",
+        "Luke.21.27",
+        "1Thess.4.16-17",
+        "Rev.19.11-16",
+        "Rev.20.4-6",
+        "Rev.21.1-4"
+      ],
       "jesusReference": "Matt.24.30"
     },
     "createdAt": "2025-11-22T02:00:00Z",
     "updatedAt": "2025-11-22T02:00:00Z"
+  },
+  {
+    "id": 10,
+    "eventKey": "beast_from_sea",
+    "name": "Beast from the Sea (Revelation 13:1-10) - Papal Rome",
+    "description": "The beast from the sea in Revelation 13:1-10 is the same power as Daniel's little horn and Paul's man of sin - the papal system. This beast receives power from the dragon (pagan Rome), speaks blasphemies, persecutes saints for 42 months (1,260 years), and receives a deadly wound that is healed. The 'sea' represents populated areas (Rev 17:15). This is the first beast that the second beast (USA) will cause the world to worship.",
+    "historicalPeriod": {
+      "start": 538,
+      "end": null,
+      "startEvent": "Papal supremacy established (538 AD) after Ostrogoths defeated",
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Revelation",
+      "chapters": [
+        13,
+        17
+      ],
+      "primaryVerses": [
+        "Rev.13.1-10",
+        "Rev.13.3",
+        "Rev.13.5-7",
+        "Rev.17.3",
+        "Rev.17.8"
+      ]
+    },
+    "symbolism": {
+      "symbols": [
+        "beast from the sea",
+        "seven heads",
+        "ten horns",
+        "leopard-bear-lion",
+        "blasphemous names",
+        "666"
+      ],
+      "meaning": "The beast combines characteristics of Daniel's four beasts (lion, bear, leopard, dreadful beast), showing it represents the same succession of powers culminating in papal Rome. The seven heads represent seven forms of government in Rome's history. The ten horns are the ten kingdoms of divided Europe. The 'blasphemous names' are papal titles that claim divine prerogatives. The number 666 is calculated from papal titles.",
+      "greekLemmas": [
+        "G2342",
+        "G2281",
+        "G2776",
+        "G2768",
+        "G987",
+        "G1803",
+        "G5516"
+      ]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "Revelation 13 is the New Testament parallel to Daniel 7. The beast from the sea is explicitly the same as Daniel's little horn: (1) Speaks blasphemies (Rev 13:5-6 = Dan 7:25) ✓ (2) Makes war with saints (Rev 13:7 = Dan 7:21, 25) ✓ (3) Rules 42 months = 1,260 days = 1,260 years (Rev 13:5 = Dan 7:25) ✓ (4) Receives deadly wound (Rev 13:3) = 1798 AD when Pope taken captive ✓ (5) Wound healed (Rev 13:3) = papal power restored in 20th century ✓. The 666 calculation: FIVE different papal titles all add up to 666 using Roman numeral values: (1) ITALIKA EKKLĒSIA (Italian church) (2) VICARIUS FILII DEI (Vicar of God's Son) (3) DUX CLERI (Head of clergy) (4) HĒLATINĒ BASILEIA (Latin Kingdom) (5) LATEINOS (Latin-speaking man). This mathematical precision across five different titles proves this is not coincidence but divine identification. Walter Veith emphasizes that Revelation 13 is the climax of the prophecy chain: Daniel 2 → Daniel 7 → 2 Thess 2 → Matt 24 → Revelation 13.",
+    "relatedEvents": [
+      "little_horn_papal",
+      "deadly_wound_1798",
+      "wound_healed_20th_century",
+      "beast_from_earth_usa",
+      "mark_of_beast"
+    ],
+    "typology": {
+      "role": "antitype",
+      "connection": "The beast from the sea is the ultimate antitype of all oppressive powers that persecute God's people. It combines elements of Babylon, Medo-Persia, Greece, and Rome, showing the continuity of Satan's opposition to God's kingdom."
+    },
+    "crossReferences": {
+      "oldTestament": [
+        "Dan.7.1-8",
+        "Dan.7.19-25",
+        "Dan.8.9-14",
+        "Dan.11.31-36"
+      ],
+      "newTestament": [
+        "2Thess.2.3-4",
+        "Matt.24.15",
+        "Rev.12.6",
+        "Rev.12.14",
+        "Rev.17.1-18",
+        "Rev.18.1-24"
+      ],
+      "jesusReference": "Matt.24.15"
+    },
+    "createdAt": "2025-11-22T03:00:00Z",
+    "updatedAt": "2025-11-22T03:00:00Z"
+  },
+  {
+    "id": 11,
+    "eventKey": "beast_from_earth_usa",
+    "name": "Beast from the Earth (Revelation 13:11-18) - United States of America",
+    "description": "The beast from the earth represents the United States of America. It rises from a sparsely populated area ('earth' = wilderness) around 1798 (when the first beast receives its deadly wound). It has 'two horns like a lamb' representing Protestantism (religious liberty) and Republicanism (representative government), but it 'speaks like a dragon' by eventually enforcing worship and creating an image to the first beast (church-state union). This beast causes the world to worship the first beast (papal Rome) and enforces the mark of the beast.",
+    "historicalPeriod": {
+      "start": 1776,
+      "end": null,
+      "startEvent": "United States Declaration of Independence (1776) - Nation founded on Protestant and Republican principles",
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Revelation",
+      "chapters": [
+        13
+      ],
+      "primaryVerses": [
+        "Rev.13.11-18"
+      ]
+    },
+    "symbolism": {
+      "symbols": [
+        "beast from the earth",
+        "two horns like a lamb",
+        "speaks like a dragon",
+        "image to the beast",
+        "mark of the beast"
+      ],
+      "meaning": "The 'earth' (vs. 'sea') represents a sparsely populated area, fitting America's rise in the wilderness of the New World. The 'two horns like a lamb' represent the two founding principles: (1) Protestantism - religious liberty, freedom of conscience, separation of church and state (2) Republicanism - representative government, civil liberty, separation of powers. But 'speaks like a dragon' means it will abandon these principles and enforce worship through legislation. The 'image to the beast' is a church-state union in America, mirroring papal Rome's union of church and state. The 'mark of the beast' is enforced Sunday observance.",
+      "greekLemmas": [
+        "G2342",
+        "G1093",
+        "G721",
+        "G2768",
+        "G1404",
+        "G2980",
+        "G1504",
+        "G5480"
+      ]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The identification of the USA as the second beast is based on precise prophetic marks: (1) Rises from 'earth' (sparsely populated area) ✓ - America rose in the wilderness (2) Rises around 1798 ✓ - USA became a world power in late 18th/early 19th century (3) Has two horns like a lamb ✓ - Founded on Protestantism and Republicanism (4) Speaks like a dragon ✓ - Will enforce worship through legislation (5) Makes image to beast ✓ - Will create church-state union (6) Causes earth to worship first beast ✓ - Will lead world to accept papal authority (7) Enforces mark of beast ✓ - Will enforce Sunday observance. Historical evidence: Virginia Colony Laws (1612) show America's precedent for religious legislation with death penalty for Sabbath-breaking. Reagan (1984) established full diplomatic relations with Vatican, beginning the transformation. Current trajectory: moving toward religious legislation. Walter Veith emphasizes America is uniquely positioned to fulfill this prophecy: (1) World's most powerful nation (2) Protestant heritage (3) Influence over global economy (4) Increasing cooperation with Vatican. The 'image to the beast' means America will adopt the same church-state union that characterized papal Rome, using civil law to enforce religious observance.",
+    "relatedEvents": [
+      "beast_from_sea",
+      "deadly_wound_1798",
+      "wound_healed_20th_century",
+      "mark_of_beast",
+      "image_to_beast",
+      "sunday_law"
+    ],
+    "typology": {
+      "role": "antitype",
+      "connection": "The beast from the earth is the antitype of ancient Israel's apostasy - a nation founded on God's principles that abandons them and persecutes the faithful. Just as Israel was God's chosen nation but rejected Christ, America was founded on Protestant principles but will reject religious liberty."
+    },
+    "crossReferences": {
+      "oldTestament": [
+        "Dan.3.1-30",
+        "Dan.6.1-28"
+      ],
+      "newTestament": [
+        "Matt.24.15",
+        "Rev.12.17",
+        "Rev.14.9-12",
+        "Rev.18.4"
+      ],
+      "jesusReference": "Matt.24.15"
+    },
+    "createdAt": "2025-11-22T03:00:00Z",
+    "updatedAt": "2025-11-22T03:00:00Z"
+  },
+  {
+    "id": 12,
+    "eventKey": "mark_of_beast_666",
+    "name": "The Mark of the Beast (666) - Sunday Observance",
+    "description": "The mark of the beast (Revelation 13:16-18) is the enforced observance of Sunday as a day of worship, in place of God's seventh-day Sabbath (Saturday). The number 666 identifies the beast through papal titles that calculate to 666 using Roman numeral values. The mark is received in the 'forehead' (intellectual assent) or 'hand' (outward compliance). Those who refuse the mark will be unable to 'buy or sell' (economic sanctions). This is the final test of loyalty: Will we obey God's commandment (Saturday Sabbath) or man's tradition (Sunday)?",
+    "historicalPeriod": {
+      "start": null,
+      "end": null,
+      "startEvent": null,
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Revelation",
+      "chapters": [
+        13,
+        14
+      ],
+      "primaryVerses": [
+        "Rev.13.16-18",
+        "Rev.14.9-12",
+        "Rev.7.3"
+      ]
+    },
+    "symbolism": {
+      "symbols": [
+        "mark",
+        "666",
+        "forehead",
+        "hand",
+        "buy or sell",
+        "seal of God"
+      ],
+      "meaning": "The 'mark' is a sign of allegiance to the beast's authority. The 'forehead' represents the mind/intellect - those who intellectually accept Sunday as holy. The 'hand' represents actions/work - those who outwardly comply even if they don't believe. The number 666 identifies the beast through five papal titles that all calculate to 666: (1) ITALIKA EKKLĒSIA = 666 (2) VICARIUS FILII DEI = 666 (3) DUX CLERI = 666 (4) HĒLATINĒ BASILEIA = 666 (5) LATEINOS = 666. The 'buy or sell' restriction means economic sanctions against those who refuse. The opposite of the mark is the 'seal of God' (Rev 7:3) - keeping God's Sabbath (Saturday).",
+      "greekLemmas": [
+        "G5480",
+        "G5516",
+        "G3339",
+        "G59",
+        "G4453",
+        "G4972"
+      ]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The mark of the beast is not yet enforced, but the stage is being set. The identifying features: (1) 666 calculation ✓ - Five papal titles all equal 666 using Roman numerals (2) Enforced worship ✓ - Sunday laws will be enacted (3) Economic sanctions ✓ - Cannot buy/sell without compliance (4) Forehead or hand ✓ - Intellectual assent or outward compliance (5) Opposite of God's seal ✓ - God's seal is Sabbath (Ex 31:13, Ezek 20:12, 20). The Sabbath is the test because: (1) It's the only commandment with 'remember' (Ex 20:8) (2) It identifies the Creator (Ex 20:11) (3) It's the sign of sanctification (Ex 31:13) (4) The papacy openly claims to have changed it (5) No biblical authority for Sunday observance. Historical precedent: Virginia Colony Laws (1612) enforced Sabbath observance with death penalty - America has done this before. Current trajectory: Increasing Sunday legislation (blue laws), ecumenical movement uniting Protestants and Catholics, climate change blamed on lack of 'rest day'. Walter Veith warns: The mark is not enforced until there is (1) Clear understanding of the issue (2) A deliberate choice (3) Legal enforcement. Once enforced, probation closes - no one can change sides (Rev 22:11). The three angels' messages (Rev 14:6-12) are God's final warning before the mark is enforced.",
+    "relatedEvents": [
+      "beast_from_sea",
+      "beast_from_earth_usa",
+      "sunday_law",
+      "seal_of_god",
+      "three_angels_messages"
+    ],
+    "typology": {
+      "role": "antitype",
+      "connection": "The mark of the beast is the antitype of the seal of God. Just as ancient Israel was sealed by circumcision and Sabbath-keeping, God's end-time people are sealed by Sabbath-keeping. The mark represents allegiance to man's authority; the seal represents allegiance to God's authority."
+    },
+    "crossReferences": {
+      "oldTestament": [
+        "Ex.20.8-11",
+        "Ex.31.13-17",
+        "Ezek.20.12",
+        "Ezek.20.20",
+        "Dan.7.25"
+      ],
+      "newTestament": [
+        "Rev.7.2-3",
+        "Rev.14.9-12",
+        "Rev.15.2",
+        "Rev.20.4"
+      ],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T03:00:00Z",
+    "updatedAt": "2025-11-22T03:00:00Z"
+  },
+  {
+    "id": 13,
+    "eventKey": "deadly_wound_1798",
+    "name": "The Deadly Wound (1798 AD) - Pope Taken Captive",
+    "description": "In 1798 AD, Napoleon's general Berthier entered Rome and took Pope Pius VI captive, ending the 1,260-year period of papal supremacy (538-1798). This fulfilled Revelation 13:3 and 13:10: 'He that leadeth into captivity shall go into captivity... I saw one of his heads as it were wounded to death.' The papacy, which had led millions into captivity and death during the Inquisition, was itself taken captive. This marked the end of the 42 months (1,260 years) of persecution.",
+    "historicalPeriod": {
+      "start": 1798,
+      "end": 1798,
+      "startEvent": "February 10, 1798 - General Berthier enters Rome",
+      "endEvent": "Pope Pius VI taken captive, dies in exile (1799)"
+    },
+    "prophecySource": {
+      "book": "Revelation",
+      "chapters": [
+        13
+      ],
+      "primaryVerses": [
+        "Rev.13.3",
+        "Rev.13.10"
+      ]
+    },
+    "symbolism": {
+      "symbols": [
+        "deadly wound",
+        "captivity",
+        "sword"
+      ],
+      "meaning": "The 'deadly wound' represents the apparent end of papal power. The 'captivity' fulfills the principle 'he that leadeth into captivity shall go into captivity' - the papacy, which imprisoned and killed millions, was itself taken captive. The 'sword' represents military power (Napoleon's army). This event marked the precise end of the 1,260-year prophecy.",
+      "greekLemmas": [
+        "G4127",
+        "G2288",
+        "G161",
+        "G3162"
+      ]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The deadly wound of 1798 is one of the most precisely fulfilled prophecies in Scripture. Historical facts: (1) February 10, 1798 - General Berthier enters Rome (2) Pope Pius VI taken prisoner (3) Papal States dissolved (4) Pope dies in exile in France (August 29, 1799) (5) Newspapers declared 'The papacy is dead' (6) 538 + 1,260 = 1798 - exact fulfillment. This event marked: (1) End of 1,260-year period (2) End of papal political power (3) End of Inquisition (4) End of persecution of Protestants. Revelation 13:3 says 'his deadly wound was healed' - this began in the 20th century. Walter Veith emphasizes this is the hinge point in prophecy: the first beast receives its wound, and the second beast (USA) rises to power at the same time. The mathematical precision (538 + 1,260 = 1798) proves divine inspiration - this could not be coincidence.",
+    "relatedEvents": [
+      "little_horn_papal",
+      "beast_from_sea",
+      "wound_healed_20th_century",
+      "beast_from_earth_usa"
+    ],
+    "typology": null,
+    "crossReferences": {
+      "oldTestament": [
+        "Dan.7.25",
+        "Dan.12.7"
+      ],
+      "newTestament": [
+        "Rev.12.6",
+        "Rev.12.14",
+        "Rev.13.5"
+      ],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T03:00:00Z",
+    "updatedAt": "2025-11-22T03:00:00Z"
+  },
+  {
+    "id": 14,
+    "eventKey": "wound_healed_20th_century",
+    "name": "The Wound Healed (20th Century) - Papal Power Restored",
+    "description": "Revelation 13:3 prophesies that the deadly wound 'was healed: and all the world wondered after the beast.' The healing began in the 20th century through a series of events: (1) Lateran Treaty (1929) - Mussolini restored papal sovereignty (2) Vatican II (1962-1965) - Opened door to ecumenism (3) Reagan-Vatican relations (1984) - USA established full diplomatic ties (4) Pope John Paul II (1978-2005) - Credited with fall of communism (5) Global influence - Popes now address UN, influence world politics. The wound is nearly fully healed, and 'all the world' is indeed 'wondering after the beast.'",
+    "historicalPeriod": {
+      "start": 1929,
+      "end": null,
+      "startEvent": "Lateran Treaty (February 11, 1929) - Vatican City established as sovereign state",
+      "endEvent": null
+    },
+    "prophecySource": {
+      "book": "Revelation",
+      "chapters": [
+        13
+      ],
+      "primaryVerses": [
+        "Rev.13.3",
+        "Rev.13.12"
+      ]
+    },
+    "symbolism": {
+      "symbols": [
+        "wound healed",
+        "all the world wondered",
+        "worship the beast"
+      ],
+      "meaning": "The 'healing' represents the restoration of papal power and influence. 'All the world wondered' means global admiration and influence. The 'worship' represents allegiance and submission to papal authority. This sets the stage for the final events: the second beast (USA) will cause the world to worship the first beast (papacy) by enforcing the mark (Sunday observance).",
+      "greekLemmas": [
+        "G2323",
+        "G2296",
+        "G3650",
+        "G1093",
+        "G4352"
+      ]
+    },
+    "interpretiveMethod": "historicist",
+    "confidence": 5,
+    "scholarlyNotes": "The healing of the wound is ongoing and nearly complete. Key events: (1) Lateran Treaty (1929) - Mussolini gave Vatican City to Pope Pius XI, restoring papal sovereignty (2) Vatican II (1962-1965) - Catholic Church opened to ecumenism, paving way for Protestant-Catholic reunion (3) Reagan-Vatican (1984) - USA established full diplomatic relations, legitimizing papal political power (4) John Paul II (1978-2005) - Credited with fall of Soviet Union, elevated papal influence globally (5) Benedict XVI (2005-2013) - Continued ecumenical outreach (6) Francis (2013-present) - First Jesuit pope, addresses UN, climate change, global issues. Current status: (1) Popes address UN General Assembly (2) World leaders visit Vatican (3) Ecumenical movement uniting Protestants and Catholics (4) Papal influence on global politics (5) 1.3 billion Catholics worldwide (6) Media coverage treats popes as global moral authority. Walter Veith warns: The wound is nearly healed. Once fully healed, the final events will unfold rapidly: (1) Sunday law enacted in USA (2) Economic sanctions on Sabbath-keepers (3) Death decree (Rev 13:15) (4) Close of probation (5) Seven last plagues (6) Christ's return. The healing of the wound is the sign that we are in the final phase of earth's history.",
+    "relatedEvents": [
+      "deadly_wound_1798",
+      "beast_from_sea",
+      "beast_from_earth_usa",
+      "mark_of_beast_666",
+      "sunday_law"
+    ],
+    "typology": null,
+    "crossReferences": {
+      "oldTestament": [],
+      "newTestament": [
+        "Rev.13.3",
+        "Rev.13.8",
+        "Rev.13.12",
+        "Rev.17.8"
+      ],
+      "jesusReference": null
+    },
+    "createdAt": "2025-11-22T03:00:00Z",
+    "updatedAt": "2025-11-22T03:00:00Z"
   }
 ]
