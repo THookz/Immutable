@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
-import { syncOfflineData, getSyncStatus, isOfflineDataAvailable } from '@/lib/offline-db';
+import { syncAllData, getSyncStatus } from '@/lib/data-sync';
+import { isOfflineDataAvailable } from '@/lib/indexeddb';
+import type { SyncProgress } from '@/lib/data-sync';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -11,12 +13,16 @@ export function OfflineDownload() {
   const [message, setMessage] = useState('');
   const [error, setError] = useState<string | null>(null);
   const [syncStatus, setSyncStatus] = useState<{
-    synced: boolean;
-    lastSync: string | null;
-    lemmasCount: number;
-    versesCount: number;
-    symbolsCount: number;
-    eventsCount: number;
+    isSynced: boolean;
+    lastSync: number | null;
+    dataVersion: string | null;
+    counts: {
+      lemmas: number;
+      verses: number;
+      translations: number;
+      symbols: number;
+      historicalEvents: number;
+    };
   } | null>(null);
 
   useEffect(() => {
@@ -35,9 +41,9 @@ export function OfflineDownload() {
     setMessage('Starting download...');
     
     try {
-      await syncOfflineData((percent, msg) => {
-        setProgress(percent);
-        setMessage(msg);
+      await syncAllData((progressData: SyncProgress) => {
+        setProgress(progressData.percentage);
+        setMessage(progressData.message);
       });
       
       // Refresh sync status
@@ -50,7 +56,7 @@ export function OfflineDownload() {
     }
   }
 
-  if (syncStatus?.synced) {
+  if (syncStatus?.isSynced) {
     return (
       <Card className="max-w-2xl mx-auto">
         <CardHeader>
@@ -66,10 +72,10 @@ export function OfflineDownload() {
           <div className="bg-muted p-4 rounded-lg space-y-2">
             <h3 className="font-semibold">Downloaded Data:</h3>
             <ul className="text-sm space-y-1">
-              <li>✅ {syncStatus.lemmasCount.toLocaleString()} Strong's concordance entries</li>
-              <li>✅ {syncStatus.versesCount.toLocaleString()} Bible verses (all 66 books)</li>
-              <li>✅ {syncStatus.symbolsCount} prophetic symbols</li>
-              <li>✅ {syncStatus.eventsCount} historical events</li>
+              <li>✅ {syncStatus.counts.lemmas.toLocaleString()} Strong's concordance entries</li>
+              <li>✅ {syncStatus.counts.verses.toLocaleString()} Bible verses (all 66 books)</li>
+              <li>✅ {syncStatus.counts.symbols} prophetic symbols</li>
+              <li>✅ {syncStatus.counts.historicalEvents} historical events</li>
             </ul>
             {syncStatus.lastSync && (
               <p className="text-xs text-muted-foreground mt-2">
