@@ -13,9 +13,10 @@
 3. [Current Events: The Wound is Healing (2025)](#current-events)
 4. [Historical Sabbath-Keepers: Eyewitness Testimony](#historical-witnesses)
 5. [The Mark of the Beast: Sabbath vs. Sunday](#the-mark)
-6. [The Final Generation: Hitting the Mark](#final-generation)
-7. [Ellen G. White's Prophetic Warnings](#egw-warnings)
-8. [The Call: #FlyTheSign #AvoidTheMark](#the-call)
+6. [The Jesuit Connection: Lincoln's Warning](#jesuits)
+7. [The Final Generation: Hitting the Mark](#final-generation)
+8. [Ellen G. White's Prophetic Warnings](#egw-warnings)
+9. [The Call: #FlyTheSign #AvoidTheMark](#the-call)
 
 ---
 
@@ -61,6 +62,14 @@ This is God's **seal of authority** — His signature on the law.
 - It demonstrates their authority over religious matters
 - It proves they claim power to change God's law
 
+### A Misquoted Quote?
+
+**C. F. Thomas, Chancellor for the Cardinal (November 11, 1895):**
+
+> "Of course the Catholic Church claims that the change was her act. It could not have been otherwise, as none in those days would have dreamed of doing anything in matters spiritual, and ecclesiastical, and religious without her. And the act is a mark of her ecclesiastical power and authority in religious matters."
+
+**Context:** Thomas was responding to questions about the Sabbath change. While some claim this quote is "misquoted," the admission remains clear: **the Catholic Church claims the change was their act, and the act is a mark of their authority.**
+
 ### Daniel's Prophecy Fulfilled
 
 > **"And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."**  
@@ -74,15 +83,11 @@ The little horn (papal power) would **"think to change times and laws"** — exa
 
 ### King Charles & Pope Leo: October 23, 2025
 
-![King Charles and Pope Leo at Vatican](./sabbath/IMG_7414.jpeg)
-
 **The Royal Family (@RoyalFamily) — October 23, 2025:**
 
 > "The King and Queen, accompanied by Pope Leo, have attended a special service in the Sistine Chapel, **marking the joining of hands between the Catholic Church and Church of England**, in a celebration of ecumenism."
 
 ### First Time in 500 Years
-
-![First time in 500 years](./sabbath/IMG_7383.jpeg)
 
 **CNBC TV18 — October 23, 2025:**
 
@@ -112,8 +117,6 @@ The little horn (papal power) would **"think to change times and laws"** — exa
 
 ### Samuel Purchas (1625) — Ethiopian Sabbath-Keepers
 
-![Samuel Purchas testimony](./sabbath/IMG_7294.png)
-
 **Samuel Purchas, *His Pilgrimes* (1625):**
 
 > **"They keep Saturday holy**, nor esteem the Saturday fast lawful, but on Easter even. They have solemn service on Saturdays... like the Jews."
@@ -121,8 +124,6 @@ The little horn (papal power) would **"think to change times and laws"** — exa
 **Context:** Purchas documented that Ethiopian and Syrian Christians in the 17th century still kept the seventh-day Sabbath, demonstrating that Sabbath-keeping continued outside of Rome's influence.
 
 ### Peter Chamberlen (1673) — Court Physician's Warning
-
-![Peter Chamberlen warning](./sabbath/IMG_7298.png)
 
 **Peter Chamberlen, Letter to Archbishop Sheldon (October 2, 1673):**
 
@@ -159,15 +160,11 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 
 ### The Sabbath: A Sign of Loyalty
 
-![Sabbath as sign](./sabbath/IMG_7303.png)
-
 **Robert Boyle, *A Defence of Natural and Revealed Religion* (1691-1732):**
 
 > "The Sabbath being thus a Sign, a Mark, or Badge, to acknowledge God to be their God, it follows, that a Neglect or Contempt of that Day, redounded to the dishonor of God; to slight that, was slighting God; to profane that, was to affront God."
 
 ### The Mark: Enforced Sunday Observance
-
-![Catholic admission](./sabbath/IMG_7532.png)
 
 **C. F. Thomas, Chancellor of Cardinal Gibbons (November 11, 1895):**
 
@@ -175,19 +172,69 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 
 ### The Final Test
 
-![Avoid the mark](./sabbath/IMG_7304.png)
-
 **E. Elwall, *The True and Sure Way* (18th century):**
 
 > "...his own Heart. And there God sets a Mark of Infamy upon him for it, to all Generations, 1 Kings xii. 33. which might to be a Warning to all Mankind, never to do as he did, nor to **set up our Posts by God's Posts**, but obey him, and keep that Day which he has commanded, that is, **the seventh Day is the Sabbath of the Lord thy God**. And what a base Mouth must that be, which calls any other Day a Sabbath that God never call'd so!"
 
+### Beware the Little Horn
+
+**George Carlow, *Observations on Mr. Ward* (18th century):**
+
+> "God, which is the detestable Design of the **little Horn, the Changer of Time and Laws**, *Dan.* 7. 25. What, Charge that upon Christ which is the proper Presumption of Antichrist? Is not this the Whore of *Babylon's* Mark to change the Saints Time; and suitable is that Word in this Case, *Remove from me the way of Lying, and grant me thy Law graciously*, Pfal. 119. 29."
+
 ---
 
-## <a name="final-generation"></a>6. The Final Generation: Hitting the Mark
+## <a name="jesuits"></a>6. The Jesuit Connection: Lincoln's Warning
+
+### Abraham Lincoln (1865)
+
+**Abraham Lincoln, 16th President of the United States (1865):**
+
+> **"This war would never have been possible without the sinister influence of the Jesuits."**
+
+**Context:** Lincoln spoke these words shortly before his assassination, referring to the American Civil War. He recognized the Jesuit order's role in fomenting division and conflict in America.
+
+### The Jesuit Agenda
+
+The Society of Jesus (Jesuits) has historically been the papal power's primary instrument for:
+
+1. **Counter-Reformation** — Reversing Protestant gains
+2. **Political Manipulation** — Infiltrating governments and institutions
+3. **Suppression of Truth** — Persecuting Bible-believing Christians
+4. **Enforcing Papal Authority** — Advancing Rome's agenda worldwide
+
+### Historical Evidence
+
+- **Jesuit Oath:** Pledges absolute obedience to the Pope, including violence against "heretics"
+- **Expulsions:** Jesuits expelled from 83 countries/cities for subversive activities
+- **Assassinations:** Implicated in numerous political assassinations (Henry IV of France, William of Orange, etc.)
+- **American Infiltration:** Lincoln warned of their influence in American politics
+
+### The Connection to Prophecy
+
+**Revelation 13:11-12:**
+
+> "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon. And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed."
+
+**The second beast (United States):**
+- Rises from sparsely populated area ("earth")
+- Has "two horns like a lamb" (Protestantism + Republicanism)
+- **Speaks like a dragon** (enforces worship through civil power)
+- **Causes worship of first beast** (papal Rome)
+
+**The Jesuit role:**
+- Infiltrate American institutions
+- Erode Protestant principles
+- Promote ecumenism (returning to Rome)
+- Prepare for Sunday law enforcement
+
+**Lincoln's warning was prophetic.** The Jesuits' "sinister influence" continues today, working to unite church and state and enforce Rome's mark.
+
+---
+
+## <a name="final-generation"></a>7. The Final Generation: Hitting the Mark
 
 ### Keeping the Commandments = Life
-
-![Hitting the mark](./sabbath/IMG_7537.png)
 
 **Alonzo T. Jones, *Kansas Camp Meeting Sermons* (5.1):**
 
@@ -209,11 +256,9 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 
 ---
 
-## <a name="egw-warnings"></a>7. Ellen G. White's Prophetic Warnings
+## <a name="egw-warnings"></a>8. Ellen G. White's Prophetic Warnings
 
 ### We Have More to Fear from Within
-
-![EGW warning](./sabbath/IMG_7410.png)
 
 **Ellen G. White, *Selected Messages Book 1*, p. 122-123:**
 
@@ -237,23 +282,13 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 
 ---
 
-## <a name="the-call"></a>8. The Call: #FlyTheSign #AvoidTheMark
+## <a name="the-call"></a>9. The Call: #FlyTheSign #AvoidTheMark
 
 ### Get the Right Sign
-
-![Fly the sign](./sabbath/IMG_7305.png)
 
 **E. Elwall, *The True and Sure Way* (18th century):**
 
 > "...the seventh Day is the Sabbath of the Lord thy God. And what a base Mouth must that be, which calls any other Day a Sabbath that God never call'd so!"
-
-### Beware the Little Horn
-
-![Beware the little horn](./sabbath/IMG_7312.png)
-
-**George Carlow, *Observations on Mr. Ward* (18th century):**
-
-> "God, which is the detestable Design of the **little Horn, the Changer of Time and Laws**, *Dan.* 7. 25. What, Charge that upon Christ which is the proper Presumption of Antichrist? Is not this the Whore of *Babylon's* Mark to change the Saints Time; and suitable is that Word in this Case, *Remove from me the way of Lying, and grant me thy Law graciously*, Pfal. 119. 29."
 
 ### The Final Warning
 
@@ -289,6 +324,7 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 - **Prophetic:** The little horn changes times and laws (Daniel 7:25)
 - **Historical:** Rome admits the change is their mark (C.F. Thomas, 1895)
 - **Current:** The wound is healing (King Charles & Pope, 2025)
+- **Jesuit Influence:** Lincoln warned of their "sinister influence" (1865)
 - **Final:** The mark of the beast vs. the seal of God (Revelation 13-14)
 
 **"When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand)."**  
@@ -314,6 +350,7 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 - Robert Boyle, *A Defence of Natural and Revealed Religion* (1691-1732)
 - E. Elwall, *The True and Sure Way* (18th century)
 - George Carlow, *Observations on Mr. Ward* (18th century)
+- Abraham Lincoln, 16th President of the United States (1865)
 - C. F. Thomas, Chancellor of Cardinal Gibbons (November 11, 1895)
 - Ellen G. White, *Selected Messages Book 1* (1958)
 - Alonzo T. Jones, *Kansas Camp Meeting Sermons* (5.1)
