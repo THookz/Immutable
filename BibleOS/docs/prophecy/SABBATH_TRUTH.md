@@ -192,7 +192,20 @@ Throughout history, Sabbath-keeping communities existed outside of Rome's contro
 
 > **"This war would never have been possible without the sinister influence of the Jesuits."**
 
-**Context:** Lincoln spoke these words shortly before his assassination, referring to the American Civil War. He recognized the Jesuit order's role in fomenting division and conflict in America.
+> **"If the American people could learn what I know of the fierce hatred of the priests of Rome against our institutions, our schools, our most sacred rights, and our so dearly bought liberties, they would drive them away tomorrow from among us, or they would shoot them as traitors."**
+
+> **"I know that Jesuits never forget nor forsake. But man must not care how and where he dies, provided he dies at the post of honor and duty."**
+
+— *Fifty Years in the Church of Rome*, Charles Chiniquy, pages 697, 664
+
+**Context:** Lincoln spoke these words to his friend Charles Chiniquy, a former Catholic priest, shortly before his assassination. He recognized:
+
+1. **The Jesuit role in the Civil War** — Their "sinister influence" in fomenting division
+2. **Rome's hatred of American liberty** — Against institutions, schools, sacred rights, and liberties
+3. **The Jesuit vendetta** — "Never forget nor forsake" their enemies
+4. **His own courage** — Willing to die at his post of duty
+
+**Lincoln was assassinated on April 14, 1865**, just days after speaking these words. Strong evidence suggests Jesuit involvement in his death.
 
 ### The Jesuit Agenda
 
