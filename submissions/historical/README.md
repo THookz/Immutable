@@ -6,7 +6,8 @@ This folder contains historical records, early church writings, and Reformation 
 - Early Church Writings  
 - Persecution Records  
 - Reformation Documents  
-- Lost or Suppressed Christian Texts  
+- Lost or Suppressed Christian Texts
+- Current documentation echoing history repeating or fulfilling the ends of certain means. The subjects usually can be assumed to have a substantion impact (or potential impact) on the gerneeal population..of whom has little understanding of said subject matter. 
 
 --------
 
@@ -62,3 +63,12 @@ Explore the hidden threads of power that weave through centuries of religious an
 📕 [Jesuits, Freemasons & the Illuminati](https://amazingdiscoveries.org/ebook/jesuits-freemasons-and-the-illuminati/download) 
 
 prepare to confront truths too often excluded from conventional narratives
+
+------
+
+American Churches Unite with Israel to create The largest Geofencing and Christian Targeting campaign in US History.
+
+This specific initiative is designed to "Geofence and digitally target Christians who attend any US megachurch in our target markets and beyond. Use digital tools to identify and show pro-lsrael, anti Palestinian messaging to US Christians and Catholics in English and Spanish."
+   
+
+[Current documentation between the Heads and other dimplomatic (figure) heads of religious bodies of America and the State of Israel](https://github.com/THookz/Immutable/blob/main/submissions/historical/The%20plan%20.pdf)
